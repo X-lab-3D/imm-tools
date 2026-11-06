@@ -1,0 +1,26 @@
+{
+ "version": "2026.11",
+ "date": "2026-11-05",
+ "sequences_per_model": {
+  "mhc_broad": {
+   "C_ALPHA3": 10352,
+   "C_B2M": 1067,
+   "C_IIA": 2857,
+   "C_IIB": 4475,
+   "G_ALPHA": 4090,
+   "G_ALPHA1": 14141,
+   "G_ALPHA2": 15411,
+   "G_BETA": 17072
+  },
+  "mhc_mammal": {
+   "C_ALPHA3": 10401,
+   "C_B2M": 1061,
+   "C_IIA": 2848,
+   "C_IIB": 1287,
+   "G_ALPHA": 2911,
+   "G_ALPHA1": 13380,
+   "G_ALPHA2": 15006,
+   "G_BETA": 4369
+  }
+ }
+}
