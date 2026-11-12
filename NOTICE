@@ -1,0 +1,13 @@
+imm-tools
+Copyright (c) 2026 <Li Xue>
+
+This product is licensed under the Apache License, Version 2.0 (see LICENSE).
+
+Third-party components (see README, "Acknowledgements and third-party components"):
+- ANARCI, (c) Oxford Protein Informatics Group, BSD-3-Clause; used through the pyhmmer port
+  by David Prihoda (https://github.com/prihoda/ANARCI), packaged as anarci-pyhmmer from
+  https://github.com/X-lab-3D/ANARCI-pyhmmer-fork (a dependency, not redistributed here).
+- The MHC and TCR-constant models and the MHC reference sequences in immtools/models are
+  derived from data of IMGT (https://www.imgt.org; CC BY 4.0), IPD-IMGT/HLA and IPD-MHC
+  (https://www.ebi.ac.uk/ipd/; CC BY-ND), UniProt (CC BY 4.0) and AlphaFold DB (CC BY 4.0);
+  their terms apply. IMGT(R) is a registered trademark of CNRS.

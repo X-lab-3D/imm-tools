@@ -1,0 +1,45 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "imm-tools"
+version = "0.4.0"
+description = "Consistent IMGT numbering and chain IDs for TCR-pMHC structures (TCR, MHC of any species, beta2m, peptide); pdb-tools-style command-line tools and a Python interface."
+readme = "README.md"
+requires-python = ">=3.9"
+license = {text = "Apache-2.0"}
+classifiers = [
+    "License :: OSI Approved :: Apache Software License",
+    "Programming Language :: Python :: 3",
+    "Topic :: Scientific/Engineering :: Bio-Informatics",
+]
+dependencies = [
+    "pyhmmer>=0.10.15,<0.13",
+    "biopython>=1.80",
+    "numpy>=1.24",
+    "pdb-tools>=2.5",
+    "gemmi>=0.6",
+    # ANARCI on pyhmmer with the IMGT HMMs included (X-lab-3D fork of David Prihoda's port).
+    # Not on PyPI: installed from the fork, pinned to a commit.
+    "anarci-pyhmmer @ git+https://github.com/X-lab-3D/ANARCI-pyhmmer-fork.git@20fa3e4baadafb61ed5c1a87720e19dd03bb4a04",
+]
+
+[project.scripts]
+imm_annotate = "immtools.imm_annotate:main"
+imm_cdr = "immtools.imm_cdr:main"
+imm_check = "immtools.imm_check:main"
+imm_complex = "immtools.imm_complex:main"
+imm_mhcnum = "immtools.imm_mhcnum:main"
+imm_pepnum = "immtools.imm_pepnum:main"
+imm_rechain = "immtools.imm_rechain:main"
+imm_seq = "immtools.imm_seq:main"
+imm_setup = "immtools.imm_setup:main"
+imm_split = "immtools.imm_split:main"
+imm_tcrnum = "immtools.imm_tcrnum:main"
+
+[tool.setuptools]
+packages = ["immtools"]
+
+[tool.setuptools.package-data]
+immtools = ["models/*/*", "models/*.gz", "models/*.json"]
