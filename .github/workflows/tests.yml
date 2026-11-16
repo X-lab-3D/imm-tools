@@ -1,0 +1,28 @@
+name: tests
+
+on:
+  push:
+  pull_request:
+
+jobs:
+  test:
+    runs-on: ${{ matrix.os }}
+    strategy:
+      fail-fast: false
+      matrix:
+        os: [ubuntu-latest, macos-latest]
+        python-version: ["3.9", "3.12", "3.13"]
+        exclude:
+          # Python 3.9 is end-of-life and no longer built for new Ubuntu runners;
+          # it is still tested on macOS, where it is the system Python
+          - os: ubuntu-latest
+            python-version: "3.9"
+    steps:
+    - uses: actions/checkout@v4
+    - uses: actions/setup-python@v5
+      with:
+        python-version: ${{ matrix.python-version }}
+    - name: Install
+      run: pip install . pytest
+    - name: Test
+      run: pytest -q tests

@@ -1,0 +1,7670 @@
+{
+ "description": "MHC numbering models, mammal-focused set",
+ "models": {
+  "C_ALPHA3": {
+   "grid": "C",
+   "n_seqs": 10401,
+   "species": {
+    "Bos taurus": 147,
+    "Canis lupus": 23,
+    "Mus musculus": 107,
+    "Pongo pygmaeus": 15,
+    "Rattus norvegicus": 107,
+    "Homo sapiens": 217,
+    "Pan troglodytes": 35,
+    "Gorilla gorilla": 35,
+    "Macaca mulatta": 292,
+    "Saguinus oedipus": 27,
+    "Oryctolagus cuniculus": 17,
+    "Marmota marmota": 17,
+    "Molossus molossus": 10,
+    "Desmodus rotundus": 15,
+    "Peromyscus maniculatus": 78,
+    "Phyllostomus discolor": 48,
+    "Sciurus vulgaris": 14,
+    "Bison bison": 21,
+    "Capra hircus": 24,
+    "Microcebus murinus": 14,
+    "Spermophilus dauricus": 30,
+    "Ovis aries": 31,
+    "Bos indicus": 38,
+    "Elaphurus davidianus": 5,
+    "Muntiacus reevesi": 17,
+    "Cervus hanglu": 7,
+    "Bos grunniens": 19,
+    "Moschus moschiferus": 10,
+    "Ovis ammon": 16,
+    "Nyctereutes procyonoides": 6,
+    "Carlito syrichta": 9,
+    "Bos mutus": 7,
+    "Dipodomys ordii": 7,
+    "Tragelaphus spekii": 5,
+    "Octodon degus": 11,
+    "Tragelaphus strepsiceros": 1,
+    "Otolemur garnettii": 18,
+    "Myotis lucifugus": 50,
+    "Cricetulus griseus": 47,
+    "Papio cynocephalus": 2,
+    "Macaca fascicularis": 402,
+    "Urocitellus parryii": 22,
+    "Vulpes vulpes": 7,
+    "Hylobates lar": 5,
+    "Macaca thibetana": 21,
+    "Castor canadensis": 13,
+    "Hipposideros armiger": 18,
+    "Myotis brandtii": 17,
+    "Myotis davidii": 13,
+    "Sus scrofa": 185,
+    "Trichechus manatus": 12,
+    "Mustela putorius": 15,
+    "Macaca assamensis": 5,
+    "Nomascus leucogenys": 17,
+    "Papio anubis": 65,
+    "Colobus angolensis": 13,
+    "Bison bonasus": 4,
+    "Cervus elaphus": 14,
+    "Ictidomys tridecemlineatus": 25,
+    "Myotis myotis": 9,
+    "Mandrillus leucophaeus": 17,
+    "Pongo abelii": 18,
+    "Cercopithecus mitis": 6,
+    "Cercocebus atys": 74,
+    "Chlorocebus sabaeus": 50,
+    "Macaca nemestrina": 105,
+    "Macaca leonina": 7,
+    "Chlorocebus pygerythrus": 33,
+    "Rhinopithecus bieti": 13,
+    "Nannospalax galili": 15,
+    "Piliocolobus tephrosceles": 15,
+    "Saguinus labiatus": 5,
+    "Cavia porcellus": 13,
+    "Macaca arctoides": 7,
+    "Chlorocebus aethiops": 25,
+    "Muntiacus muntjak": 16,
+    "Pipistrellus kuhlii": 10,
+    "Theropithecus gelada": 16,
+    "Papio hamadryas": 2,
+    "Orycteropus afer": 14,
+    "Neogale vison": 11,
+    "Propithecus coquereli": 10,
+    "Rhinopithecus roxellana": 15,
+    "Saimiri boliviensis": 21,
+    "Loxodonta africana": 23,
+    "Pan paniscus": 10,
+    "Odocoileus virginianus": 11,
+    "Mus spicilegus": 25,
+    "Galemys pyrenaicus": 38,
+    "Cnephaeus nilssonii": 12,
+    "Acinonyx jubatus": 12,
+    "Equus caballus": 74,
+    "Pithecia pithecia": 6,
+    "Callithrix jacchus": 60,
+    "Phodopus roborovskii": 22,
+    "Ailuropoda melanoleuca": 13,
+    "Tupaia chinensis": 5,
+    "Ursus americanus": 10,
+    "Saimiri sciureus": 13,
+    "Neotoma lepida": 32,
+    "Marmota monax": 21,
+    "Tursiops truncatus": 12,
+    "Leontocebus fuscicollis": 3,
+    "Sigmodon hispidus": 8,
+    "Lagothrix lagotricha": 4,
+    "Cebus albifrons": 41,
+    "Ateles hybridus": 4,
+    "Sapajus apella": 33,
+    "Chrysochloris asiatica": 13,
+    "Xanthonycticebus pygmaeus": 1,
+    "Ateles belzebuth": 7,
+    "Cebus imitator": 27,
+    "Chinchilla lanigera": 6,
+    "Equus asinus": 41,
+    "Daubentonia madagascariensis": 11,
+    "Alouatta seniculus": 5,
+    "Lynx canadensis": 12,
+    "Myodes glareolus": 38,
+    "Mus caroli": 34,
+    "Panthera tigris": 7,
+    "Leopardus pardalis": 4,
+    "Crocuta crocuta": 7,
+    "Aotus nancymaae": 34,
+    "Sciurus carolinensis": 7,
+    "Aotus lemurinus": 4,
+    "Rhinolophus ferrumequinum": 14,
+    "Monodon monoceros": 3,
+    "Panthera leo": 12,
+    "Equus przewalskii": 31,
+    "Aotus trivirgatus": 3,
+    "Leontopithecus rosalia": 2,
+    "Delphinapterus leucas": 8,
+    "Balaenoptera acutorostrata": 11,
+    "Puma concolor": 5,
+    "Ateles fusciceps": 16,
+    "Aotus vociferans": 3,
+    "Panthera pardus": 11,
+    "Camelus dromedarius": 11,
+    "Phocoena sinus": 2,
+    "Aotus nigriceps": 3,
+    "Cebus capucinus": 2,
+    "Enhydra lutris": 12,
+    "Felis catus": 34,
+    "Erinaceus europaeus": 23,
+    "Lynx pardinus": 11,
+    "Diceros bicornis": 14,
+    "Giraffa camelopardalis": 3,
+    "Pteropus vampyrus": 12,
+    "Fukomys damarensis": 9,
+    "Neophocaena asiaeorientalis": 8,
+    "Physeter macrocephalus": 8,
+    "Lipotes vexillifer": 3,
+    "Zalophus californianus": 11,
+    "Rousettus aegyptiacus": 7,
+    "Camelus ferus": 6,
+    "Balaenoptera musculus": 7,
+    "Prolemur simus": 7,
+    "Tupaia belangeri": 14,
+    "Lemur catta": 8,
+    "Suricata suricatta": 12,
+    "Camelus bactrianus": 7,
+    "Mesocricetus auratus": 48,
+    "Saguinus leucopus": 2,
+    "Heterocephalus glaber": 4,
+    "Meles meles": 2,
+    "Halichoerus grypus": 9,
+    "Phoca vitulina": 6,
+    "Sciurus aberti": 2,
+    "Pteropus alecto": 6,
+    "Leptonychotes weddellii": 7,
+    "Jaculus jaculus": 4,
+    "Ursus maritimus": 4,
+    "Neomonachus schauinslandi": 10,
+    "Dicerorhinus sumatrensis": 2,
+    "Eschrichtius robustus": 1,
+    "Neophocaena phocaenoides": 3,
+    "Stenella attenuata": 4,
+    "Sousa chinensis": 5,
+    "Equus hemionus": 3,
+    "Bos gaurus": 2,
+    "Equus grevyi": 6,
+    "Catagonus wagneri": 16,
+    "Odobenus rosmarus": 9,
+    "Peromyscus leucopus": 3,
+    "Mus terricolor": 3,
+    "Mus macedonicus": 1,
+    "Mus setulosus": 2,
+    "Mus pahari": 3,
+    "Mus minutoides": 2,
+    "Rhinoceros unicornis": 4,
+    "Cephalorhynchus hectori": 1,
+    "Balaenoptera physalus": 2,
+    "Rangifer tarandus": 10,
+    "Tragelaphus angasii": 1,
+    "Apodemus speciosus": 19,
+    "Pipistrellus nathusii": 7,
+    "Echinops telfairi": 9,
+    "Galeopterus variegatus": 11,
+    "Bogr": 3,
+    "Semnopithecus entellus": 3,
+    "Nasalis larvatus": 7,
+    "Pygathrix nigripes": 4,
+    "Popy": 2,
+    "Maar": 1,
+    "Chae": 3,
+    "Ceat": 2,
+    "Microtus ochrogaster": 25,
+    "Ceratotherium simum": 22,
+    "Vicugna pacos": 11,
+    "Saoe": 2,
+    "Syncerus caffer": 2,
+    "Bubalus bubalis": 2,
+    "Mane": 8,
+    "Malo": 1,
+    "Caja": 17,
+    "Gallus gallus": 111,
+    "Anas platyrhynchos": 115,
+    "Bambusicola thoracicus": 3,
+    "Aythya fuligula": 8,
+    "Anser cygnoides": 5,
+    "Chrysolophus pictus": 7,
+    "Anas zonorhyncha": 6,
+    "Anser anser": 5,
+    "Anser brachyrhynchus": 3,
+    "Meleagris gallopavo": 4,
+    "Phasianus colchicus": 2,
+    "Coturnix japonica": 9,
+    "Numida meleagris": 1,
+    "Cairina moschata": 1,
+    "Lyrurus tetrix": 2,
+    "Alectura lathami": 1,
+    "Callipepla squamata": 1,
+    "Callorhinus ursinus": 6,
+    "Mico argentatus": 1,
+    "Erythrocebus patas": 1,
+    "Scleropages formosus": 13,
+    "Oncorhynchus tshawytscha": 16,
+    "Salmo trutta": 26,
+    "Hucho hucho": 26,
+    "Umbra pygmaea": 11,
+    "Esox lucius": 17,
+    "Salmo salar": 32,
+    "Oncorhynchus nerka": 4,
+    "Oncorhynchus mykiss": 50,
+    "Salvelinus namaycush": 19,
+    "Coregonus suidteri": 15,
+    "Salvelinus alpinus": 1,
+    "Oncorhynchus kisutch": 13,
+    "Oncorhynchus gorbuscha": 1,
+    "Dallia pectoralis": 11,
+    "Mugilogobius chulae": 17,
+    "Plecoglossus altivelis": 3,
+    "Anabas testudineus": 29,
+    "Pundamilia nyererei": 18,
+    "Oreochromis aureus": 77,
+    "Lates calcarifer": 60,
+    "Oryzias melastigma": 40,
+    "Seriola lalandi": 28,
+    "Oreochromis niloticus": 75,
+    "Channa striata": 13,
+    "Seriola dumerili": 21,
+    "Xiphophorus couchianus": 23,
+    "Parambassis ranga": 52,
+    "Maylandia zebra": 60,
+    "Dicentrarchus labrax": 64,
+    "Betta splendens": 10,
+    "Amphiprion percula": 19,
+    "Haplochromis burtoni": 29,
+    "Perca flavescens": 13,
+    "Neolamprologus brichardi": 33,
+    "Xyrichtys novacula": 8,
+    "Kryptolebias marmoratus": 10,
+    "Channa argus": 24,
+    "Amphilophus citrinellus": 28,
+    "Amphiprion ocellaris": 12,
+    "Mastacembelus armatus": 15,
+    "Sparus aurata": 77,
+    "Scomber scombrus": 37,
+    "Sander lucioperca": 43,
+    "Monopterus albus": 11,
+    "Perca fluviatilis": 28,
+    "Larimichthys crocea": 2,
+    "Astatotilapia calliptera": 16,
+    "Collichthys lucidus": 5,
+    "Dissostichus mawsoni": 10,
+    "Pagothenia borchgrevinki": 5,
+    "Scatophagus argus": 18,
+    "Takifugu rubripes": 18,
+    "Oryzias sinensis": 24,
+    "Zoarces viviparus": 14,
+    "Sander vitreus": 7,
+    "Stegastes partitus": 9,
+    "Labrus bergylta": 32,
+    "Takifugu flavidus": 6,
+    "Miichthys miiuy": 1,
+    "Cyclopterus lumpus": 7,
+    "Gasterosteus aculeatus": 21,
+    "Dissostichus eleginoides": 8,
+    "Trachinotus ovatus": 13,
+    "Epinephelus akaara": 1,
+    "Scophthalmus maximus": 5,
+    "Cottoperca gobio": 2,
+    "Eleginops maclovinus": 3,
+    "Champsocephalus gunnari": 3,
+    "Pogonophryne albipinna": 10,
+    "Champsocephalus esox": 3,
+    "Fundulus heteroclitus": 39,
+    "Sphaeramia orbicularis": 21,
+    "Epinephelus coioides": 2,
+    "Odontobutis potamophilus": 2,
+    "Gymnodraco acuticeps": 3,
+    "Mugil incilis": 1,
+    "Aulonocara hansbaenschi": 3,
+    "Lutjanus sanguineus": 1,
+    "Acanthochromis polyacanthus": 7,
+    "Siniperca chuatsi": 1,
+    "Sarotherodon galilaeus": 34,
+    "Characodon lateralis": 4,
+    "Ataeniobius toweri": 5,
+    "Nibea albiflora": 4,
+    "Scortum barcoo": 10,
+    "Xenotaenia resolanae": 3,
+    "Poecilia reticulata": 27,
+    "Oreochromis mossambicus": 1,
+    "Poecilia latipinna": 25,
+    "Poecilia mexicana": 10,
+    "Tetraodon nigroviridis": 10,
+    "Cyprinodon variegatus": 31,
+    "Gambusia affinis": 1,
+    "Xiphophorus maculatus": 23,
+    "Poecilia formosa": 15,
+    "Ilyodon furcidens": 2,
+    "Triplophysa rosa": 9,
+    "Triplophysa tibetana": 10,
+    "Paramormyrops kingsleyae": 18,
+    "Gadus morhua": 198,
+    "Merluccius polli": 39,
+    "Muraenolepis orangiensis": 13,
+    "Melanogrammus aeglefinus": 14,
+    "Boreogadus saida": 16,
+    "Lota lota": 17,
+    "Merluccius merluccius": 2,
+    "Arctogadus glacialis": 10,
+    "Varanus komodoensis": 31,
+    "Hemibagrus wyckioides": 22,
+    "Hemibagrus guttatus": 24,
+    "Tachysurus vachellii": 17,
+    "Oryzias latipes": 46,
+    "Oryzias javanicus": 23,
+    "Crenichthys baileyi": 3,
+    "Ameca splendens": 5,
+    "Mus platythrix": 1,
+    "Mus cookii": 1,
+    "Mus abbotti": 1,
+    "Mus shortridgei": 4,
+    "Myripristis murdjan": 46,
+    "Neogobius melanostomus": 34,
+    "Cynoglossus semilaevis": 8,
+    "Pogona vitticeps": 18,
+    "Ctenophorus decresii": 6,
+    "Carassius auratus": 42,
+    "Sinocyclocheilus rhinocerous": 56,
+    "Cyprinus carpio": 71,
+    "Danionella cerebrum": 7,
+    "Hippocampus comes": 29,
+    "Echeneis naucrates": 7,
+    "Pangasianodon hypophthalmus": 17,
+    "Clarias magur": 32,
+    "Ictalurus punctatus": 35,
+    "Ameiurus melas": 16,
+    "Silurus asotus": 25,
+    "Pangasianodon gigas": 9,
+    "Pangasius djambal": 11,
+    "Chanos chanos": 24,
+    "Menidia menidia": 3,
+    "Phrynocephalus forsythii": 5,
+    "Denticeps clupeoides": 49,
+    "Periophthalmus magnuspinnatus": 23,
+    "Iguana iguana": 2,
+    "Amblyrhynchus cristatus": 4,
+    "Anolis carolinensis": 29,
+    "Conolophus subcristatus": 2,
+    "Phrynosoma platyrhinos": 8,
+    "Megalops atlanticus": 11,
+    "Mola mola": 7,
+    "Labeo rohita": 48,
+    "Sinocyclocheilus grahami": 43,
+    "Carassius langsdorfii": 3,
+    "Cirrhinus molitorella": 35,
+    "Cyanoderma ruficeps": 19,
+    "Lepidothrix coronata": 4,
+    "Chaetops frenatus": 2,
+    "Xiphorhynchus elegans": 4,
+    "Origma solitaria": 2,
+    "Passerina amoena": 1,
+    "Pipra filicauda": 12,
+    "Corvus moneduloides": 7,
+    "Neopipo cinnamomea": 3,
+    "Mionectes macconnelli": 1,
+    "Mohoua ochrocephala": 2,
+    "Tachuris rubrigastra": 2,
+    "Onychorhynchus coronatus": 1,
+    "Aphelocoma coerulescens": 2,
+    "Pachycephala philippinensis": 1,
+    "Hirundo rustica": 7,
+    "Dicrurus megarhynchus": 2,
+    "Atrichornis clamosus": 1,
+    "Helopsaltes ochotensis": 2,
+    "Callaeas wilsoni": 1,
+    "Sakesphorus luctuosus": 3,
+    "Pteruthius melanotis": 2,
+    "Zonotrichia albicollis": 4,
+    "Piprites chloris": 3,
+    "Erpornis zantholeuca": 1,
+    "Melospiza melodia": 5,
+    "Dicaeum eximium": 1,
+    "Menura novaehollandiae": 7,
+    "Falcunculus frontatus": 1,
+    "Taeniopygia guttata": 4,
+    "Dasyornis broadbenti": 2,
+    "Climacteris rufus": 2,
+    "Eulacestoma nigropectus": 2,
+    "Lamprotornis superbus": 3,
+    "Cyanistes caeruleus": 13,
+    "Catharus ustulatus": 6,
+    "Serinus canaria": 6,
+    "Junco hyemalis": 1,
+    "Acrocephalus arundinaceus": 7,
+    "Chloebia gouldiae": 1,
+    "Zosterops borbonicus": 3,
+    "Geospiza fortis": 3,
+    "Geospiza parvula": 5,
+    "Ficedula albicollis": 3,
+    "Emberiza fucata": 2,
+    "Nesospiza acunhae": 1,
+    "Rhodinocichla rosea": 3,
+    "Edolisoma coerulescens": 1,
+    "Leiothrix lutea": 8,
+    "Molothrus ater": 4,
+    "Copsychus sechellarum": 3,
+    "Vidua macroura": 1,
+    "Erythrocercus mccallii": 4,
+    "Erithacus rubecula": 3,
+    "Agelaius phoeniceus": 2,
+    "Rhabdornis inornatus": 3,
+    "Sylvietta virens": 2,
+    "Oenanthe oenanthe": 1,
+    "Calcarius ornatus": 5,
+    "Bombycilla garrulus": 1,
+    "Oxylabes madagascariensis": 1,
+    "Pomatostomus ruficeps": 4,
+    "Pomatorhinus ruficollis": 5,
+    "Aegithalos caudatus": 1,
+    "Dryoscopus gambensis": 1,
+    "Motacilla alba": 1,
+    "Toxostoma redivivum": 1,
+    "Loxia curvirostra": 2,
+    "Orthonyx spaldingii": 1,
+    "Sylvia borin": 1,
+    "Cettia cetti": 3,
+    "Donacobius atricapilla": 1,
+    "Cardinalis cardinalis": 1,
+    "Cnemophilus loriae": 2,
+    "Gymnorhina tibicen": 1,
+    "Vidua chalybeata": 1,
+    "Platysteira castanea": 1,
+    "Poecile atricapillus": 1,
+    "Cephalopterus ornatus": 1,
+    "Oriolus oriolus": 1,
+    "Hippolais icterina": 1,
+    "Drymodes brunneopygia": 1,
+    "Corvus brachyrhynchos": 1,
+    "Hylia prasina": 1,
+    "Smithornis capensis": 5,
+    "Mystacornis crossleyi": 1,
+    "Acrocephalus schoenobaenus": 10,
+    "Setophaga kirtlandii": 1,
+    "Willisornis vidua": 2,
+    "Mimus melanotis": 1,
+    "Zosterops lateralis": 4,
+    "Pantherophis guttatus": 52,
+    "Notechis scutatus": 29,
+    "Crotalus adamanteus": 35,
+    "Python bivittatus": 21,
+    "Thamnophis sirtalis": 14,
+    "Naja naja": 61,
+    "Onychostoma macrolepis": 8,
+    "Cirrhinus mrigala": 8,
+    "Gouania willdenowi": 26,
+    "Acipenser dabryanus": 11,
+    "Acipenser oxyrinchus": 29,
+    "Polyodon spathula": 4,
+    "Acipenser sinensis": 13,
+    "Huso huso": 22,
+    "Calidris pygmaea": 4,
+    "Strigops habroptila": 2,
+    "Grus japonensis": 2,
+    "Antigone canadensis": 1,
+    "Nipponia nippon": 5,
+    "Buteo japonicus": 2,
+    "Chroicocephalus scopulinus": 2,
+    "Calidris canutus": 9,
+    "Egretta eulophotes": 3,
+    "Aquila chrysaetos": 2,
+    "Ciconia boyciana": 1,
+    "Crotophaga sulcirostris": 1,
+    "Egretta garzetta": 1,
+    "Zapornia atra": 1,
+    "Charadrius vociferus": 1,
+    "Limosa limosa": 4,
+    "Spheniscus humboldti": 5,
+    "Podarcis lilfordi": 8,
+    "Podarcis muralis": 27,
+    "Pseudonaja textilis": 29,
+    "Ophiophagus hannah": 12,
+    "Conger conger": 8,
+    "Notamacropus eugenii": 34,
+    "Phascolarctos cinereus": 19,
+    "Monodelphis domestica": 36,
+    "Vombatus ursinus": 30,
+    "Notamacropus": 3,
+    "Isoodon macrourus": 2,
+    "Sarcophilus harrisii": 15,
+    "Trichosurus vulpecula": 9,
+    "Wallabia bicolor": 1,
+    "Xenopus laevis": 54,
+    "Xenopus tropicalis": 28,
+    "Aldrovandia affinis": 21,
+    "Astyanax mexicanus": 54,
+    "Erpetoichthys calabaricus": 16,
+    "Polypterus senegalus": 8,
+    "Pseudophryne corroboree": 2,
+    "Alligator mississippiensis": 24,
+    "Alligator sinensis": 19,
+    "Crocodylus porosus": 7,
+    "Caiman crocodilus": 6,
+    "Melanosuchus niger": 1,
+    "Crocodylus palustris": 1,
+    "Crocodylus mindorensis": 2,
+    "Caiman latirostris": 3,
+    "Crocodylus siamensis": 1,
+    "Crocodylus acutus": 2,
+    "Salarias fasciatus": 61,
+    "Microcaecilia unicolor": 8,
+    "Geotrypetes seraphini": 6,
+    "Synaphobranchus kaupii": 5,
+    "Anguilla anguilla": 7,
+    "Albula goreensis": 9,
+    "Phoxinus phoxinus": 12,
+    "Sphenodon punctatus": 13,
+    "Nothobranchius furzeri": 5,
+    "Laticauda laticaudata": 12,
+    "Oryzias dancena": 7,
+    "Oryzias luzonensis": 4,
+    "Ctenopharyngodon idella": 110,
+    "Sinocyclocheilus anshuiensis": 32,
+    "Danio rerio": 14,
+    "Culter alburnus": 22,
+    "Anabarilius grahami": 13,
+    "Hypophthalmichthys molitrix": 31,
+    "Megalobrama amblycephala": 23,
+    "Labeobarbus intermedius": 13,
+    "Leuciscus chuanchicus": 19,
+    "Leuciscus waleckii": 12,
+    "Eleutherodactylus coqui": 19,
+    "Engystomops pustulosus": 8,
+    "Rhinella marina": 1,
+    "Smilisca phaeota": 5,
+    "Agalychnis callidryas": 14,
+    "Espadarana prosoblepon": 10,
+    "Dryophytes japonicus": 9,
+    "Bufotes viridis": 9,
+    "Ranitomeya imitator": 4,
+    "Goodea atripinnis": 2,
+    "Acipenser ruthenus": 6,
+    "Knipowitschia caucasica": 8,
+    "Pelusios castaneus": 18,
+    "Chelydra serpentina": 19,
+    "Chrysemys picta": 38,
+    "Gopherus evgoodei": 31,
+    "Pleuronectes platessa": 5,
+    "Paralichthys olivaceus": 5,
+    "Verasper variegatus": 1,
+    "Latimeria chalumnae": 22,
+    "Etheostoma spectabile": 1,
+    "Pelobates cultripes": 14,
+    "Atractosteus spatula": 5,
+    "Eublepharis macularius": 26,
+    "Gekko japonicus": 20,
+    "Sphaerodactylus townsendi": 5,
+    "Pygocentrus nattereri": 68,
+    "Electrophorus voltai": 8,
+    "Electrophorus electricus": 21,
+    "Lepisosteus oculatus": 3,
+    "Ornithorhynchus anatinus": 21,
+    "Chelonoidis abingdonii": 28,
+    "Terrapene triunguis": 13,
+    "Mauremys mutica": 3,
+    "Platysternon megacephalum": 5,
+    "Gopherus agassizii": 10,
+    "Lepidochelys olivacea": 10,
+    "Caretta caretta": 12,
+    "Centropus unirufus": 1,
+    "Cuculus canorus": 3,
+    "Centropus bengalensis": 2,
+    "Silurus meridionalis": 17,
+    "Bagarius yarrelli": 3,
+    "Leptobrachium leishanense": 55,
+    "Pyxicephalus adspersus": 10,
+    "Psilopogon haemacephalus": 2,
+    "Chaetura pelagica": 1,
+    "Pelodiscus sinensis": 5,
+    "Albula glossodonta": 8,
+    "Apteryx owenii": 9,
+    "Dromaius novaehollandiae": 6,
+    "Struthio camelus": 1,
+    "Apteryx mantelli": 14,
+    "Chelonia mydas": 1,
+    "Lepidochelys kempii": 7,
+    "Salvator merianae": 42,
+    "Tiliqua rugosa": 6,
+    "Ameiva ameiva": 2,
+    "Tachyglossus aculeatus": 2,
+    "Oplegnathus fasciatus": 1,
+    "Bufo gargarizans": 10,
+    "Callorhinchus milii": 23,
+    "Rana dybowskii": 1,
+    "Zhangixalus chenfui": 13,
+    "Lithobates pipiens": 3,
+    "Pelophylax nigromaculatus": 1,
+    "Aquarana catesbeiana": 11,
+    "Odorrana margaretae": 10,
+    "Rana japonica": 6,
+    "Rana ornativentris": 13,
+    "Rana tagoi": 18,
+    "Lithobates clamitans": 13,
+    "Lithobates yavapaiensis": 9,
+    "Staurois parvus": 7,
+    "Chaenocephalus aceratus": 1,
+    "Andrias davidianus": 16,
+    "Scyliorhinus torazame": 6,
+    "Clupea harengus": 18,
+    "Polypedates megacephalus": 7,
+    "Zhangixalus omeimontis": 14,
+    "Coilia grayii": 9,
+    "Amazona collaria": 2,
+    "Melopsittacus undulatus": 3,
+    "Columba livia": 1,
+    "Amazona guildingii": 1,
+    "Atlantisia rogersi": 2,
+    "Austrofundulus limnaeus": 4,
+    "Pleurodeles waltl": 11,
+    "Lissotriton vulgaris": 12,
+    "Strix occidentalis": 10,
+    "Mycteria americana": 2,
+    "Athene cunicularia": 2,
+    "Patagioenas fasciata": 1,
+    "Tauraco erythrolophus": 1,
+    "Opisthocomus hoazin": 1,
+    "Halobaena caerulea": 4,
+    "Mesitornis unicolor": 1,
+    "Ambystoma mexicanum": 3,
+    "Xenopus laevis/gilli": 4,
+    "Xenopus ruwenzoriensis": 3,
+    "Falco tinnunculus": 2,
+    "Anguilla japonica": 2,
+    "Nothoprocta ornata": 1,
+    "Nothoprocta perdicaria": 1,
+    "Crypturellus undulatus": 1,
+    "Rousettus leschenaultii": 1,
+    "Chiloscyllium punctatum": 12,
+    "Alosa alosa": 7,
+    "Clupea pallasii": 1,
+    "Saimiriine betaherpesvirus": 2,
+    "Hymenochirus boettgeri": 4,
+    "Pseudobatos productus": 1,
+    "Nerodia sipedon": 1,
+    "Cricetid gammaherpesvirus": 1,
+    "Geococcyx californianus": 1,
+    "Ginglymostoma cirratum": 5,
+    "Heterodontus francisci": 2,
+    "Chiloscyllium plagiosum": 3,
+    "Squalus acanthias": 1,
+    "Squirrelpox virus": 1,
+    "Triakis scyllium": 6,
+    "Rostroraja eglanteria": 3,
+    "Liparis tanakae": 1,
+    "Chain ID": 2
+   },
+   "M": 108,
+   "match_labels": [
+    "1C",
+    "1B",
+    "1A",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "45A",
+    "45B",
+    "45C",
+    "45D",
+    "45E",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "84A",
+    "84B",
+    "84C",
+    "84D",
+    "85D",
+    "85C",
+    "85B",
+    "85A",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125",
+    "126",
+    "127",
+    "128",
+    "129",
+    "130",
+    "131",
+    "132",
+    "133",
+    "134",
+    "135"
+   ],
+   "insert_labels": {
+    "0": [
+     "1H",
+     "1G",
+     "1F",
+     "1E",
+     "1D"
+    ],
+    "16": [
+     "14",
+     "15",
+     "15A",
+     "15B",
+     "15C",
+     "16"
+    ],
+    "30": [
+     "31",
+     "34"
+    ],
+    "46": [
+     "45F",
+     "45G"
+    ],
+    "58": [
+     "84E",
+     "84F",
+     "84G",
+     "85G",
+     "85F",
+     "85E"
+    ],
+    "72": [
+     "95",
+     "96",
+     "96A",
+     "96B",
+     "97"
+    ],
+    "85": [
+     "111",
+     "112"
+    ]
+   },
+   "loop_canon": {
+    "1A|1": {
+     "0": []
+    },
+    "1|2": {
+     "0": []
+    },
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|7": {
+     "0": []
+    },
+    "7|8": {
+     "0": []
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|10": {
+     "0": []
+    },
+    "10|12": {
+     "1": [
+      "11"
+     ],
+     "0": []
+    },
+    "12|17": {
+     "1": [
+      "13"
+     ],
+     "0": []
+    },
+    "17|18": {
+     "0": []
+    },
+    "18|19": {
+     "0": []
+    },
+    "19|20": {
+     "0": []
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|40": {
+     "0": []
+    },
+    "40|41": {
+     "0": []
+    },
+    "41|42": {
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|45A": {
+     "0": []
+    },
+    "45A|45B": {
+     "0": []
+    },
+    "45B|45C": {
+     "0": []
+    },
+    "45C|45D": {
+     "0": []
+    },
+    "45D|45E": {
+     "0": []
+    },
+    "45E|77": {
+     "0": []
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|84A": {
+     "0": []
+    },
+    "84A|84B": {
+     "0": []
+    },
+    "84B|84C": {
+     "0": []
+    },
+    "84C|84D": {
+     "0": []
+    },
+    "84D|85D": {
+     "0": []
+    },
+    "85D|85C": {
+     "0": []
+    },
+    "85C|85B": {
+     "0": []
+    },
+    "85B|85A": {
+     "0": []
+    },
+    "85A|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    },
+    "88|89": {
+     "0": []
+    },
+    "89|90": {
+     "0": []
+    },
+    "90|91": {
+     "0": []
+    },
+    "91|92": {
+     "0": []
+    },
+    "92|93": {
+     "0": []
+    },
+    "93|94": {
+     "0": []
+    },
+    "94|99": {
+     "1": [
+      "98"
+     ]
+    },
+    "99|100": {
+     "0": []
+    },
+    "100|101": {
+     "0": []
+    },
+    "101|102": {
+     "0": []
+    },
+    "102|103": {
+     "0": []
+    },
+    "103|104": {
+     "0": []
+    },
+    "104|105": {
+     "0": []
+    },
+    "105|106": {
+     "0": []
+    },
+    "106|107": {
+     "0": []
+    },
+    "107|108": {
+     "0": []
+    },
+    "108|109": {
+     "0": []
+    },
+    "109|110": {
+     "0": []
+    },
+    "110|115": {
+     "2": [
+      "113",
+      "114"
+     ]
+    },
+    "115|116": {
+     "0": []
+    },
+    "116|117": {
+     "0": []
+    },
+    "117|118": {
+     "0": []
+    },
+    "118|119": {
+     "0": []
+    },
+    "119|120": {
+     "0": []
+    },
+    "120|121": {
+     "0": []
+    }
+   }
+  },
+  "C_B2M": {
+   "grid": "C",
+   "n_seqs": 1061,
+   "species": {
+    "Homo sapiens": 21,
+    "Rattus norvegicus": 3,
+    "Macaca mulatta": 2,
+    "Aotus nancymaae": 2,
+    "Callicebus personatus": 1,
+    "Chlorocebus aethiops": 1,
+    "Ateles paniscus": 1,
+    "Saguinus bicolor": 1,
+    "Saimiri sciureus": 1,
+    "Lagothrix lagotricha": 1,
+    "Plecturocebus hoffmannsi": 1,
+    "Brachyteles arachnoides": 1,
+    "Leontocebus fuscicollis": 1,
+    "Pithecia irrorata": 1,
+    "Chiropotes satanas": 1,
+    "Cacajao melanocephalus": 1,
+    "Aotus azarae": 1,
+    "Callithrix jacchus": 1,
+    "Oryctolagus cuniculus": 3,
+    "Felis catus": 2,
+    "Callimico goeldii": 1,
+    "Mico humeralifer": 1,
+    "Bos taurus": 8,
+    "Ovis aries": 4,
+    "Equus grevyi": 1,
+    "Cavia porcellus": 1,
+    "Sus scrofa": 6,
+    "Equus caballus": 2,
+    "Cebus imitator": 1,
+    "Pongo abelii": 1,
+    "Rhinopithecus roxellana": 1,
+    "Chlorocebus sabaeus": 1,
+    "Nomascus leucogenys": 1,
+    "Propithecus coquereli": 1,
+    "Sciurus vulgaris": 1,
+    "Carlito syrichta": 1,
+    "Trichechus manatus": 1,
+    "Piliocolobus tephrosceles": 1,
+    "Daubentonia madagascariensis": 1,
+    "Heterocephalus glaber": 3,
+    "Castor canadensis": 1,
+    "Saimiri boliviensis": 1,
+    "Pan troglodytes": 1,
+    "Canis lupus": 2,
+    "Macaca fascicularis": 2,
+    "Ailuropoda melanoleuca": 3,
+    "Ictidomys tridecemlineatus": 1,
+    "Vulpes vulpes": 1,
+    "Chinchilla lanigera": 1,
+    "Urocitellus parryii": 1,
+    "Mustela putorius": 1,
+    "Otolemur garnettii": 1,
+    "Marmota marmota": 1,
+    "Neogale vison": 1,
+    "Phocoena sinus": 1,
+    "Bos mutus": 1,
+    "Leptonychotes weddellii": 1,
+    "Lipotes vexillifer": 2,
+    "Camelus bactrianus": 1,
+    "Neomonachus schauinslandi": 1,
+    "Neophocaena asiaeorientalis": 2,
+    "Tursiops truncatus": 4,
+    "Equus zebra": 1,
+    "Bubalus bubalis": 1,
+    "Delphinapterus leucas": 4,
+    "Syncerus caffer": 1,
+    "Pipistrellus kuhlii": 1,
+    "Orycteropus afer": 1,
+    "Monodon monoceros": 1,
+    "Equus quagga": 1,
+    "Sapajus apella": 1,
+    "Odobenus rosmarus": 2,
+    "Capra hircus": 2,
+    "Spermophilus dauricus": 1,
+    "Pteropus vampyrus": 2,
+    "Ovis ammon": 2,
+    "Physeter macrocephalus": 2,
+    "Loxodonta africana": 2,
+    "Bos grunniens": 2,
+    "Chrysochloris asiatica": 1,
+    "Camelus dromedarius": 2,
+    "Moschus moschiferus": 1,
+    "Bison bison": 1,
+    "Pteropus alecto": 2,
+    "Marmota monax": 1,
+    "Papio anubis": 1,
+    "Echinops telfairi": 1,
+    "Pygathrix nigripes": 1,
+    "Ceratotherium simum": 1,
+    "Semnopithecus entellus": 1,
+    "Balaenoptera acutorostrata": 1,
+    "Galeopterus variegatus": 1,
+    "Saguinus oedipus": 1,
+    "Mus musculus": 9,
+    "Cricetulus griseus": 1,
+    "Sigmodon hispidus": 1,
+    "Mus cervicolor": 1,
+    "Mus caroli": 2,
+    "Mus spretus": 2,
+    "Mus spicilegus": 1,
+    "Mus minutoides": 1,
+    "Mus saxicola": 1,
+    "Apodemus speciosus": 1,
+    "Acipenser baerii": 2,
+    "Acipenser ruthenus": 2,
+    "Huso huso": 2,
+    "Trichosurus vulpecula": 3,
+    "Monodelphis domestica": 3,
+    "Vombatus ursinus": 2,
+    "Phascolarctos cinereus": 1,
+    "Gallus gallus": 12,
+    "Meleagris gallopavo": 2,
+    "Bambusicola thoracicus": 1,
+    "Phasianus colchicus": 1,
+    "Pavo cristatus": 1,
+    "Coturnix japonica": 2,
+    "Callipepla squamata": 1,
+    "Penelope pileata": 1,
+    "Danio rerio": 3,
+    "Cyprinus carpio": 11,
+    "Labeobarbus intermedius": 4,
+    "Onychostoma macrolepis": 3,
+    "Danionella cerebrum": 4,
+    "Sinocyclocheilus anshuiensis": 8,
+    "Sinocyclocheilus grahami": 6,
+    "Sinocyclocheilus rhinocerous": 6,
+    "Schizothorax prenanti": 1,
+    "Carassius auratus": 12,
+    "Gymnocypris przewalskii": 1,
+    "Cirrhinus molitorella": 5,
+    "Phoxinus phoxinus": 2,
+    "Labeo rohita": 3,
+    "Triplophysa rosa": 3,
+    "Culter alburnus": 6,
+    "Ctenopharyngodon idella": 12,
+    "Pimephales promelas": 1,
+    "Triplophysa tibetana": 1,
+    "Rutilus rutilus": 1,
+    "Leuciscus chuanchicus": 3,
+    "Leuciscus waleckii": 3,
+    "Ictalurus punctatus": 1,
+    "Tachysurus vachellii": 2,
+    "Bagarius yarrelli": 2,
+    "Hemibagrus wyckioides": 2,
+    "Silurus asotus": 2,
+    "Osmerus mordax": 1,
+    "Hypomesus transpacificus": 1,
+    "Silurus meridionalis": 2,
+    "Ictalurus furcatus": 1,
+    "Ameiurus natalis": 1,
+    "Ictalurus pricei": 1,
+    "Ameiurus catus": 1,
+    "Astyanax mexicanus": 7,
+    "Hemibagrus guttatus": 2,
+    "Clarias magur": 3,
+    "Cirrhinus cirrhosus": 1,
+    "Labeo catla": 1,
+    "Labeo bata": 1,
+    "Pangasianodon gigas": 2,
+    "Ornithorhynchus anatinus": 3,
+    "Tachyglossus aculeatus": 1,
+    "Xenopus laevis": 3,
+    "Xenopus tropicalis": 1,
+    "Rostroraja eglanteria": 1,
+    "Paralichthys olivaceus": 1,
+    "Mesocricetus auratus": 2,
+    "Phodopus roborovskii": 1,
+    "Myodes glareolus": 1,
+    "Nannospalax galili": 1,
+    "Peromyscus maniculatus": 1,
+    "Neotoma lepida": 1,
+    "Microtus ochrogaster": 1,
+    "Athene cunicularia": 1,
+    "Bubo bubo": 1,
+    "Anas platyrhynchos": 4,
+    "Calidris pygmaea": 2,
+    "Aythya fuligula": 1,
+    "Anser cygnoides": 2,
+    "Patagioenas fasciata": 1,
+    "Columba livia": 1,
+    "Amazona aestiva": 1,
+    "Cairina moschata": 1,
+    "Mycteria americana": 1,
+    "Grus japonensis": 1,
+    "Strigops habroptila": 1,
+    "Falco tinnunculus": 1,
+    "Anas zonorhyncha": 1,
+    "Otus sunia": 1,
+    "Aquila chrysaetos": 1,
+    "Accipiter nisus": 1,
+    "Arenaria interpres": 1,
+    "Limosa lapponica": 1,
+    "Nipponia nippon": 1,
+    "Todus mexicanus": 1,
+    "Pelecanus crispus": 1,
+    "Caloenas nicobarica": 1,
+    "Bucco capensis": 1,
+    "Eurystomus gularis": 1,
+    "Heliornis fulica": 1,
+    "Nyctibius grandis": 1,
+    "Sagittarius serpentarius": 1,
+    "Psophia crepitans": 1,
+    "Thinocorus orbignyianus": 1,
+    "Cariama cristata": 1,
+    "Leptosomus discolor": 1,
+    "Pygoscelis adeliae": 1,
+    "Cuculus canorus": 1,
+    "Apaloderma vittatum": 1,
+    "Oceanodroma tethys": 1,
+    "Jacana jacana": 1,
+    "Antrostomus carolinensis": 1,
+    "Aptenodytes forsteri": 1,
+    "Strix occidentalis": 1,
+    "Buteo japonicus": 1,
+    "Pterocles gutturalis": 1,
+    "Erpetoichthys calabaricus": 3,
+    "Polypterus senegalus": 1,
+    "Chelonoidis abingdonii": 2,
+    "Gopherus evgoodei": 1,
+    "Chrysemys picta": 2,
+    "Pelusios castaneus": 1,
+    "Terrapene triunguis": 1,
+    "Chelydra serpentina": 2,
+    "Pelodiscus sinensis": 2,
+    "Mauremys mutica": 1,
+    "Caretta caretta": 1,
+    "Lepidochelys kempii": 1,
+    "Lepidochelys olivacea": 1,
+    "Laticauda laticaudata": 2,
+    "Notechis scutatus": 1,
+    "Crotalus adamanteus": 1,
+    "Pantherophis guttatus": 1,
+    "Thamnophis sirtalis": 1,
+    "Naja naja": 1,
+    "Ophiophagus hannah": 1,
+    "Pseudonaja textilis": 1,
+    "Microcebus murinus": 1,
+    "Balaenoptera musculus": 3,
+    "Dipodomys ordii": 1,
+    "Cervus elaphus": 2,
+    "Erinaceus europaeus": 2,
+    "Cervus hanglu": 1,
+    "Muntiacus reevesi": 2,
+    "Gulo gulo": 1,
+    "Tupaia chinensis": 1,
+    "Prolemur simus": 1,
+    "Rousettus aegyptiacus": 1,
+    "Hipposideros armiger": 1,
+    "Catagonus wagneri": 2,
+    "Odocoileus virginianus": 1,
+    "Rangifer tarandus": 2,
+    "Pipra filicauda": 2,
+    "Lepidothrix coronata": 1,
+    "Serinus canaria": 1,
+    "Acrocephalus arundinaceus": 2,
+    "Lonchura striata": 1,
+    "Cyanoderma ruficeps": 2,
+    "Junco hyemalis": 1,
+    "Malurus cyaneus": 2,
+    "Zonotrichia albicollis": 1,
+    "Taeniopygia guttata": 5,
+    "Zosterops lateralis": 1,
+    "Catharus ustulatus": 1,
+    "Geospiza parvula": 1,
+    "Geospiza fortis": 1,
+    "Calyptomena viridis": 1,
+    "Chloebia gouldiae": 1,
+    "Furnarius figulus": 1,
+    "Origma solitaria": 1,
+    "Eulacestoma nigropectus": 1,
+    "Dicaeum eximium": 1,
+    "Oenanthe oenanthe": 1,
+    "Phainopepla nitens": 1,
+    "Molothrus ater": 1,
+    "Calcarius ornatus": 1,
+    "Spizella passerina": 1,
+    "Ficedula albicollis": 1,
+    "Emberiza fucata": 1,
+    "Regulus satrapa": 1,
+    "Panurus biarmicus": 1,
+    "Notiomystis cincta": 1,
+    "Loxia curvirostra": 1,
+    "Nesospiza acunhae": 1,
+    "Ptilorrhoa leucosticta": 1,
+    "Picathartes gymnocephalus": 1,
+    "Menura novaehollandiae": 1,
+    "Prunella himalayana": 1,
+    "Oreocharis arfaki": 1,
+    "Falcunculus frontatus": 1,
+    "Aphelocoma coerulescens": 1,
+    "Agelaius phoeniceus": 1,
+    "Grallaria varia": 1,
+    "Scytalopus superciliaris": 1,
+    "Callaeas wilsoni": 1,
+    "Promerops cafer": 1,
+    "Poecile atricapillus": 1,
+    "Sapayoa aenigma": 1,
+    "Mohoua ochrocephala": 1,
+    "Chaetorhynchus papuensis": 1,
+    "Oxyruncus cristatus": 1,
+    "Erpornis zantholeuca": 1,
+    "Buphagus erythrorhynchus": 1,
+    "Nicator chloris": 1,
+    "Atrichornis clamosus": 1,
+    "Manacus vitellinus": 1,
+    "Ifrita kowaldi": 1,
+    "Rhodinocichla rosea": 1,
+    "Sclerurus mexicanus": 1,
+    "Cinclus mexicanus": 1,
+    "Zosterops hypoxanthus": 1,
+    "Prunella fulvescens": 1,
+    "Pardalotus punctatus": 1,
+    "Pomatorhinus ruficollis": 1,
+    "Tichodroma muraria": 1,
+    "Pitta sordida": 1,
+    "Vidua chalybeata": 1,
+    "Campylorhamphus procurvoides": 1,
+    "Chloropsis cyanopogon": 1,
+    "Corvus moneduloides": 1,
+    "Corvus brachyrhynchos": 1,
+    "Machaerirhynchus nigripectus": 1,
+    "Orthonyx spaldingii": 1,
+    "Rhabdornis inornatus": 1,
+    "Rhipidura dahli": 1,
+    "Anthoscopus minutus": 1,
+    "Piprites chloris": 1,
+    "Setophaga kirtlandii": 1,
+    "Gymnorhina tibicen": 1,
+    "Helopsaltes ochotensis": 1,
+    "Sitta europaea": 1,
+    "Leiothrix lutea": 1,
+    "Catharus fuscescens": 1,
+    "Pycnonotus jocosus": 1,
+    "Aegithalos caudatus": 1,
+    "Vidua macroura": 1,
+    "Platysteira castanea": 1,
+    "Ptilonorhynchus violaceus": 1,
+    "Dasyornis broadbenti": 1,
+    "Loxia leucoptera": 1,
+    "Irena cyanogastra": 1,
+    "Cisticola juncidis": 1,
+    "Certhia brachydactyla": 1,
+    "Hippolais icterina": 1,
+    "Pomatostomus ruficeps": 1,
+    "Polioptila caerulea": 1,
+    "Cephalopterus ornatus": 1,
+    "Aleadryas rufinucha": 1,
+    "Dicrurus megarhynchus": 1,
+    "Ploceus nigricollis": 1,
+    "Daphoenositta chrysoptera": 1,
+    "Thryothorus ludovicianus": 1,
+    "Cnemophilus loriae": 1,
+    "Leucopsar rothschildi": 1,
+    "Struthidea cinerea": 1,
+    "Sakesphorus luctuosus": 1,
+    "Illadopsis cleaveri": 1,
+    "Peucedramus taeniatus": 1,
+    "Toxostoma redivivum": 1,
+    "Melanocharis versteri": 1,
+    "Drymodes brunneopygia": 1,
+    "Pangasianodon hypophthalmus": 1,
+    "Pygocentrus nattereri": 2,
+    "Sphaeramia orbicularis": 2,
+    "Dromaius novaehollandiae": 1,
+    "Apteryx owenii": 2,
+    "Apteryx mantelli": 1,
+    "Denticeps clupeoides": 2,
+    "Megalops atlanticus": 3,
+    "Clupea harengus": 4,
+    "Alosa alosa": 3,
+    "Salvelinus alpinus": 1,
+    "Coilia grayii": 4,
+    "Salmo trutta": 6,
+    "Oncorhynchus tshawytscha": 4,
+    "Oncorhynchus mykiss": 14,
+    "Coregonus suidteri": 2,
+    "Salmo salar": 9,
+    "Salvelinus namaycush": 3,
+    "Esox lucius": 7,
+    "Conger conger": 2,
+    "Scomber scombrus": 4,
+    "Amphilophus citrinellus": 4,
+    "Lates calcarifer": 2,
+    "Salarias fasciatus": 5,
+    "Sander lucioperca": 2,
+    "Oreochromis niloticus": 2,
+    "Perca fluviatilis": 2,
+    "Poecilia mexicana": 1,
+    "Echeneis naucrates": 8,
+    "Poecilia formosa": 1,
+    "Pundamilia nyererei": 2,
+    "Nothobranchius furzeri": 5,
+    "Austrofundulus limnaeus": 2,
+    "Parambassis ranga": 2,
+    "Oplegnathus fasciatus": 1,
+    "Astatotilapia calliptera": 4,
+    "Maylandia zebra": 2,
+    "Neolamprologus brichardi": 3,
+    "Menidia menidia": 2,
+    "Oreochromis aureus": 2,
+    "Sarotherodon galilaeus": 2,
+    "Crocodylus porosus": 2,
+    "Alligator sinensis": 1,
+    "Panthera pardus": 1,
+    "Enhydra lutris": 1,
+    "Lynx pardinus": 2,
+    "Suricata suricatta": 2,
+    "Acinonyx jubatus": 1,
+    "Nyctereutes procyonoides": 1,
+    "Zalophus californianus": 1,
+    "Panthera tigris": 1,
+    "Panthera leo": 2,
+    "Paramormyrops kingsleyae": 5,
+    "Umbra pygmaea": 2,
+    "Chanos chanos": 2,
+    "Anolis carolinensis": 2,
+    "Trachinotus ovatus": 4,
+    "Epinephelus coioides": 6,
+    "Stegastes partitus": 2,
+    "Seriola lalandi": 2,
+    "Trachinotus blochii": 1,
+    "Takifugu flavidus": 1,
+    "Oryzias latipes": 3,
+    "Seriola dumerili": 3,
+    "Takifugu rubripes": 1,
+    "Sander vitreus": 1,
+    "Gasterosteus aculeatus": 5,
+    "Larimichthys crocea": 3,
+    "Miichthys miiuy": 1,
+    "Oryzias melastigma": 2,
+    "Oryzias sinensis": 6,
+    "Channa striata": 2,
+    "Dicentrarchus labrax": 1,
+    "Anoplopoma fimbria": 2,
+    "Sparus aurata": 3,
+    "Pagrus major": 2,
+    "Channa argus": 1,
+    "Sebastes schlegelii": 1,
+    "Scophthalmus maximus": 2,
+    "Etheostoma spectabile": 1,
+    "Acanthochromis polyacanthus": 3,
+    "Amphiprion percula": 3,
+    "Amphiprion ocellaris": 2,
+    "Liparis tanakae": 2,
+    "Zoarces viviparus": 2,
+    "Cyclopterus lumpus": 2,
+    "Myripristis murdjan": 3,
+    "Mola mola": 3,
+    "Notothenia coriiceps": 3,
+    "Gymnodraco acuticeps": 2,
+    "Pagothenia borchgrevinki": 3,
+    "Dissostichus mawsoni": 2,
+    "Cottoperca gobio": 2,
+    "Nothoprocta perdicaria": 3,
+    "Python bivittatus": 1,
+    "Eleginops maclovinus": 1,
+    "Dissostichus eleginoides": 1,
+    "Champsocephalus gunnari": 1,
+    "Pogonophryne albipinna": 1,
+    "Chaenocephalus aceratus": 1,
+    "Seriola quinqueradiata": 1,
+    "Haplochromis burtoni": 2,
+    "Oreochromis mossambicus": 1,
+    "Betta splendens": 2,
+    "Sphenodon punctatus": 3,
+    "Tachysurus fulvidraco": 1,
+    "Dallia pectoralis": 1,
+    "Cromileptes altivelis": 1,
+    "Melanogrammus aeglefinus": 3,
+    "Gadus morhua": 9,
+    "Scleropages formosus": 3,
+    "Aldrovandia affinis": 5,
+    "Hucho taimen": 1,
+    "Brachymystax lenok": 1,
+    "Oncorhynchus masou": 1,
+    "Electrophorus electricus": 4,
+    "Electrophorus voltai": 2,
+    "Myotis myotis": 1,
+    "Equus asinus": 2,
+    "Phyllostomus discolor": 1,
+    "Molossus molossus": 1,
+    "Cnephaeus nilssonii": 1,
+    "Phacochoerus africanus": 1,
+    "Desmodus rotundus": 1,
+    "Rhinolophus ferrumequinum": 1,
+    "Myotis lucifugus": 1,
+    "Stenella coeruleoalba": 1,
+    "Myotis brandtii": 1,
+    "Pipistrellus nathusii": 1,
+    "Alectura lathami": 1,
+    "Anser brachyrhynchus": 1,
+    "Anseranas semipalmata": 1,
+    "Varanus komodoensis": 3,
+    "Scatophagus argus": 2,
+    "Perca flavescens": 1,
+    "Albula goreensis": 3,
+    "Albula glossodonta": 1,
+    "Eublepharis macularius": 1,
+    "Labrus bergylta": 2,
+    "Mastacembelus armatus": 4,
+    "Oryzias javanicus": 1,
+    "Anguilla anguilla": 1,
+    "Callorhinchus milii": 3,
+    "Hippocampus comes": 2,
+    "Knipowitschia caucasica": 2,
+    "Solea senegalensis": 4,
+    "Anabas testudineus": 5,
+    "Lateolabrax maculatus": 1,
+    "Melopsittacus undulatus": 2,
+    "Amazona collaria": 1,
+    "Nestor notabilis": 1,
+    "Salvator merianae": 1,
+    "Fundulus heteroclitus": 2,
+    "Poecilia reticulata": 1,
+    "Xiphophorus couchianus": 1,
+    "Xiphophorus maculatus": 1,
+    "Crenichthys baileyi": 1,
+    "Cyprinodon variegatus": 2,
+    "Poecilia latipinna": 1,
+    "Gambusia affinis": 1,
+    "Characodon lateralis": 1,
+    "Xenotaenia resolanae": 1,
+    "Ataeniobius toweri": 1,
+    "Ilyodon furcidens": 1,
+    "Ameca splendens": 1,
+    "Xenoophorus captivus": 1,
+    "Mugilogobius chulae": 1,
+    "Ameiurus melas": 2,
+    "Pangasius djambal": 1,
+    "Muntiacus muntjak": 1,
+    "Galemys pyrenaicus": 2,
+    "Serilophus lunatus": 1,
+    "Arapaima gigas": 1,
+    "Periophthalmus magnuspinnatus": 6,
+    "Tetraodon nigroviridis": 3,
+    "Collichthys lucidus": 1,
+    "Takifugu bimaculatus": 1,
+    "Cynoglossus semilaevis": 6,
+    "Monopterus albus": 2,
+    "Muraenolepis orangiensis": 2,
+    "Kryptolebias marmoratus": 1,
+    "Xyrichtys novacula": 1,
+    "Pogona vitticeps": 1,
+    "Octodon degus": 2,
+    "Sylvietta virens": 2,
+    "Pheucticus melanocephalus": 1,
+    "Sylvia atricapilla": 1,
+    "Donacobius atricapilla": 1,
+    "Grantiella picta": 1,
+    "Erithacus rubecula": 1,
+    "Alaudala cheleensis": 1,
+    "Horornis vulcanius": 1,
+    "Chloropsis hardwickii": 1,
+    "Climacteris rufus": 1,
+    "Tychaedon coryphoeus": 1,
+    "Elachura formosa": 1,
+    "Copsychus sechellarum": 1,
+    "Passerina amoena": 1,
+    "Brachypodius melanocephalos": 1,
+    "Sterrhoptilus dennistouni": 1,
+    "Pteruthius melanotis": 1,
+    "Rhagologus leucostigma": 1,
+    "Hypocryptadius cinnamomeus": 1,
+    "Hylia prasina": 1,
+    "Cardinalis cardinalis": 1,
+    "Sinosuthora webbiana": 1,
+    "Sylvia borin": 1,
+    "Bombycilla garrulus": 1,
+    "Oriolus oriolus": 1,
+    "Cettia cetti": 1,
+    "Erythrocercus mccallii": 1,
+    "Podarcis muralis": 1,
+    "Atractosteus spatula": 2,
+    "Lepisosteus oculatus": 1,
+    "Geotrypetes seraphini": 1,
+    "Phrynocephalus forsythii": 1,
+    "Leptobrachium leishanense": 3,
+    "Pleurodeles waltl": 1,
+    "Oncorhynchus kisutch": 2,
+    "Hucho hucho": 1,
+    "Carcharhinus plumbeus": 3,
+    "Chiloscyllium punctatum": 1,
+    "Triakis scyllium": 1,
+    "Ginglymostoma cirratum": 1,
+    "Upupa epops": 1,
+    "Eubucco bourcierii": 2,
+    "Merops nubicus": 1,
+    "Dryobates pubescens": 1,
+    "Scyliorhinus torazame": 2,
+    "Mesitornis unicolor": 2,
+    "Charadrius vociferus": 1,
+    "Boreogadus saida": 1,
+    "Arctogadus glacialis": 1,
+    "Plectropomus leopardus": 1,
+    "Pleuronectes platessa": 1,
+    "Engystomops pustulosus": 1,
+    "Merluccius polli": 1,
+    "Pyxicephalus adspersus": 1,
+    "Opisthocomus hoazin": 1,
+    "Gekko japonicus": 3,
+    "Bufotes viridis": 2,
+    "Scortum barcoo": 1,
+    "Sphaerodactylus townsendi": 1,
+    "Ranitomeya imitator": 1,
+    "Lota lota": 1,
+    "Chain ID": 3
+   },
+   "M": 99,
+   "match_labels": [
+    "1C",
+    "1B",
+    "1A",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "45A",
+    "45B",
+    "45C",
+    "45D",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "84A",
+    "84B",
+    "84C",
+    "84D",
+    "85D",
+    "85C",
+    "85B",
+    "85A",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125"
+   ],
+   "insert_labels": {
+    "0": [
+     "1H",
+     "1G",
+     "1F",
+     "1E",
+     "1D"
+    ],
+    "17": [
+     "15",
+     "15A",
+     "15B",
+     "15C"
+    ],
+    "32": [
+     "31",
+     "34"
+    ],
+    "47": [
+     "45E",
+     "45F",
+     "45G"
+    ],
+    "59": [
+     "84E",
+     "84F",
+     "84G",
+     "85G",
+     "85F",
+     "85E"
+    ],
+    "74": [
+     "96",
+     "96A",
+     "96B",
+     "97",
+     "98"
+    ],
+    "86": [
+     "111",
+     "112"
+    ],
+    "99": [
+     "126",
+     "127",
+     "128",
+     "129",
+     "130",
+     "131",
+     "132",
+     "133",
+     "134",
+     "135"
+    ]
+   },
+   "loop_canon": {
+    "1A|1": {
+     "0": []
+    },
+    "1|2": {
+     "0": []
+    },
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|7": {
+     "0": []
+    },
+    "7|8": {
+     "0": []
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|10": {
+     "0": []
+    },
+    "10|11": {
+     "0": []
+    },
+    "11|12": {
+     "0": []
+    },
+    "12|13": {
+     "0": []
+    },
+    "13|14": {
+     "0": []
+    },
+    "14|16": {
+     "0": []
+    },
+    "16|17": {
+     "0": []
+    },
+    "17|18": {
+     "0": []
+    },
+    "18|19": {
+     "0": []
+    },
+    "19|20": {
+     "0": []
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|40": {
+     "0": []
+    },
+    "40|41": {
+     "0": []
+    },
+    "41|42": {
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|45A": {
+     "0": []
+    },
+    "45A|45B": {
+     "0": []
+    },
+    "45B|45C": {
+     "0": []
+    },
+    "45C|77": {
+     "1": [
+      "45D"
+     ],
+     "0": []
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|84A": {
+     "0": []
+    },
+    "84A|84B": {
+     "0": []
+    },
+    "84B|84C": {
+     "0": []
+    },
+    "84C|84D": {
+     "0": []
+    },
+    "84D|85D": {
+     "0": []
+    },
+    "85D|85C": {
+     "0": []
+    },
+    "85C|85B": {
+     "0": []
+    },
+    "85B|85A": {
+     "0": []
+    },
+    "85A|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    },
+    "88|89": {
+     "0": []
+    },
+    "89|90": {
+     "0": []
+    },
+    "90|91": {
+     "0": []
+    },
+    "91|92": {
+     "0": []
+    },
+    "92|93": {
+     "0": []
+    },
+    "93|94": {
+     "0": []
+    },
+    "94|95": {
+     "0": []
+    },
+    "95|99": {
+     "0": []
+    },
+    "99|100": {
+     "0": []
+    },
+    "100|101": {
+     "0": []
+    },
+    "101|102": {
+     "0": []
+    },
+    "102|103": {
+     "0": []
+    },
+    "103|104": {
+     "0": []
+    },
+    "104|105": {
+     "0": []
+    },
+    "105|106": {
+     "0": []
+    },
+    "106|107": {
+     "0": []
+    },
+    "107|108": {
+     "0": []
+    },
+    "108|109": {
+     "0": []
+    },
+    "109|110": {
+     "0": []
+    },
+    "110|113": {
+     "0": []
+    },
+    "113|114": {
+     "0": []
+    },
+    "114|115": {
+     "0": []
+    },
+    "115|116": {
+     "0": []
+    },
+    "116|117": {
+     "0": []
+    },
+    "117|118": {
+     "0": []
+    },
+    "118|119": {
+     "0": []
+    },
+    "119|120": {
+     "0": []
+    },
+    "120|121": {
+     "0": []
+    },
+    "121|122": {
+     "0": []
+    },
+    "122|123": {
+     "0": []
+    }
+   }
+  },
+  "C_IIA": {
+   "grid": "C",
+   "n_seqs": 2848,
+   "species": {
+    "Homo sapiens": 128,
+    "Mus musculus": 21,
+    "Rattus norvegicus": 18,
+    "Sus scrofa": 32,
+    "Gorilla gorilla": 7,
+    "Equus caballus": 15,
+    "Pan troglodytes": 7,
+    "Bos taurus": 22,
+    "Macaca fascicularis": 34,
+    "Macaca nemestrina": 11,
+    "Muntiacus reevesi": 10,
+    "Chlorocebus sabaeus": 8,
+    "Macaca mulatta": 18,
+    "Papio anubis": 10,
+    "Erinaceus europaeus": 4,
+    "Cervus elaphus": 6,
+    "Aotus nancymaae": 8,
+    "Pan paniscus": 4,
+    "Odobenus rosmarus": 6,
+    "Neomonachus schauinslandi": 4,
+    "Lipotes vexillifer": 3,
+    "Ovis aries": 34,
+    "Callorhinus ursinus": 3,
+    "Capra hircus": 9,
+    "Pongo pygmaeus": 4,
+    "Aotus lemurinus": 2,
+    "Saguinus oedipus": 5,
+    "Camelus dromedarius": 5,
+    "Bison bison": 3,
+    "Hipposideros armiger": 9,
+    "Catagonus wagneri": 4,
+    "Microcebus murinus": 11,
+    "Moschus moschiferus": 6,
+    "Cnephaeus nilssonii": 6,
+    "Elephas maximus": 3,
+    "Myotis lucifugus": 17,
+    "Myotis davidii": 7,
+    "Pongo abelii": 8,
+    "Canis lupus": 9,
+    "Myotis brandtii": 10,
+    "Phascolarctos cinereus": 8,
+    "Cavia porcellus": 8,
+    "Cebus imitator": 6,
+    "Saimiri boliviensis": 6,
+    "Macaca leonina": 3,
+    "Tursiops truncatus": 6,
+    "Delphinapterus leucas": 2,
+    "Physeter macrocephalus": 4,
+    "Bubalus bubalis": 11,
+    "Callithrix jacchus": 8,
+    "Suricata suricatta": 7,
+    "Equus asinus": 4,
+    "Piliocolobus tephrosceles": 3,
+    "Mustela putorius": 9,
+    "Ovis ammon": 6,
+    "Oryctolagus cuniculus": 7,
+    "Heterocephalus glaber": 5,
+    "Ictidomys tridecemlineatus": 8,
+    "Fukomys damarensis": 5,
+    "Propithecus coquereli": 5,
+    "Rhinopithecus roxellana": 4,
+    "Trichechus manatus": 5,
+    "Enhydra lutris": 6,
+    "Sousa chinensis": 3,
+    "Monodon monoceros": 2,
+    "Rhinolophus ferrumequinum": 6,
+    "Vicugna pacos": 4,
+    "Phyllostomus discolor": 5,
+    "Octodon degus": 8,
+    "Orycteropus afer": 7,
+    "Bos grunniens": 4,
+    "Chinchilla lanigera": 5,
+    "Neogale vison": 8,
+    "Loxodonta africana": 9,
+    "Pteropus alecto": 2,
+    "Muntiacus crinifrons": 2,
+    "Ursus maritimus": 3,
+    "Muntiacus muntjak": 8,
+    "Sapajus apella": 3,
+    "Pteropus vampyrus": 6,
+    "Nomascus leucogenys": 5,
+    "Odocoileus virginianus": 5,
+    "Urocitellus parryii": 8,
+    "Desmodus rotundus": 2,
+    "Bos indicus": 4,
+    "Nannospalax galili": 5,
+    "Galemys pyrenaicus": 6,
+    "Carlito syrichta": 5,
+    "Meles meles": 3,
+    "Lepus europaeus": 2,
+    "Tupaia chinensis": 10,
+    "Prolemur simus": 6,
+    "Notamacropus": 3,
+    "Balaenoptera musculus": 3,
+    "Daubentonia madagascariensis": 4,
+    "Sciurus vulgaris": 5,
+    "Bos gaurus": 1,
+    "Otolemur garnettii": 5,
+    "Ursus americanus": 3,
+    "Vulpes lagopus": 1,
+    "Mirounga leonina": 2,
+    "Rangifer tarandus": 5,
+    "Diceros bicornis": 4,
+    "Ceratotherium simum": 4,
+    "Castor canadensis": 6,
+    "Equus przewalskii": 3,
+    "Pipistrellus nathusii": 2,
+    "Vulpes vulpes": 5,
+    "Pygathrix nigripes": 4,
+    "Bubu": 8,
+    "Bogr": 7,
+    "Neotoma lepida": 7,
+    "Mesocricetus auratus": 6,
+    "Peromyscus maniculatus": 6,
+    "Cricetulus griseus": 5,
+    "Mastomys natalensis": 3,
+    "Myodes glareolus": 7,
+    "Mus caroli": 4,
+    "Phodopus roborovskii": 4,
+    "Peromyscus leucopus": 1,
+    "Sigmodon hispidus": 3,
+    "Microtus ochrogaster": 7,
+    "Apodemus speciosus": 4,
+    "Vombatus ursinus": 5,
+    "Monodelphis domestica": 14,
+    "Dipodomys ordii": 4,
+    "Mandrillus leucophaeus": 2,
+    "Marmota monax": 4,
+    "Macaca thibetana": 16,
+    "Spermophilus dauricus": 8,
+    "Chrysochloris asiatica": 4,
+    "Zalophus californianus": 6,
+    "Camelus bactrianus": 2,
+    "Ailuropoda melanoleuca": 5,
+    "Colobus angolensis": 2,
+    "Nyctereutes procyonoides": 3,
+    "Sciurus carolinensis": 4,
+    "Lynx canadensis": 4,
+    "Marmota marmota": 2,
+    "Panthera leo": 2,
+    "Leptonychotes weddellii": 1,
+    "Galeopterus variegatus": 5,
+    "Acinonyx jubatus": 3,
+    "Puma concolor": 2,
+    "Nasalis larvatus": 1,
+    "Semnopithecus entellus": 1,
+    "Felis catus": 3,
+    "Neophocaena asiaeorientalis": 4,
+    "Balaenoptera acutorostrata": 2,
+    "Balaenoptera physalus": 2,
+    "Jaculus jaculus": 2,
+    "Eschrichtius robustus": 1,
+    "Rousettus aegyptiacus": 1,
+    "Molossus molossus": 1,
+    "Crocuta crocuta": 3,
+    "Cercocebus atys": 1,
+    "Theropithecus gelada": 2,
+    "Rhinopithecus bieti": 1,
+    "Hydrurga leptonyx": 1,
+    "Ommatophoca rossii": 1,
+    "Hypogeomys antimena": 1,
+    "Echinops telfairi": 5,
+    "Sarcophilus harrisii": 2,
+    "Ovis canadensis": 3,
+    "Eptesicus fuscus": 1,
+    "Aotus vociferans": 2,
+    "Sciurus aberti": 3,
+    "Panthera tigris": 2,
+    "Macaca sylvanus": 1,
+    "Panthera pardus": 3,
+    "Nomascus gabriellae": 1,
+    "Gulo gulo": 1,
+    "Bos mutus": 2,
+    "Phocoena sinus": 1,
+    "Geotrypetes seraphini": 6,
+    "Microcaecilia unicolor": 4,
+    "Culter alburnus": 17,
+    "Onychostoma macrolepis": 11,
+    "Labeo rohita": 15,
+    "Cyprinus carpio": 53,
+    "Sinocyclocheilus grahami": 16,
+    "Sinocyclocheilus rhinocerous": 27,
+    "Cirrhinus molitorella": 17,
+    "Phoxinus phoxinus": 5,
+    "Sinocyclocheilus anshuiensis": 16,
+    "Carassius auratus": 8,
+    "Danio rerio": 13,
+    "Anabarilius grahami": 4,
+    "Leuciscus chuanchicus": 5,
+    "Leuciscus waleckii": 4,
+    "Pyxicephalus adspersus": 5,
+    "Osmerus mordax": 3,
+    "Plecoglossus altivelis": 1,
+    "Myripristis murdjan": 46,
+    "Morone saxatilis": 4,
+    "Dicentrarchus labrax": 11,
+    "Anas platyrhynchos": 5,
+    "Oceanodroma leucorhoa": 7,
+    "Ciconia maguari": 1,
+    "Nothoprocta perdicaria": 2,
+    "Strix occidentalis": 4,
+    "Ciconia boyciana": 2,
+    "Aquila chrysaetos": 4,
+    "Anser cygnoides": 1,
+    "Cairina moschata": 1,
+    "Nipponia nippon": 3,
+    "Apteryx owenii": 7,
+    "Mycteria americana": 2,
+    "Aythya fuligula": 1,
+    "Casuarius casuarius": 1,
+    "Mesembrinibis cayennensis": 2,
+    "Thinocorus orbignyianus": 1,
+    "Nyctiprogne leucopyga": 1,
+    "Scopus umbretta": 1,
+    "Eudyptes filholi": 1,
+    "Centropus unirufus": 1,
+    "Eudromia elegans": 2,
+    "Corythaixoides concolor": 2,
+    "Fregetta grallaria": 1,
+    "Sula dactylatra": 2,
+    "Pterocles burchelli": 1,
+    "Steatornis caripensis": 1,
+    "Asarcornis scutulata": 1,
+    "Podargus strigoides": 1,
+    "Corythaeola cristata": 1,
+    "Eudyptula minor": 1,
+    "Cathartes aura": 1,
+    "Crypturellus undulatus": 3,
+    "Rhynochetos jubatus": 1,
+    "Nyctibius bracteatus": 4,
+    "Oceanites oceanicus": 1,
+    "Hemiprocne comata": 1,
+    "Oceanodroma tethys": 1,
+    "Spizaetus tyrannus": 1,
+    "Nyctibius grandis": 2,
+    "Cochlearius cochlearius": 1,
+    "Herpetotheres cachinnans": 1,
+    "Podilymbus podiceps": 1,
+    "Sagittarius serpentarius": 1,
+    "Thalassarche chlororhynchos": 2,
+    "Grus japonensis": 1,
+    "Chroicocephalus maculipennis": 1,
+    "Bucco capensis": 2,
+    "Psophia crepitans": 1,
+    "Balaeniceps rex": 1,
+    "Rynchops niger": 1,
+    "Zapornia atra": 1,
+    "Phaetusa simplex": 1,
+    "Alca torda": 1,
+    "Haliaeetus albicilla": 1,
+    "Arenaria interpres": 1,
+    "Himantopus himantopus": 1,
+    "Bucorvus abyssinicus": 1,
+    "Smutsornis africanus": 2,
+    "Piaya cayana": 1,
+    "Atlantisia rogersi": 3,
+    "Accipiter nisus": 1,
+    "Centropus bengalensis": 1,
+    "Calidris pygmaea": 3,
+    "Pedionomus torquatus": 1,
+    "Rhinella marina": 10,
+    "Eleutherodactylus coqui": 1,
+    "Engystomops pustulosus": 2,
+    "Bufotes viridis": 7,
+    "Ranitomeya imitator": 2,
+    "Acipenser dabryanus": 20,
+    "Acipenser oxyrinchus": 5,
+    "Huso huso": 5,
+    "Polyodon spathula": 1,
+    "Salmo trutta": 6,
+    "Salmo salar": 7,
+    "Hucho hucho": 3,
+    "Coregonus suidteri": 3,
+    "Megalops atlanticus": 4,
+    "Salvelinus namaycush": 2,
+    "Umbra pygmaea": 2,
+    "Oncorhynchus mykiss": 9,
+    "Oncorhynchus kisutch": 2,
+    "Oncorhynchus tshawytscha": 3,
+    "Esox lucius": 11,
+    "Camelus ferus": 1,
+    "Pelusios castaneus": 11,
+    "Terrapene triunguis": 14,
+    "Chelonoidis abingdonii": 5,
+    "Chrysemys picta": 8,
+    "Gopherus evgoodei": 8,
+    "Mauremys mutica": 5,
+    "Gopherus agassizii": 8,
+    "Chelydra serpentina": 7,
+    "Platysternon megacephalum": 5,
+    "Pelodiscus sinensis": 1,
+    "Coilia grayii": 9,
+    "Andrias davidianus": 7,
+    "Anabas testudineus": 12,
+    "Betta splendens": 7,
+    "Poecilia reticulata": 8,
+    "Haplochromis burtoni": 14,
+    "Salarias fasciatus": 17,
+    "Oreochromis niloticus": 106,
+    "Xiphophorus couchianus": 2,
+    "Larimichthys crocea": 4,
+    "Sphaeramia orbicularis": 9,
+    "Solea senegalensis": 3,
+    "Xyrichtys novacula": 6,
+    "Seriola dumerili": 3,
+    "Lates calcarifer": 7,
+    "Oreochromis aureus": 25,
+    "Sparus aurata": 18,
+    "Maylandia zebra": 30,
+    "Neolamprologus brichardi": 20,
+    "Scomber scombrus": 7,
+    "Amphilophus citrinellus": 23,
+    "Cyclopterus lumpus": 2,
+    "Pundamilia nyererei": 13,
+    "Zoarces viviparus": 2,
+    "Channa striata": 6,
+    "Seriola lalandi": 8,
+    "Labrus bergylta": 1,
+    "Stegastes partitus": 7,
+    "Amphiprion percula": 5,
+    "Cottoperca gobio": 3,
+    "Pleuronectes platessa": 3,
+    "Oryzias latipes": 9,
+    "Aulonocara hansbaenschi": 6,
+    "Pogonophryne albipinna": 1,
+    "Oryzias sinensis": 6,
+    "Parambassis ranga": 4,
+    "Oryzias javanicus": 3,
+    "Collichthys lucidus": 2,
+    "Nibea albiflora": 1,
+    "Chiloscyllium punctatum": 3,
+    "Ginglymostoma cirratum": 5,
+    "Ornithorhynchus anatinus": 2,
+    "Labeobarbus intermedius": 5,
+    "Ctenopharyngodon idella": 4,
+    "Schizothorax prenanti": 1,
+    "Scleropages formosus": 25,
+    "Aldrovandia affinis": 7,
+    "Albula goreensis": 2,
+    "Paramormyrops kingsleyae": 6,
+    "Albula glossodonta": 3,
+    "Arapaima gigas": 2,
+    "Alosa alosa": 2,
+    "Pygocentrus nattereri": 13,
+    "Nothoprocta pentlandii": 3,
+    "Nothocercus nigrocapillus": 1,
+    "Crocodylus porosus": 2,
+    "Apteryx mantelli": 2,
+    "Salvator merianae": 16,
+    "Salvelinus alpinus": 2,
+    "Salvelinus malma": 1,
+    "Sphenodon punctatus": 6,
+    "Melopsittacus undulatus": 2,
+    "Strigops habroptila": 1,
+    "Amazona guildingii": 1,
+    "Amazona collaria": 1,
+    "Eolophus roseicapilla": 1,
+    "Lepisosteus oculatus": 3,
+    "Chanos chanos": 15,
+    "Cirrhinus mrigala": 2,
+    "Triplophysa rosa": 2,
+    "Astyanax mexicanus": 9,
+    "Pangasianodon hypophthalmus": 6,
+    "Ameiurus melas": 5,
+    "Silurus asotus": 5,
+    "Ictalurus punctatus": 9,
+    "Tachysurus vachellii": 3,
+    "Tachysurus fulvidraco": 1,
+    "Hemibagrus wyckioides": 2,
+    "Leiocassis longirostris": 4,
+    "Clarias magur": 4,
+    "Pangasianodon gigas": 3,
+    "Pangasius djambal": 3,
+    "Clupea harengus": 10,
+    "Alosa sapidissima": 1,
+    "Varanus komodoensis": 5,
+    "Pleurodeles waltl": 1,
+    "Electrophorus electricus": 6,
+    "Electrophorus voltai": 2,
+    "Gallus gallus": 13,
+    "Coturnix japonica": 3,
+    "Latimeria chalumnae": 5,
+    "Callorhinchus milii": 7,
+    "Cyprinodon variegatus": 10,
+    "Xiphophorus maculatus": 8,
+    "Poecilia latipinna": 11,
+    "Poecilia formosa": 5,
+    "Acanthochromis polyacanthus": 16,
+    "Fundulus heteroclitus": 8,
+    "Poecilia mexicana": 8,
+    "Amphiprion ocellaris": 6,
+    "Characodon lateralis": 1,
+    "Ilyodon furcidens": 2,
+    "Xenotaenia resolanae": 1,
+    "Ataeniobius toweri": 1,
+    "Danionella cerebrum": 6,
+    "Taeniopygia guttata": 4,
+    "Lonchura striata": 1,
+    "Dasyornis broadbenti": 1,
+    "Nesospiza acunhae": 1,
+    "Cinclus mexicanus": 1,
+    "Orthonyx spaldingii": 1,
+    "Myiagra hebetior": 1,
+    "Melospiza melodia": 1,
+    "Cnemophilus loriae": 1,
+    "Poecile atricapillus": 1,
+    "Eublepharis macularius": 9,
+    "Gasterosteus aculeatus": 10,
+    "Sander lucioperca": 16,
+    "Perca flavescens": 9,
+    "Perca fluviatilis": 7,
+    "Pogona vitticeps": 11,
+    "Phrynocephalus forsythii": 3,
+    "Conger conger": 4,
+    "Anguilla anguilla": 1,
+    "Synaphobranchus kaupii": 3,
+    "Notamacropus eugenii": 3,
+    "Alligator sinensis": 2,
+    "Alligator mississippiensis": 2,
+    "Astatotilapia calliptera": 8,
+    "Sarotherodon galilaeus": 10,
+    "Leptobrachium leishanense": 5,
+    "Pelobates cultripes": 1,
+    "Eubucco bourcierii": 2,
+    "Indicator maculatus": 1,
+    "Semnornis frantzii": 1,
+    "Ramphastos sulfuratus": 1,
+    "Upupa epops": 2,
+    "Rhinopomastus cyanomelas": 1,
+    "Chionis minor": 1,
+    "Jacana jacana": 2,
+    "Dromas ardeola": 1,
+    "Burhinus bistriatus": 1,
+    "Stercorarius parasiticus": 2,
+    "Pluvianellus socialis": 1,
+    "Ibidorhyncha struthersii": 1,
+    "Ceuthmochares aereus": 1,
+    "Glareola pratincola": 2,
+    "Rostratula benghalensis": 1,
+    "Galbula dea": 1,
+    "Xenopus tropicalis": 3,
+    "Hymenochirus boettgeri": 2,
+    "Xenopus laevis": 24,
+    "Pipa carvalhoi": 1,
+    "Cynoglossus semilaevis": 20,
+    "Etheostoma spectabile": 2,
+    "Mastacembelus armatus": 11,
+    "Lepidochelys olivacea": 5,
+    "Erpetoichthys calabaricus": 3,
+    "Polypterus senegalus": 2,
+    "Gambusia affinis": 2,
+    "Trachinotus ovatus": 18,
+    "Mola mola": 3,
+    "Channa argus": 6,
+    "Mugil incilis": 1,
+    "Scophthalmus maximus": 1,
+    "Megalobrama amblycephala": 1,
+    "Triplophysa tibetana": 2,
+    "Denticeps clupeoides": 2,
+    "Lyrurus tetrix": 1,
+    "Tympanuchus cupido": 1,
+    "Anhinga rufa": 1,
+    "Podarcis muralis": 8,
+    "Podarcis lilfordi": 3,
+    "Python bivittatus": 1,
+    "Thamnophis sirtalis": 1,
+    "Laticauda laticaudata": 1,
+    "Naja naja": 2,
+    "Ophiophagus hannah": 1,
+    "Pseudonaja textilis": 1,
+    "Pantherophis guttatus": 1,
+    "Callipepla squamata": 2,
+    "Bambusicola thoracicus": 1,
+    "Odontophorus gujanensis": 1,
+    "Penelope pileata": 1,
+    "Pavo cristatus": 1,
+    "Oryzias melastigma": 4,
+    "Scatophagus argus": 28,
+    "Miichthys miiuy": 10,
+    "Oplegnathus punctatus": 1,
+    "Epinephelus coioides": 10,
+    "Paralichthys olivaceus": 4,
+    "Sander vitreus": 2,
+    "Kareius bicoloratus": 1,
+    "Verasper variegatus": 1,
+    "Menidia menidia": 2,
+    "Kryptolebias marmoratus": 3,
+    "Echeneis naucrates": 1,
+    "Pagrus major": 1,
+    "Aramus guarauna": 2,
+    "Columba livia": 2,
+    "Austrofundulus limnaeus": 1,
+    "Atractosteus spatula": 1,
+    "Xiphorhynchus elegans": 1,
+    "Takifugu rubripes": 4,
+    "Tetraodon nigroviridis": 4,
+    "Takifugu bimaculatus": 2,
+    "Monopterus albus": 3,
+    "Staurois parvus": 3,
+    "Hippocampus comes": 3,
+    "Hippocampus erectus": 2,
+    "Hippocampus abdominalis": 1,
+    "Dissostichus mawsoni": 2,
+    "Champsocephalus gunnari": 1,
+    "Pagothenia borchgrevinki": 2,
+    "Dissostichus eleginoides": 3,
+    "Mugilogobius chulae": 3,
+    "Caretta caretta": 5,
+    "Periophthalmus magnuspinnatus": 3,
+    "Aquarana catesbeiana": 2,
+    "Neogobius melanostomus": 12,
+    "Odontobutis potamophilus": 1,
+    "Mus spicilegus": 1,
+    "Sphaerodactylus townsendi": 5,
+    "Gekko japonicus": 4,
+    "Scortum barcoo": 3,
+    "Chimeric": 3
+   },
+   "M": 98,
+   "match_labels": [
+    "1A",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "45A",
+    "45B",
+    "45C",
+    "45D",
+    "45E",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "84A",
+    "84B",
+    "84C",
+    "84D",
+    "85D",
+    "85C",
+    "85B",
+    "85A",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121",
+    "122",
+    "123",
+    "124",
+    "125"
+   ],
+   "insert_labels": {
+    "0": [
+     "1H",
+     "1G",
+     "1F",
+     "1E",
+     "1D",
+     "1C",
+     "1B"
+    ],
+    "15": [
+     "15",
+     "15A",
+     "15B",
+     "15C"
+    ],
+    "30": [
+     "31",
+     "34"
+    ],
+    "46": [
+     "45F",
+     "45G"
+    ],
+    "58": [
+     "84E",
+     "84F",
+     "84G",
+     "85G",
+     "85F",
+     "85E"
+    ],
+    "72": [
+     "95",
+     "96",
+     "96A",
+     "96B",
+     "97"
+    ],
+    "85": [
+     "111",
+     "112"
+    ],
+    "98": [
+     "126",
+     "127",
+     "128",
+     "129",
+     "130",
+     "131",
+     "132",
+     "133",
+     "134",
+     "135"
+    ]
+   },
+   "loop_canon": {
+    "1A|1": {
+     "0": []
+    },
+    "1|2": {
+     "0": []
+    },
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|7": {
+     "0": []
+    },
+    "7|8": {
+     "0": []
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|10": {
+     "0": []
+    },
+    "10|11": {
+     "0": []
+    },
+    "11|12": {
+     "0": []
+    },
+    "12|13": {
+     "0": []
+    },
+    "13|14": {
+     "0": []
+    },
+    "14|16": {
+     "0": []
+    },
+    "16|17": {
+     "0": []
+    },
+    "17|18": {
+     "0": []
+    },
+    "18|19": {
+     "0": []
+    },
+    "19|20": {
+     "0": []
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|40": {
+     "0": []
+    },
+    "40|41": {
+     "0": []
+    },
+    "41|42": {
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|45A": {
+     "0": []
+    },
+    "45A|45B": {
+     "0": []
+    },
+    "45B|45C": {
+     "0": []
+    },
+    "45C|45D": {
+     "0": []
+    },
+    "45D|45E": {
+     "0": []
+    },
+    "45E|77": {
+     "0": []
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|84A": {
+     "0": []
+    },
+    "84A|84B": {
+     "0": []
+    },
+    "84B|84C": {
+     "0": []
+    },
+    "84C|84D": {
+     "0": []
+    },
+    "84D|85D": {
+     "0": []
+    },
+    "85D|85C": {
+     "0": []
+    },
+    "85C|85B": {
+     "0": []
+    },
+    "85B|85A": {
+     "0": []
+    },
+    "85A|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    },
+    "88|89": {
+     "0": []
+    },
+    "89|90": {
+     "0": []
+    },
+    "90|91": {
+     "0": []
+    },
+    "91|92": {
+     "0": []
+    },
+    "92|93": {
+     "0": []
+    },
+    "93|94": {
+     "0": []
+    },
+    "94|98": {
+     "0": []
+    },
+    "98|99": {
+     "0": []
+    },
+    "99|100": {
+     "0": []
+    },
+    "100|101": {
+     "0": []
+    },
+    "101|102": {
+     "0": []
+    },
+    "102|103": {
+     "0": []
+    },
+    "103|104": {
+     "0": []
+    },
+    "104|105": {
+     "0": []
+    },
+    "105|106": {
+     "0": []
+    },
+    "106|107": {
+     "0": []
+    },
+    "107|108": {
+     "0": []
+    },
+    "108|109": {
+     "0": []
+    },
+    "109|110": {
+     "0": []
+    },
+    "110|113": {
+     "0": []
+    },
+    "113|114": {
+     "0": []
+    },
+    "114|115": {
+     "0": []
+    },
+    "115|116": {
+     "0": []
+    },
+    "116|117": {
+     "0": []
+    },
+    "117|118": {
+     "0": []
+    },
+    "118|119": {
+     "0": []
+    },
+    "119|120": {
+     "0": []
+    },
+    "120|121": {
+     "0": []
+    }
+   }
+  },
+  "C_IIB": {
+   "grid": "C",
+   "n_seqs": 1287,
+   "species": {
+    "Homo sapiens": 212,
+    "Pan troglodytes": 21,
+    "Gorilla gorilla": 19,
+    "Fukomys damarensis": 5,
+    "Marmota monax": 5,
+    "Chinchilla lanigera": 9,
+    "Heterocephalus glaber": 9,
+    "Cavia porcellus": 8,
+    "Ictidomys tridecemlineatus": 6,
+    "Jaculus jaculus": 3,
+    "Marmota marmota": 8,
+    "Sciurus vulgaris": 9,
+    "Octodon degus": 10,
+    "Spermophilus dauricus": 13,
+    "Sciurus carolinensis": 6,
+    "Castor canadensis": 7,
+    "Mus musculus": 39,
+    "Rattus norvegicus": 28,
+    "Myodes glareolus": 16,
+    "Peromyscus maniculatus": 16,
+    "Oryctolagus cuniculus": 8,
+    "Cricetulus griseus": 10,
+    "Mesocricetus auratus": 10,
+    "Phodopus roborovskii": 5,
+    "Mus saxicola": 4,
+    "Mus spicilegus": 3,
+    "Urocitellus parryii": 8,
+    "Sus scrofa": 21,
+    "Malo": 6,
+    "Equus caballus": 29,
+    "Macaca fascicularis": 117,
+    "Microtus ochrogaster": 10,
+    "Apodemus speciosus": 6,
+    "Canis lupus": 9,
+    "Sciurus aberti": 1,
+    "Dipodomys ordii": 6,
+    "Mus caroli": 5,
+    "Dipodomys spectabilis": 6,
+    "Ovis ammon": 4,
+    "Sigmodon hispidus": 4,
+    "Nannospalax galili": 6,
+    "Neotoma lepida": 8,
+    "Peromyscus eremicus": 4,
+    "Peromyscus leucopus": 8,
+    "Caja": 11,
+    "Macaca mulatta": 71,
+    "Ovis aries": 28,
+    "Bos taurus": 14,
+    "Mane": 15,
+    "Sala": 4,
+    "Chsa": 8,
+    "Aona": 6,
+    "Aovo": 1,
+    "Cahi": 4,
+    "Popy": 7,
+    "Poab": 5,
+    "Ovca": 4,
+    "Chae": 9,
+    "Felis catus": 1,
+    "Bubalus bubalis": 4,
+    "Erinaceus europaeus": 2,
+    "Carlito syrichta": 2,
+    "Colobus angolensis": 3,
+    "Cebus imitator": 3,
+    "Mandrillus leucophaeus": 1,
+    "Tursiops truncatus": 2,
+    "Neophocaena asiaeorientalis": 3,
+    "Ursus maritimus": 1,
+    "Capra hircus": 3,
+    "Suricata suricatta": 3,
+    "Bison bison": 2,
+    "Phyllostomus discolor": 2,
+    "Ailuropoda melanoleuca": 1,
+    "Camelus ferus": 1,
+    "Balaenoptera musculus": 2,
+    "Catagonus wagneri": 3,
+    "Callithrix jacchus": 5,
+    "Mus spretus": 1,
+    "Pongo pygmaeus": 5,
+    "Odobenus rosmarus": 2,
+    "Delphinapterus leucas": 1,
+    "Pteropus vampyrus": 2,
+    "Bos grunniens": 3,
+    "Microcebus murinus": 4,
+    "Monodon monoceros": 2,
+    "Moschus moschiferus": 4,
+    "Neogale vison": 4,
+    "Chrysochloris asiatica": 1,
+    "Physeter macrocephalus": 2,
+    "Daubentonia madagascariensis": 2,
+    "Rangifer tarandus": 2,
+    "Myotis lucifugus": 8,
+    "Mustela putorius": 4,
+    "Rhinopithecus roxellana": 2,
+    "Leptonychotes weddellii": 2,
+    "Enhydra lutris": 3,
+    "Rhinolophus ferrumequinum": 3,
+    "Vicugna pacos": 2,
+    "Acinonyx jubatus": 1,
+    "Sapajus apella": 4,
+    "Panthera leo": 1,
+    "Prolemur simus": 3,
+    "Cnephaeus nilssonii": 3,
+    "Otolemur garnettii": 2,
+    "Saimiri boliviensis": 3,
+    "Lipotes vexillifer": 1,
+    "Diceros bicornis": 1,
+    "Orycteropus afer": 1,
+    "Hipposideros armiger": 5,
+    "Gulo gulo": 2,
+    "Desmodus rotundus": 2,
+    "Tupaia chinensis": 2,
+    "Nomascus leucogenys": 2,
+    "Aotus nancymaae": 4,
+    "Neomonachus schauinslandi": 2,
+    "Callorhinus ursinus": 2,
+    "Muntiacus reevesi": 6,
+    "Muntiacus muntjak": 4,
+    "Crocuta crocuta": 2,
+    "Zalophus californianus": 5,
+    "Camelus bactrianus": 2,
+    "Myotis davidii": 4,
+    "Balaenoptera acutorostrata": 1,
+    "Trichechus manatus": 2,
+    "Loxodonta africana": 4,
+    "Echinops telfairi": 1,
+    "Galeopterus variegatus": 1,
+    "Ceratotherium simum": 2,
+    "Pipistrellus nathusii": 2,
+    "Saguinus oedipus": 4,
+    "Chlorocebus sabaeus": 2,
+    "Papio anubis": 3,
+    "Propithecus coquereli": 1,
+    "Macaca leonina": 3,
+    "Bos indicus": 4,
+    "Pongo abelii": 4,
+    "Myotis myotis": 3,
+    "Molossus molossus": 2,
+    "Equus asinus": 3,
+    "Piliocolobus tephrosceles": 1,
+    "Theropithecus gelada": 1,
+    "Macaca nemestrina": 4,
+    "Muntiacus crinifrons": 3,
+    "Vulpes vulpes": 1,
+    "Macaca thibetana": 7,
+    "Meles meles": 1,
+    "Rucervus eldii": 2,
+    "Pan paniscus": 2,
+    "Equus przewalskii": 1,
+    "Tursiops aduncus": 1,
+    "Myotis brandtii": 5,
+    "Camelus dromedarius": 2,
+    "Hippopotamus amphibius": 2,
+    "Cervus elaphus": 2,
+    "Balaenoptera physalus": 1,
+    "Mastomys natalensis": 3,
+    "Pipistrellus kuhlii": 1,
+    "Aotus lemurinus": 1,
+    "Ursus americanus": 1,
+    "Galemys pyrenaicus": 2,
+    "Vombatus ursinus": 5,
+    "Cercocebus atys": 1,
+    "Pygathrix nigripes": 1,
+    "Cephalorhynchus hectori": 2,
+    "Spalax ehrenbergi": 2,
+    "Paan": 4,
+    "Aole": 2,
+    "Saoe": 1,
+    "Gallus gallus": 1,
+    "Phascolarctos cinereus": 5,
+    "Monodelphis domestica": 4,
+    "Sarcophilus harrisii": 2,
+    "Liparis tanakae": 1,
+    "Scortum barcoo": 1,
+    "Cirrhinus molitorella": 1,
+    "Varanus komodoensis": 8,
+    "Naja naja": 3,
+    "Menidia menidia": 2,
+    "Labeo rohita": 4,
+    "Danionella cerebrum": 4,
+    "Salmo trutta": 2,
+    "Oncorhynchus mykiss": 7,
+    "Lates japonicus": 1,
+    "Perca fluviatilis": 2,
+    "Dallia pectoralis": 1,
+    "Salmo salar": 3,
+    "Mauremys mutica": 1,
+    "Notamacropus eugenii": 10,
+    "Trichosurus vulpecula": 1,
+    "Collichthys lucidus": 1,
+    "Amphiprion percula": 1,
+    "Etheostoma spectabile": 1,
+    "Terrapene triunguis": 1,
+    "Peucedramus taeniatus": 1,
+    "Tichodroma muraria": 1,
+    "Melanocharis versteri": 1,
+    "Zosterops lateralis": 1,
+    "Prunella himalayana": 1,
+    "Picathartes gymnocephalus": 1,
+    "Pardalotus punctatus": 1,
+    "Salvator merianae": 1,
+    "Pogona vitticeps": 2,
+    "Goodea atripinnis": 1,
+    "Falcunculus frontatus": 1,
+    "Hemibagrus guttatus": 1,
+    "Scophthalmus maximus": 1
+   },
+   "M": 90,
+   "match_labels": [
+    "1A",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "14",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "45A",
+    "45B",
+    "45C",
+    "45D",
+    "45E",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "84A",
+    "84B",
+    "84C",
+    "84D",
+    "85D",
+    "85C",
+    "85B",
+    "85A",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "98",
+    "99",
+    "100",
+    "101",
+    "102",
+    "103",
+    "104",
+    "105",
+    "106",
+    "107",
+    "108",
+    "109",
+    "110",
+    "113",
+    "114",
+    "115",
+    "116",
+    "117",
+    "118",
+    "119",
+    "120",
+    "121"
+   ],
+   "insert_labels": {
+    "0": [
+     "1H",
+     "1G",
+     "1F",
+     "1E",
+     "1D",
+     "1C",
+     "1B"
+    ],
+    "10": [
+     "10",
+     "11",
+     "12",
+     "13"
+    ],
+    "11": [
+     "15",
+     "15A",
+     "15B",
+     "15C"
+    ],
+    "26": [
+     "31",
+     "34"
+    ],
+    "42": [
+     "45F",
+     "45G"
+    ],
+    "54": [
+     "84E",
+     "84F",
+     "84G",
+     "85G",
+     "85F",
+     "85E"
+    ],
+    "68": [
+     "95",
+     "96",
+     "96A",
+     "96B",
+     "97"
+    ],
+    "81": [
+     "111",
+     "112"
+    ],
+    "90": [
+     "122",
+     "123",
+     "124",
+     "125",
+     "126",
+     "127",
+     "128",
+     "129",
+     "130",
+     "131",
+     "132",
+     "133",
+     "134",
+     "135"
+    ]
+   },
+   "loop_canon": {
+    "1A|1": {
+     "0": []
+    },
+    "1|2": {
+     "0": []
+    },
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|7": {
+     "0": []
+    },
+    "7|8": {
+     "0": []
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|20": {
+     "1": [
+      "19"
+     ],
+     "2": [
+      "18",
+      "19"
+     ],
+     "0": [],
+     "9": [
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "16",
+      "17",
+      "18",
+      "19"
+     ],
+     "6": [
+      "10",
+      "11",
+      "12",
+      "17",
+      "18",
+      "19"
+     ]
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|40": {
+     "0": []
+    },
+    "40|41": {
+     "0": []
+    },
+    "41|42": {
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|45A": {
+     "0": []
+    },
+    "45A|45B": {
+     "0": []
+    },
+    "45B|45C": {
+     "0": []
+    },
+    "45C|45D": {
+     "0": []
+    },
+    "45D|45E": {
+     "0": []
+    },
+    "45E|77": {
+     "0": [],
+     "1": [
+      "45F"
+     ]
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|84A": {
+     "0": []
+    },
+    "84A|84B": {
+     "0": []
+    },
+    "84B|84C": {
+     "0": []
+    },
+    "84C|84D": {
+     "0": []
+    },
+    "84D|85D": {
+     "0": []
+    },
+    "85D|85C": {
+     "0": []
+    },
+    "85C|85B": {
+     "0": []
+    },
+    "85B|85A": {
+     "0": []
+    },
+    "85A|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    },
+    "88|89": {
+     "0": []
+    },
+    "89|90": {
+     "0": []
+    },
+    "90|91": {
+     "0": []
+    },
+    "91|92": {
+     "0": []
+    },
+    "92|93": {
+     "0": []
+    },
+    "93|94": {
+     "0": []
+    },
+    "94|98": {
+     "0": []
+    },
+    "98|99": {
+     "0": []
+    },
+    "99|100": {
+     "0": []
+    },
+    "100|101": {
+     "0": []
+    },
+    "101|102": {
+     "0": []
+    },
+    "102|103": {
+     "0": []
+    },
+    "103|104": {
+     "0": []
+    },
+    "104|105": {
+     "0": []
+    },
+    "105|106": {
+     "0": []
+    },
+    "106|107": {
+     "0": []
+    },
+    "107|108": {
+     "0": []
+    },
+    "108|109": {
+     "0": []
+    },
+    "109|110": {
+     "0": []
+    },
+    "110|113": {
+     "0": []
+    },
+    "113|114": {
+     "0": []
+    },
+    "114|115": {
+     "0": []
+    },
+    "115|116": {
+     "0": []
+    },
+    "116|117": {
+     "0": []
+    },
+    "117|118": {
+     "0": []
+    },
+    "118|119": {
+     "0": []
+    },
+    "119|120": {
+     "0": []
+    },
+    "120|121": {
+     "0": []
+    }
+   }
+  },
+  "G_ALPHA": {
+   "grid": "G",
+   "n_seqs": 2911,
+   "species": {
+    "Homo sapiens": 222,
+    "Sus scrofa": 58,
+    "Gorilla gorilla": 17,
+    "Pan troglodytes": 16,
+    "Bos taurus": 113,
+    "Macaca fascicularis": 121,
+    "Macaca nemestrina": 22,
+    "Aotus nancymaae": 14,
+    "Cercocebus atys": 3,
+    "Neomonachus schauinslandi": 5,
+    "Callorhinus ursinus": 2,
+    "Aotus lemurinus": 3,
+    "Camelus dromedarius": 4,
+    "Catagonus wagneri": 4,
+    "Macaca mulatta": 47,
+    "Pongo abelii": 9,
+    "Canis lupus": 60,
+    "Zalophus californianus": 7,
+    "Cebus imitator": 7,
+    "Macaca leonina": 5,
+    "Pan paniscus": 3,
+    "Vulpes vulpes": 4,
+    "Callithrix jacchus": 11,
+    "Rhinolophus ferrumequinum": 8,
+    "Nyctereutes procyonoides": 4,
+    "Piliocolobus tephrosceles": 5,
+    "Fukomys damarensis": 5,
+    "Rhinopithecus roxellana": 12,
+    "Pongo pygmaeus": 7,
+    "Vicugna pacos": 5,
+    "Hipposideros armiger": 10,
+    "Papio anubis": 21,
+    "Saguinus oedipus": 5,
+    "Mustela putorius": 10,
+    "Nomascus leucogenys": 6,
+    "Colobus angolensis": 4,
+    "Saimiri boliviensis": 6,
+    "Neogale vison": 8,
+    "Myotis lucifugus": 13,
+    "Enhydra lutris": 8,
+    "Muntiacus reevesi": 11,
+    "Sapajus apella": 5,
+    "Rhinopithecus bieti": 2,
+    "Ailuropoda melanoleuca": 37,
+    "Carlito syrichta": 5,
+    "Ursus americanus": 5,
+    "Canis latrans": 1,
+    "Camelus bactrianus": 7,
+    "Ceratotherium simum": 4,
+    "Equus przewalskii": 4,
+    "Nasalis larvatus": 3,
+    "Semnopithecus entellus": 3,
+    "Hyla": 5,
+    "Papp": 3,
+    "Cemi": 8,
+    "Cogu": 1,
+    "Thge": 2,
+    "Paha": 2,
+    "Cervus elaphus": 5,
+    "Lipotes vexillifer": 4,
+    "Capra hircus": 25,
+    "Oryctolagus cuniculus": 31,
+    "Lynx canadensis": 4,
+    "Tursiops truncatus": 10,
+    "Orycteropus afer": 7,
+    "Neophocaena asiaeorientalis": 5,
+    "Balaenoptera acutorostrata": 2,
+    "Equus caballus": 23,
+    "Pteropus vampyrus": 7,
+    "Prolemur simus": 6,
+    "Delphinapterus leucas": 4,
+    "Balaenoptera physalus": 2,
+    "Monodon monoceros": 3,
+    "Odobenus rosmarus": 4,
+    "Chrysochloris asiatica": 4,
+    "Propithecus coquereli": 5,
+    "Sousa chinensis": 3,
+    "Rousettus aegyptiacus": 1,
+    "Moschus moschiferus": 5,
+    "Otolemur garnettii": 5,
+    "Mus musculus": 33,
+    "Erinaceus europaeus": 4,
+    "Trichechus manatus": 8,
+    "Peromyscus maniculatus": 24,
+    "Dipodomys ordii": 4,
+    "Physeter macrocephalus": 4,
+    "Diceros bicornis": 4,
+    "Sciurus vulgaris": 7,
+    "Heterocephalus glaber": 5,
+    "Loxodonta africana": 12,
+    "Mus caroli": 5,
+    "Spermophilus dauricus": 10,
+    "Mus spicilegus": 2,
+    "Phodopus roborovskii": 4,
+    "Daubentonia madagascariensis": 4,
+    "Octodon degus": 8,
+    "Chinchilla lanigera": 5,
+    "Cricetulus griseus": 5,
+    "Mesocricetus auratus": 6,
+    "Marmota marmota": 4,
+    "Molossus molossus": 1,
+    "Rattus sp": 2,
+    "Rattus norvegicus": 16,
+    "Muntiacus muntjak": 6,
+    "Equus asinus": 6,
+    "Crocuta crocuta": 3,
+    "Galemys pyrenaicus": 5,
+    "Jaculus jaculus": 2,
+    "Sciurus carolinensis": 5,
+    "Ovis aries": 88,
+    "Nannospalax galili": 3,
+    "Ictidomys tridecemlineatus": 6,
+    "Microcebus murinus": 24,
+    "Ommatophoca rossii": 1,
+    "Hydrurga leptonyx": 1,
+    "Mirounga leonina": 2,
+    "Cavia porcellus": 7,
+    "Hypogeomys antimena": 1,
+    "Galeopterus variegatus": 6,
+    "Echinops telfairi": 4,
+    "Odocoileus virginianus": 5,
+    "Microtus ochrogaster": 7,
+    "Rangifer tarandus": 5,
+    "Urocitellus parryii": 4,
+    "Felis catus": 4,
+    "Pygathrix nigripes": 3,
+    "Tupaia chinensis": 9,
+    "Castor canadensis": 5,
+    "Neotoma lepida": 7,
+    "Sigmodon hispidus": 3,
+    "Myodes glareolus": 62,
+    "Peromyscus californicus": 7,
+    "Rattus fuscipes": 30,
+    "Rattus leucopus": 2,
+    "Rattus sp.": 1,
+    "Arvicola amphibius": 6,
+    "Rattus tunneyi": 1,
+    "Rattus villosissimus": 1,
+    "Rattus colletti": 1,
+    "Lepus europaeus": 52,
+    "Lepus capensis": 17,
+    "Apodemus speciosus": 4,
+    "Acinonyx jubatus": 4,
+    "Sciurus aberti": 1,
+    "Lynx pardinus": 2,
+    "Balaenoptera musculus": 3,
+    "Phascolarctos cinereus": 9,
+    "Vombatus ursinus": 6,
+    "Phocoena sinus": 2,
+    "Panthera tigris": 3,
+    "Suricata suricatta": 3,
+    "Eschrichtius robustus": 1,
+    "Monodelphis domestica": 15,
+    "Panthera pardus": 4,
+    "Phyllostomus discolor": 5,
+    "Puma concolor": 3,
+    "Bubalus bubalis": 11,
+    "Sarcophilus harrisii": 2,
+    "Notamacropus": 2,
+    "Nomascus gabriellae": 2,
+    "Leptonychotes weddellii": 3,
+    "Pteropus alecto": 3,
+    "Myotis brandtii": 9,
+    "Desmodus rotundus": 2,
+    "Panthera leo": 3,
+    "Eptesicus fuscus": 1,
+    "Trichosurus vulpecula": 2,
+    "Equus quagga": 4,
+    "Mus cookii": 1,
+    "Mus macedonicus": 1,
+    "Moschus berezovskii": 10,
+    "Taxidea taxus": 2,
+    "Equus hemionus": 1,
+    "Macaca thibetana": 16,
+    "Pontoporia blainvillei": 1,
+    "Oreamnos americanus": 1,
+    "Mandrillus leucophaeus": 3,
+    "Papio hamadryas": 1,
+    "Chlorocebus sabaeus": 7,
+    "Theropithecus gelada": 10,
+    "Sasc": 3,
+    "Maar": 3,
+    "Gulo gulo": 1,
+    "Ovis ammon": 5,
+    "Cnephaeus nilssonii": 5,
+    "Myotis davidii": 6,
+    "Ursus maritimus": 2,
+    "Bos mutus": 2,
+    "Camelus ferus": 2,
+    "Math": 5,
+    "Pipistrellus nathusii": 2,
+    "Peromyscus leucopus": 1,
+    "Elephas maximus": 3,
+    "Canis aureus": 1,
+    "Saoe": 2,
+    "Bos indicus": 7,
+    "Bos grunniens": 3,
+    "Bison bison": 8,
+    "Bos gaurus": 1,
+    "Meles meles": 2,
+    "Vulpes lagopus": 1,
+    "Muntiacus crinifrons": 3,
+    "Bubu": 15,
+    "Bogr": 12,
+    "Pacy": 8,
+    "Aona": 5,
+    "Chae": 6,
+    "Cene": 2,
+    "Loat": 1,
+    "Mastomys natalensis": 3,
+    "Microtus arvalis": 5,
+    "Gopherus evgoodei": 5,
+    "Gopherus agassizii": 10,
+    "Chelydra serpentina": 8,
+    "Mauremys mutica": 5,
+    "Platysternon megacephalum": 3,
+    "Chelonoidis abingdonii": 4,
+    "Terrapene triunguis": 18,
+    "Chrysemys picta": 9,
+    "Pelodiscus sinensis": 1,
+    "Lepidochelys olivacea": 2,
+    "Caretta caretta": 4,
+    "Crocodylus porosus": 2,
+    "Pelusios castaneus": 12,
+    "Sphenodon punctatus": 8,
+    "Anas platyrhynchos": 3,
+    "Cairina moschata": 1,
+    "Aquila chrysaetos": 2,
+    "Aythya fuligula": 1,
+    "Oceanodroma leucorhoa": 6,
+    "Cochlearius cochlearius": 1,
+    "Chionis minor": 1,
+    "Rhynochetos jubatus": 1,
+    "Upupa epops": 2,
+    "Sula dactylatra": 1,
+    "Asarcornis scutulata": 1,
+    "Ciconia boyciana": 2,
+    "Eudyptes filholi": 1,
+    "Corythaixoides concolor": 2,
+    "Eudyptula minor": 1,
+    "Anser cygnoides": 2,
+    "Bucco capensis": 2,
+    "Mesembrinibis cayennensis": 2,
+    "Centropus bengalensis": 1,
+    "Rhinopomastus cyanomelas": 1,
+    "Apteryx owenii": 2,
+    "Galbula dea": 1,
+    "Ciconia maguari": 1,
+    "Nothoprocta pentlandii": 3,
+    "Mycteria americana": 2,
+    "Jacana jacana": 2,
+    "Casuarius casuarius": 1,
+    "Zapornia atra": 1,
+    "Crypturellus undulatus": 3,
+    "Notamacropus eugenii": 3,
+    "Marmota monax": 2,
+    "Eublepharis macularius": 7,
+    "Varanus komodoensis": 8,
+    "Nipponia nippon": 3,
+    "Balaeniceps rex": 1,
+    "Nyctibius bracteatus": 3,
+    "Thalassarche chlororhynchos": 2,
+    "Nyctibius grandis": 2,
+    "Gekko japonicus": 4,
+    "Gallus gallus": 10,
+    "Coturnix japonica": 2,
+    "Xenopus laevis": 21,
+    "Xenopus tropicalis": 1,
+    "Hymenochirus boettgeri": 1,
+    "Rhinella marina": 8,
+    "Leptobrachium leishanense": 2,
+    "Pelobates cultripes": 1,
+    "Pyxicephalus adspersus": 2,
+    "Aquarana catesbeiana": 1,
+    "Engystomops pustulosus": 2,
+    "Bufotes viridis": 3,
+    "Andrias davidianus": 11,
+    "Ornithorhynchus anatinus": 1,
+    "Pogona vitticeps": 9,
+    "Microcaecilia unicolor": 3,
+    "Geotrypetes seraphini": 3,
+    "Salvelinus malma": 1,
+    "Oncorhynchus mykiss": 11,
+    "Salvelinus alpinus": 1,
+    "Salvelinus namaycush": 1,
+    "Salmo salar": 26,
+    "Salmo trutta": 2,
+    "Oncorhynchus kisutch": 2,
+    "Coregonus suidteri": 1,
+    "Esox lucius": 3,
+    "Hucho hucho": 2,
+    "Oncorhynchus tshawytscha": 2,
+    "Sinocyclocheilus grahami": 6,
+    "Sinocyclocheilus anshuiensis": 8,
+    "Cyprinus carpio": 7,
+    "Sinocyclocheilus rhinocerous": 9,
+    "Labeobarbus intermedius": 2,
+    "Labeo rohita": 4,
+    "Culter alburnus": 8,
+    "Apteryx mantelli": 1,
+    "Pleurodeles waltl": 1,
+    "Latimeria chalumnae": 2,
+    "Umbra pygmaea": 1,
+    "Lepisosteus oculatus": 2,
+    "Eleutherodactylus coqui": 1,
+    "Ranitomeya imitator": 1,
+    "Taeniopygia guttata": 4,
+    "Lonchura striata": 1,
+    "Grus japonensis": 1,
+    "Cnemophilus loriae": 1,
+    "Psophia crepitans": 1,
+    "Hemiprocne comata": 1,
+    "Myiagra hebetior": 1,
+    "Pluvianellus socialis": 1,
+    "Orthonyx spaldingii": 1,
+    "Poecile atricapillus": 1,
+    "Nesospiza acunhae": 1,
+    "Strigops habroptila": 1,
+    "Melospiza melodia": 1,
+    "Dasyornis broadbenti": 1,
+    "Cinclus mexicanus": 1,
+    "Melopsittacus undulatus": 1,
+    "Xiphorhynchus elegans": 1,
+    "Eolophus roseicapilla": 1,
+    "Glareola pratincola": 2,
+    "Amazona guildingii": 1,
+    "Amazona collaria": 1,
+    "Bucorvus abyssinicus": 1,
+    "Atlantisia rogersi": 2,
+    "Seriola dumerili": 1,
+    "Seriola lalandi": 3,
+    "Xiphophorus maculatus": 6,
+    "Poecilia latipinna": 5,
+    "Poecilia mexicana": 2,
+    "Kryptolebias marmoratus": 3,
+    "Oryzias latipes": 2,
+    "Gasterosteus aculeatus": 5,
+    "Salarias fasciatus": 6,
+    "Xiphophorus couchianus": 1,
+    "Onychostoma macrolepis": 4,
+    "Cirrhinus molitorella": 8,
+    "Maylandia zebra": 23,
+    "Oreochromis niloticus": 40,
+    "Thamnophis sirtalis": 1,
+    "Pseudonaja textilis": 1,
+    "Python bivittatus": 1,
+    "Naja naja": 2,
+    "Ophiophagus hannah": 1,
+    "Laticauda laticaudata": 1,
+    "Pantherophis guttatus": 1,
+    "Sphaerodactylus townsendi": 4,
+    "Clupea harengus": 4,
+    "Coilia grayii": 1,
+    "Nothoprocta perdicaria": 2,
+    "Eudromia elegans": 2,
+    "Anabarilius grahami": 2,
+    "Ctenopharyngodon idella": 3,
+    "Astyanax mexicanus": 10,
+    "Channa argus": 3,
+    "Scleropages formosus": 6,
+    "Aulonocara hansbaenschi": 2,
+    "Electrophorus voltai": 1,
+    "Betta splendens": 2,
+    "Dicentrarchus labrax": 7,
+    "Morone saxatilis": 3,
+    "Acanthochromis polyacanthus": 4,
+    "Amphiprion percula": 1,
+    "Amphiprion ocellaris": 2,
+    "Aramus guarauna": 2,
+    "Fregetta grallaria": 1,
+    "Grus americana": 1,
+    "Scopus umbretta": 1,
+    "Haliaeetus albicilla": 1,
+    "Spizaetus tyrannus": 1,
+    "Ibidorhyncha struthersii": 1,
+    "Pterocles burchelli": 1,
+    "Steatornis caripensis": 1,
+    "Oceanites oceanicus": 1,
+    "Sagittarius serpentarius": 1,
+    "Strix occidentalis": 3,
+    "Burhinus bistriatus": 1,
+    "Rostratula benghalensis": 1,
+    "Smutsornis africanus": 2,
+    "Calidris pygmaea": 2,
+    "Himantopus himantopus": 1,
+    "Cathartes aura": 1,
+    "Herpetotheres cachinnans": 1,
+    "Callorhinchus milii": 4,
+    "Mastacembelus armatus": 2,
+    "Mugil incilis": 1,
+    "Scatophagus argus": 17,
+    "Scortum barcoo": 3,
+    "Acipenser dabryanus": 10,
+    "Acipenser oxyrinchus": 3,
+    "Huso huso": 5,
+    "Triplophysa tibetana": 1,
+    "Danio rerio": 2,
+    "Phoxinus phoxinus": 2,
+    "Lates calcarifer": 1,
+    "Sander lucioperca": 4,
+    "Epinephelus coioides": 6,
+    "Trachinotus ovatus": 12,
+    "Fundulus heteroclitus": 1,
+    "Tachysurus vachellii": 1,
+    "Leiocassis longirostris": 1,
+    "Scomber scombrus": 4,
+    "Neolamprologus brichardi": 12,
+    "Astatotilapia calliptera": 5,
+    "Pundamilia nyererei": 4,
+    "Albula goreensis": 1,
+    "Denticeps clupeoides": 1,
+    "Mola mola": 2,
+    "Myripristis murdjan": 16,
+    "Tetraodon nigroviridis": 3,
+    "Sparus aurata": 9,
+    "Pygocentrus nattereri": 7,
+    "Channa striata": 2,
+    "Osmerus mordax": 1,
+    "Plecoglossus altivelis": 1,
+    "Echeneis naucrates": 1,
+    "Oryzias javanicus": 1,
+    "Perca fluviatilis": 2,
+    "Sander vitreus": 1,
+    "Poecilia reticulata": 2,
+    "Poecilia formosa": 1,
+    "Parambassis ranga": 2,
+    "Ginglymostoma cirratum": 1,
+    "Ataeniobius toweri": 1,
+    "Podarcis muralis": 4,
+    "Podarcis lilfordi": 3,
+    "Salvator merianae": 22,
+    "Carassius auratus": 1,
+    "Leuciscus waleckii": 1,
+    "Cyclopterus lumpus": 1,
+    "Cottoperca gobio": 1,
+    "Oreochromis aureus": 12,
+    "Miichthys miiuy": 10,
+    "Oryzias melastigma": 1,
+    "Alosa sapidissima": 1,
+    "Pagrus major": 1,
+    "Takifugu rubripes": 3,
+    "Takifugu bimaculatus": 1,
+    "Zoarces viviparus": 1,
+    "Cynoglossus semilaevis": 3,
+    "Monopterus albus": 1,
+    "Amphilophus citrinellus": 6,
+    "Haplochromis burtoni": 5,
+    "Sarotherodon galilaeus": 3,
+    "Verasper variegatus": 1,
+    "Chroicocephalus maculipennis": 1,
+    "Corythaeola cristata": 1,
+    "Stercorarius parasiticus": 2,
+    "Phaetusa simplex": 1,
+    "Pedionomus torquatus": 1,
+    "Phrynocephalus forsythii": 2,
+    "Paralichthys olivaceus": 2,
+    "Silurus asotus": 1,
+    "Aldrovandia affinis": 1,
+    "Podargus strigoides": 1,
+    "Podilymbus podiceps": 1,
+    "Eudyptes sclateri": 1,
+    "Ceuthmochares aereus": 1,
+    "Centropus unirufus": 1,
+    "Nothocercus nigrocapillus": 1,
+    "Accipiter nisus": 1,
+    "Rynchops niger": 1,
+    "Thinocorus orbignyianus": 1,
+    "Piaya cayana": 1,
+    "Columba livia": 1,
+    "Leuciscus chuanchicus": 1,
+    "Stegastes partitus": 2,
+    "Ilyodon furcidens": 1,
+    "Eubucco bourcierii": 2,
+    "Indicator maculatus": 1,
+    "Semnornis frantzii": 1,
+    "Ramphastos sulfuratus": 1,
+    "Arenaria interpres": 1,
+    "Nyctiprogne leucopyga": 1,
+    "Alca torda": 1,
+    "Polyodon spathula": 1,
+    "Megalops atlanticus": 2,
+    "Scophthalmus maximus": 1,
+    "Dromas ardeola": 1,
+    "Chanos chanos": 1,
+    "Atractosteus spatula": 1,
+    "Arapaima gigas": 1,
+    "Staurois parvus": 2,
+    "Characodon lateralis": 1,
+    "Pangasius djambal": 1,
+    "Polypterus senegalus": 1,
+    "Chain ID": 1
+   },
+   "M": 90,
+   "match_labels": [
+    "1J",
+    "1C",
+    "1B",
+    "1A",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "7A",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94",
+    "95"
+   ],
+   "insert_labels": {
+    "1": [
+     "1I",
+     "1H",
+     "1G",
+     "1F",
+     "1E",
+     "1D"
+    ],
+    "19": [
+     "15",
+     "16",
+     "17",
+     "18"
+    ],
+    "40": [
+     "40",
+     "41"
+    ],
+    "48": [
+     "49A",
+     "49B",
+     "49C",
+     "49D",
+     "49E",
+     "49F",
+     "49G"
+    ],
+    "53": [
+     "54A",
+     "54B",
+     "54C",
+     "55",
+     "56",
+     "57",
+     "58"
+    ],
+    "56": [
+     "61A",
+     "61B"
+    ],
+    "67": [
+     "72A"
+    ],
+    "90": [
+     "96",
+     "97"
+    ]
+   },
+   "loop_canon": {
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|8": {
+     "1": [
+      "7"
+     ],
+     "2": [
+      "7",
+      "7A"
+     ]
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|10": {
+     "0": []
+    },
+    "10|11": {
+     "0": []
+    },
+    "11|12": {
+     "0": []
+    },
+    "12|13": {
+     "0": []
+    },
+    "13|14": {
+     "0": []
+    },
+    "14|19": {
+     "0": []
+    },
+    "19|20": {
+     "0": []
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|31": {
+     "0": []
+    },
+    "31|32": {
+     "0": []
+    },
+    "32|33": {
+     "0": []
+    },
+    "33|34": {
+     "0": []
+    },
+    "34|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|42": {
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|46": {
+     "0": []
+    },
+    "46|47": {
+     "0": []
+    },
+    "47|48": {
+     "0": []
+    },
+    "48|49": {
+     "0": []
+    },
+    "49|50": {
+     "0": []
+    },
+    "50|51": {
+     "0": []
+    },
+    "51|52": {
+     "0": []
+    },
+    "52|53": {
+     "0": []
+    },
+    "53|54": {
+     "0": []
+    },
+    "54|60": {
+     "1": [
+      "59"
+     ],
+     "0": []
+    },
+    "60|61": {
+     "0": []
+    },
+    "61|62": {
+     "0": []
+    },
+    "62|63": {
+     "0": []
+    },
+    "63|64": {
+     "0": []
+    },
+    "64|65": {
+     "0": []
+    },
+    "65|66": {
+     "0": []
+    },
+    "66|67": {
+     "0": []
+    },
+    "67|68": {
+     "0": []
+    },
+    "68|69": {
+     "0": []
+    },
+    "69|70": {
+     "0": []
+    },
+    "70|71": {
+     "0": []
+    },
+    "71|72": {
+     "0": []
+    },
+    "72|73": {
+     "0": []
+    },
+    "73|74": {
+     "0": []
+    },
+    "74|75": {
+     "0": []
+    },
+    "75|76": {
+     "0": []
+    },
+    "76|77": {
+     "0": []
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    },
+    "88|89": {
+     "0": []
+    },
+    "89|90": {
+     "0": []
+    },
+    "90|91": {
+     "0": []
+    },
+    "91|92": {
+     "0": []
+    }
+   }
+  },
+  "G_ALPHA1": {
+   "grid": "G",
+   "n_seqs": 13380,
+   "species": {
+    "Macaca mulatta": 686,
+    "Homo sapiens": 728,
+    "Gorilla gorilla": 38,
+    "Saguinus oedipus": 21,
+    "Pan troglodytes": 131,
+    "Papio anubis": 153,
+    "Rhinopithecus bieti": 12,
+    "Cercocebus atys": 139,
+    "Chlorocebus sabaeus": 96,
+    "Theropithecus gelada": 25,
+    "Macaca fascicularis": 971,
+    "Aotus nancymaae": 44,
+    "Piliocolobus tephrosceles": 25,
+    "Rhinopithecus roxellana": 14,
+    "Callithrix jacchus": 103,
+    "Sapajus apella": 27,
+    "Saimiri boliviensis": 12,
+    "Pongo abelii": 24,
+    "Macaca nemestrina": 286,
+    "Cebus capucinus": 5,
+    "Cebus albifrons": 46,
+    "Cebus imitator": 21,
+    "Ailuropoda melanoleuca": 29,
+    "Camelus ferus": 12,
+    "Pithecia pithecia": 6,
+    "Pan paniscus": 53,
+    "Ateles hybridus": 5,
+    "Macaca thibetana": 43,
+    "Ateles belzebuth": 9,
+    "Pongo pygmaeus": 31,
+    "Castor canadensis": 14,
+    "Saimiri sciureus": 11,
+    "Saguinus labiatus": 11,
+    "Nomascus leucogenys": 12,
+    "Chlorocebus aethiops": 108,
+    "Mandrillus leucophaeus": 9,
+    "Chlorocebus pygerythrus": 80,
+    "Daubentonia madagascariensis": 8,
+    "Ateles fusciceps": 19,
+    "Macaca leonina": 17,
+    "Papio hamadryas": 2,
+    "Aotus nigriceps": 10,
+    "Lagothrix lagotricha": 5,
+    "Aotus trivirgatus": 3,
+    "Aotus vociferans": 15,
+    "Aotus lemurinus": 2,
+    "Colobus angolensis": 19,
+    "Otolemur garnettii": 19,
+    "Meles meles": 12,
+    "Propithecus coquereli": 10,
+    "Mustela putorius": 10,
+    "Mus spicilegus": 25,
+    "Semnopithecus entellus": 5,
+    "Nasalis larvatus": 8,
+    "Ceratotherium simum": 18,
+    "Saoe": 12,
+    "Ceat": 4,
+    "Caja": 8,
+    "Mane": 26,
+    "Paan": 3,
+    "Canis lupus": 166,
+    "Oryctolagus cuniculus": 21,
+    "Bos taurus": 209,
+    "Cnephaeus nilssonii": 10,
+    "Hipposideros armiger": 17,
+    "Rhinolophus ferrumequinum": 15,
+    "Phyllostomus discolor": 38,
+    "Molossus molossus": 7,
+    "Rousettus aegyptiacus": 10,
+    "Myotis myotis": 7,
+    "Pteropus vampyrus": 8,
+    "Pteropus alecto": 6,
+    "Sus scrofa": 455,
+    "Sciurus aberti": 2,
+    "Cercopithecus mitis": 7,
+    "Neophocaena asiaeorientalis": 8,
+    "Trichechus manatus": 11,
+    "Physeter macrocephalus": 5,
+    "Balaenoptera acutorostrata": 11,
+    "Tursiops truncatus": 21,
+    "Zalophus californianus": 26,
+    "Balaenoptera musculus": 5,
+    "Equus asinus": 31,
+    "Monodon monoceros": 4,
+    "Microcebus murinus": 15,
+    "Neogale vison": 22,
+    "Phocoena sinus": 3,
+    "Loxodonta africana": 18,
+    "Lemur catta": 8,
+    "Diceros bicornis": 7,
+    "Leontopithecus rosalia": 2,
+    "Leontocebus fuscicollis": 4,
+    "Papio cynocephalus": 3,
+    "Macaca assamensis": 12,
+    "Saguinus leucopus": 3,
+    "Gorilla beringei": 1,
+    "Delphinapterus leucas": 3,
+    "Carlito syrichta": 4,
+    "Capra hircus": 26,
+    "Catagonus wagneri": 17,
+    "Prolemur simus": 6,
+    "Macaca arctoides": 19,
+    "Bison bison": 32,
+    "Alouatta seniculus": 5,
+    "Muntiacus muntjak": 17,
+    "Hylobates lar": 3,
+    "Lipotes vexillifer": 5,
+    "Equus caballus": 72,
+    "Ursus americanus": 9,
+    "Enhydra lutris": 9,
+    "Orycteropus afer": 13,
+    "Panthera pardus": 7,
+    "Erinaceus europaeus": 21,
+    "Bos mutus": 8,
+    "Crocuta crocuta": 5,
+    "Odocoileus virginianus": 12,
+    "Cavia porcellus": 21,
+    "Bos indicus": 41,
+    "Leptonychotes weddellii": 2,
+    "Neomonachus schauinslandi": 9,
+    "Vulpes vulpes": 7,
+    "Cervus hanglu": 4,
+    "Ursus maritimus": 5,
+    "Odobenus rosmarus": 5,
+    "Felis catus": 68,
+    "Fukomys damarensis": 6,
+    "Muntiacus reevesi": 14,
+    "Acinonyx jubatus": 14,
+    "Bos grunniens": 9,
+    "Moschus moschiferus": 8,
+    "Panthera leo": 10,
+    "Panthera tigris": 19,
+    "Sciurus vulgaris": 13,
+    "Tupaia belangeri": 22,
+    "Lynx canadensis": 9,
+    "Ovis aries": 88,
+    "Suricata suricatta": 11,
+    "Nyctereutes procyonoides": 5,
+    "Rangifer tarandus": 11,
+    "Camelus bactrianus": 8,
+    "Galemys pyrenaicus": 29,
+    "Equus przewalskii": 27,
+    "Lynx pardinus": 8,
+    "Spermophilus dauricus": 47,
+    "Elaphurus davidianus": 7,
+    "Marmota monax": 26,
+    "Ovis ammon": 17,
+    "Mus caroli": 40,
+    "Marmota marmota": 21,
+    "Ictidomys tridecemlineatus": 26,
+    "Urocitellus parryii": 22,
+    "Myodes glareolus": 31,
+    "Neophocaena phocaenoides": 4,
+    "Stenella attenuata": 6,
+    "Phoca vitulina": 19,
+    "Sousa chinensis": 5,
+    "Halichoerus grypus": 31,
+    "Peromyscus maniculatus": 69,
+    "Vicugna pacos": 11,
+    "Galeopterus variegatus": 6,
+    "Papa": 15,
+    "Popy": 13,
+    "Pipistrellus nathusii": 10,
+    "Echinops telfairi": 9,
+    "Callorhinus ursinus": 5,
+    "Pygathrix nigripes": 4,
+    "Mesocricetus auratus": 43,
+    "Microtus ochrogaster": 30,
+    "Safu": 2,
+    "Sage": 1,
+    "Samy": 1,
+    "Mus musculus": 147,
+    "Rattus norvegicus": 117,
+    "Nannospalax galili": 11,
+    "Cricetulus griseus": 33,
+    "Phodopus roborovskii": 16,
+    "Mus spretus": 3,
+    "Sigmodon hispidus": 9,
+    "Apodemus speciosus": 20,
+    "Mus minutoides": 3,
+    "Mus platythrix": 3,
+    "Mus terricolor": 2,
+    "Mus cookii": 1,
+    "Mus abbotti": 2,
+    "Mus setulosus": 3,
+    "Mus pahari": 2,
+    "Mus shortridgei": 2,
+    "Sarcophilus harrisii": 18,
+    "Myotis lucifugus": 46,
+    "Pipistrellus kuhlii": 7,
+    "Myotis brandtii": 5,
+    "Chinchilla lanigera": 5,
+    "Heterocephalus glaber": 6,
+    "Chrysochloris asiatica": 12,
+    "Vombatus ursinus": 31,
+    "Monodelphis domestica": 71,
+    "Phascolarctos cinereus": 27,
+    "Notamacropus eugenii": 53,
+    "Myotis davidii": 3,
+    "Cervus elaphus": 5,
+    "Camelus dromedarius": 4,
+    "Neotoma lepida": 23,
+    "Balaenoptera physalus": 4,
+    "Octodon degus": 6,
+    "Eschrichtius robustus": 2,
+    "Tupaia chinensis": 5,
+    "Gulo gulo": 1,
+    "Sciurus carolinensis": 6,
+    "Puma concolor": 5,
+    "Gallus gallus": 160,
+    "Coturnix japonica": 10,
+    "Bambusicola thoracicus": 7,
+    "Numida meleagris": 2,
+    "Desmodus rotundus": 14,
+    "Bison bonasus": 6,
+    "Trichosurus vulpecula": 13,
+    "Notamacropus": 3,
+    "Isoodon macrourus": 2,
+    "Dipodomys ordii": 5,
+    "Cephalorhynchus hectori": 1,
+    "Jaculus jaculus": 4,
+    "Leopardus pardalis": 4,
+    "Poab": 4,
+    "Naja naja": 52,
+    "Mus gratus": 2,
+    "Peromyscus leucopus": 8,
+    "Peromyscus attwateri": 1,
+    "Peromyscus pectoralis": 1,
+    "Mastomys natalensis": 1,
+    "Hybomys univittatus": 1,
+    "Rattus tanezumi": 2,
+    "Apodemus agrarius": 1,
+    "Xanthonycticebus pygmaeus": 1,
+    "Pseudonaja textilis": 13,
+    "Pantherophis guttatus": 41,
+    "Notechis scutatus": 16,
+    "Crotalus adamanteus": 25,
+    "Laticauda laticaudata": 8,
+    "Thamnophis sirtalis": 6,
+    "Pleurodeles waltl": 9,
+    "Lissotriton vulgaris": 11,
+    "Chanos chanos": 19,
+    "Danionella cerebrum": 6,
+    "Oreochromis aureus": 61,
+    "Megalops atlanticus": 10,
+    "Coilia grayii": 10,
+    "Maylandia zebra": 52,
+    "Triplophysa tibetana": 9,
+    "Denticeps clupeoides": 45,
+    "Triplophysa rosa": 8,
+    "Stegastes partitus": 6,
+    "Salmo salar": 51,
+    "Umbra pygmaea": 9,
+    "Salmo trutta": 40,
+    "Clupea harengus": 18,
+    "Oncorhynchus kisutch": 15,
+    "Phoxinus phoxinus": 11,
+    "Esox lucius": 17,
+    "Hucho hucho": 28,
+    "Alosa alosa": 7,
+    "Coregonus suidteri": 11,
+    "Anabarilius grahami": 11,
+    "Oncorhynchus tshawytscha": 14,
+    "Salvelinus namaycush": 16,
+    "Oncorhynchus mykiss": 60,
+    "Scleropages formosus": 14,
+    "Culter alburnus": 20,
+    "Leuciscus chuanchicus": 19,
+    "Leuciscus waleckii": 11,
+    "Podarcis muralis": 24,
+    "Sphaeramia orbicularis": 22,
+    "Periophthalmus magnuspinnatus": 35,
+    "Neogobius melanostomus": 36,
+    "Mugilogobius chulae": 15,
+    "Knipowitschia caucasica": 5,
+    "Chelydra serpentina": 7,
+    "Platysternon megacephalum": 6,
+    "Chrysemys picta": 25,
+    "Gopherus evgoodei": 22,
+    "Chelonoidis abingdonii": 16,
+    "Terrapene triunguis": 6,
+    "Gopherus agassizii": 9,
+    "Lepidochelys kempii": 4,
+    "Lepidochelys olivacea": 7,
+    "Caretta caretta": 7,
+    "Gasterosteus aculeatus": 31,
+    "Oryzias latipes": 39,
+    "Oryzias javanicus": 21,
+    "Cyclopterus lumpus": 20,
+    "Oryzias melastigma": 34,
+    "Anabas testudineus": 19,
+    "Sparus aurata": 56,
+    "Collichthys lucidus": 5,
+    "Poecilia latipinna": 24,
+    "Xyrichtys novacula": 6,
+    "Amphilophus citrinellus": 40,
+    "Scomber scombrus": 28,
+    "Xiphophorus maculatus": 16,
+    "Larimichthys crocea": 2,
+    "Oryzias sinensis": 19,
+    "Amphiprion ocellaris": 7,
+    "Myripristis murdjan": 55,
+    "Dissostichus eleginoides": 8,
+    "Kryptolebias marmoratus": 19,
+    "Sander lucioperca": 40,
+    "Poecilia formosa": 12,
+    "Amphiprion percula": 16,
+    "Mastacembelus armatus": 16,
+    "Cyprinodon variegatus": 38,
+    "Poecilia mexicana": 14,
+    "Dicentrarchus labrax": 99,
+    "Xiphophorus couchianus": 19,
+    "Nothobranchius furzeri": 5,
+    "Eleginops maclovinus": 2,
+    "Austrofundulus limnaeus": 3,
+    "Perca fluviatilis": 20,
+    "Dissostichus mawsoni": 10,
+    "Champsocephalus esox": 1,
+    "Gymnodraco acuticeps": 3,
+    "Pagothenia borchgrevinki": 3,
+    "Parambassis ranga": 30,
+    "Lates calcarifer": 42,
+    "Fundulus heteroclitus": 32,
+    "Pogonophryne albipinna": 13,
+    "Oplegnathus fasciatus": 1,
+    "Monopterus albus": 14,
+    "Notothenia coriiceps": 1,
+    "Liparis tanakae": 1,
+    "Ataeniobius toweri": 4,
+    "Ameca splendens": 3,
+    "Poecilia reticulata": 30,
+    "Ilyodon furcidens": 3,
+    "Menidia menidia": 4,
+    "Ornithorhynchus anatinus": 23,
+    "Xenopus laevis": 33,
+    "Varanus komodoensis": 19,
+    "Crenichthys baileyi": 5,
+    "Xenotaenia resolanae": 4,
+    "Tetraodon nigroviridis": 7,
+    "Sinocyclocheilus rhinocerous": 39,
+    "Sinocyclocheilus anshuiensis": 19,
+    "Cyprinus carpio": 54,
+    "Cirrhinus molitorella": 27,
+    "Sinocyclocheilus grahami": 32,
+    "Labeo rohita": 40,
+    "Labeobarbus intermedius": 10,
+    "Onychostoma macrolepis": 9,
+    "Carassius auratus": 42,
+    "Danio rerio": 17,
+    "Carassius langsdorfii": 3,
+    "Cirrhinus mrigala": 7,
+    "Xiphophorus hellerii": 23,
+    "Xiphophorus montezumae": 5,
+    "Xiphophorus continens": 2,
+    "Labrus bergylta": 69,
+    "Sander vitreus": 6,
+    "Perca flavescens": 6,
+    "Zoarces viviparus": 14,
+    "Scatophagus argus": 22,
+    "Betta splendens": 5,
+    "Epinephelus coioides": 3,
+    "Channa striata": 9,
+    "Epinephelus akaara": 20,
+    "Haplochromis burtoni": 19,
+    "Tachyglossus aculeatus": 1,
+    "Andrias davidianus": 12,
+    "Lutjanus sanguineus": 1,
+    "Verasper variegatus": 1,
+    "Scophthalmus maximus": 5,
+    "Scortum barcoo": 12,
+    "Cottoperca gobio": 2,
+    "Gadus morhua": 234,
+    "Melanogrammus aeglefinus": 13,
+    "Arctogadus glacialis": 14,
+    "Pelusios castaneus": 12,
+    "Electrophorus electricus": 22,
+    "Tachysurus vachellii": 12,
+    "Hemibagrus guttatus": 15,
+    "Pygocentrus nattereri": 55,
+    "Ictalurus punctatus": 31,
+    "Electrophorus voltai": 7,
+    "Astyanax mexicanus": 53,
+    "Hippocampus comes": 27,
+    "Ctenopharyngodon idella": 119,
+    "Megalobrama amblycephala": 22,
+    "Eleutherodactylus coqui": 30,
+    "Alligator sinensis": 16,
+    "Alligator mississippiensis": 14,
+    "Caiman crocodilus": 2,
+    "Podarcis lilfordi": 11,
+    "Mugil incilis": 1,
+    "Neolamprologus brichardi": 36,
+    "Salarias fasciatus": 87,
+    "Trachinotus ovatus": 19,
+    "Oryzias dancena": 7,
+    "Seriola lalandi": 17,
+    "Channa argus": 15,
+    "Acanthochromis polyacanthus": 30,
+    "Nibea albiflora": 2,
+    "Chrysolophus pictus": 7,
+    "Meleagris gallopavo": 9,
+    "Phasianus colchicus": 3,
+    "Callipepla squamata": 2,
+    "Crocodylus porosus": 3,
+    "Hemibagrus wyckioides": 17,
+    "Oreochromis niloticus": 56,
+    "Sarotherodon galilaeus": 25,
+    "Oncorhynchus nerka": 5,
+    "Salvelinus alpinus": 36,
+    "Paramormyrops kingsleyae": 35,
+    "Dallia pectoralis": 10,
+    "Oncorhynchus gorbuscha": 1,
+    "Plecoglossus altivelis": 3,
+    "Echeneis naucrates": 6,
+    "Pleuronectes platessa": 3,
+    "Lutjanus peru": 1,
+    "Pangasianodon gigas": 8,
+    "Latimeria chalumnae": 14,
+    "Heterodontus francisci": 2,
+    "Pundamilia nyererei": 13,
+    "Seriola dumerili": 7,
+    "Pelobates cultripes": 10,
+    "Leptobrachium leishanense": 58,
+    "Lota lota": 15,
+    "Boreogadus saida": 20,
+    "Takifugu rubripes": 25,
+    "Takifugu flavidus": 6,
+    "Microcaecilia unicolor": 6,
+    "Python bivittatus": 15,
+    "Pangasius djambal": 5,
+    "Phrynocephalus forsythii": 5,
+    "Salvator merianae": 26,
+    "Etheostoma spectabile": 3,
+    "Ophiophagus hannah": 7,
+    "Odontobutis potamophilus": 1,
+    "Apteryx owenii": 14,
+    "Apteryx mantelli": 11,
+    "Sphenodon punctatus": 9,
+    "Astatotilapia calliptera": 12,
+    "Hypophthalmichthys molitrix": 27,
+    "Gouania willdenowi": 57,
+    "Merluccius polli": 53,
+    "Cynoglossus semilaevis": 5,
+    "Merluccius merluccius": 2,
+    "Anolis carolinensis": 21,
+    "Ctenophorus decresii": 7,
+    "Pogona vitticeps": 22,
+    "Oreochromis mossambicus": 1,
+    "Aulonocara hansbaenschi": 3,
+    "Bogr": 2,
+    "Pangasianodon hypophthalmus": 12,
+    "Ameiurus melas": 15,
+    "Clarias magur": 38,
+    "Oryzias luzonensis": 3,
+    "Miichthys miiuy": 1,
+    "Xenopus tropicalis": 12,
+    "Xenopus laevis/gilli": 4,
+    "Xenopus ruwenzoriensis": 4,
+    "Gambusia affinis": 1,
+    "Geotrypetes seraphini": 5,
+    "Champsocephalus gunnari": 4,
+    "Anguilla anguilla": 9,
+    "Conger conger": 8,
+    "Aldrovandia affinis": 16,
+    "Synaphobranchus kaupii": 5,
+    "Callorhinchus milii": 6,
+    "Mola mola": 11,
+    "Albula glossodonta": 6,
+    "Albula goreensis": 6,
+    "Paralichthys olivaceus": 5,
+    "Chaenocephalus aceratus": 1,
+    "Dryophytes japonicus": 30,
+    "Bufo gargarizans": 19,
+    "Bufo japonicus": 3,
+    "Agalychnis callidryas": 20,
+    "Smilisca phaeota": 8,
+    "Espadarana prosoblepon": 12,
+    "Bufotes viridis": 8,
+    "Erpetoichthys calabaricus": 8,
+    "Anguilla japonica": 2,
+    "Amblyrhynchus cristatus": 6,
+    "Conolophus subcristatus": 4,
+    "Iguana iguana": 2,
+    "Strix occidentalis": 5,
+    "Muraenolepis orangiensis": 13,
+    "Tachysurus fulvidraco": 1,
+    "Eublepharis macularius": 16,
+    "Acipenser oxyrinchus": 17,
+    "Chiloscyllium punctatum": 9,
+    "Mauremys mutica": 4,
+    "Corvus moneduloides": 6,
+    "Smithornis capensis": 8,
+    "Cyanistes caeruleus": 6,
+    "Aphelocoma coerulescens": 3,
+    "Dryoscopus gambensis": 1,
+    "Corvus brachyrhynchos": 1,
+    "Pheucticus melanocephalus": 1,
+    "Pteruthius melanotis": 2,
+    "Dicrurus megarhynchus": 2,
+    "Gekko japonicus": 16,
+    "Tiliqua rugosa": 3,
+    "Egretta eulophotes": 2,
+    "Nipponia nippon": 6,
+    "Mycteria americana": 1,
+    "Chroicocephalus scopulinus": 4,
+    "Ciconia boyciana": 1,
+    "Strigops habroptila": 4,
+    "Catharus ustulatus": 9,
+    "Acrocephalus arundinaceus": 10,
+    "Ficedula albicollis": 3,
+    "Oenanthe oenanthe": 1,
+    "Pomatorhinus ruficollis": 6,
+    "Cyanoderma ruficeps": 26,
+    "Certhia familiaris": 1,
+    "Geospiza fortis": 2,
+    "Taeniopygia guttata": 7,
+    "Zosterops lateralis": 15,
+    "Hirundo rustica": 5,
+    "Zonotrichia albicollis": 11,
+    "Chloebia gouldiae": 1,
+    "Lamprotornis superbus": 2,
+    "Geospiza parvula": 9,
+    "Zosterops borbonicus": 4,
+    "Serinus canaria": 2,
+    "Melospiza melodia": 4,
+    "Sinosuthora webbiana": 1,
+    "Nesospiza acunhae": 1,
+    "Loxia leucoptera": 1,
+    "Helopsaltes ochotensis": 1,
+    "Molothrus ater": 7,
+    "Passerina amoena": 7,
+    "Erithacus rubecula": 3,
+    "Agelaius phoeniceus": 3,
+    "Rhabdornis inornatus": 2,
+    "Hippolais icterina": 1,
+    "Copsychus sechellarum": 2,
+    "Emberiza fucata": 1,
+    "Toxostoma redivivum": 1,
+    "Loxia curvirostra": 2,
+    "Cardinalis cardinalis": 1,
+    "Setophaga kirtlandii": 1,
+    "Gymnorhina tibicen": 1,
+    "Cettia cetti": 6,
+    "Calcarius ornatus": 4,
+    "Acrocephalus schoenobaenus": 12,
+    "Junco hyemalis": 3,
+    "Silurus meridionalis": 16,
+    "Silurus asotus": 25,
+    "Cepphus grylle": 2,
+    "Aquila chrysaetos": 1,
+    "Calidris pygmaea": 9,
+    "Atlantisia rogersi": 4,
+    "Limosa limosa": 4,
+    "Zapornia atra": 4,
+    "Anas platyrhynchos": 118,
+    "Aythya fuligula": 6,
+    "Anser cygnoides": 5,
+    "Anser anser": 8,
+    "Anas zonorhyncha": 7,
+    "Cairina moschata": 1,
+    "Chelonia mydas": 1,
+    "Penelope pileata": 4,
+    "Ambystoma mexicanum": 2,
+    "Anser brachyrhynchus": 1,
+    "Bagarius yarrelli": 3,
+    "Acipenser dabryanus": 9,
+    "Acipenser sinensis": 8,
+    "Polyodon spathula": 6,
+    "Huso huso": 14,
+    "Clarias batrachus": 4,
+    "Rostroraja eglanteria": 2,
+    "Triakis scyllium": 36,
+    "Ginglymostoma cirratum": 6,
+    "Xenoophorus captivus": 1,
+    "Scyliorhinus torazame": 6,
+    "Grus japonensis": 3,
+    "Accipiter nisus": 3,
+    "Antigone canadensis": 1,
+    "Spheniscus humboldti": 20,
+    "Buteo japonicus": 2,
+    "Lyrurus tetrix": 2,
+    "Tympanuchus cupido": 1,
+    "Pseudobatos productus": 1,
+    "Pyxicephalus adspersus": 7,
+    "Engystomops pustulosus": 4,
+    "Polypterus senegalus": 4,
+    "Lithobates pipiens": 2,
+    "Aquarana catesbeiana": 14,
+    "Rana japonica": 9,
+    "Rana ornativentris": 26,
+    "Rana tagoi": 22,
+    "Fejervarya kawamurai": 5,
+    "Glandirana rugosa": 5,
+    "Pelophylax nigromaculatus": 6,
+    "Odorrana margaretae": 9,
+    "Lithobates clamitans": 15,
+    "Lithobates yavapaiensis": 9,
+    "Rana dybowskii": 2,
+    "Zhangixalus chenfui": 12,
+    "Rana temporaria": 46,
+    "Zhangixalus omeimontis": 20,
+    "Polypedates megacephalus": 6,
+    "Characodon lateralis": 1,
+    "Nothoprocta perdicaria": 1,
+    "Nothoprocta ornata": 1,
+    "Crypturellus soui": 1,
+    "Crypturellus undulatus": 2,
+    "Pelophylax porosus": 3,
+    "Rhinella marina": 1,
+    "Delomys sublineatus": 1,
+    "Acipenser ruthenus": 1,
+    "Chiloscyllium plagiosum": 1,
+    "Calidris canutus": 21,
+    "Pluvianellus socialis": 1,
+    "Columbina picui": 1,
+    "Lepidothrix coronata": 8,
+    "Pipra filicauda": 17,
+    "Neopipo cinnamomea": 3,
+    "Piprites chloris": 3,
+    "Menura novaehollandiae": 5,
+    "Origma solitaria": 2,
+    "Tachuris rubrigastra": 2,
+    "Onychorhynchus coronatus": 1,
+    "Mionectes macconnelli": 2,
+    "Edolisoma coerulescens": 1,
+    "Amazona collaria": 3,
+    "Amazona guildingii": 1,
+    "Clarias gariepinus": 14,
+    "Cephalopterus ornatus": 1,
+    "Neodrepanis coruscans": 1,
+    "Drymodes brunneopygia": 1,
+    "Cnemophilus loriae": 1,
+    "Melopsittacus undulatus": 5,
+    "Pseudophryne corroboree": 11,
+    "Saimiriine betaherpesvirus": 2,
+    "Clupea pallasii": 1,
+    "Jacana jacana": 1,
+    "Lepisosteus oculatus": 2,
+    "Pomatostomus ruficeps": 4,
+    "Callaeas wilsoni": 1,
+    "Pitta sordida": 2,
+    "Vidua macroura": 1,
+    "Sylvietta virens": 2,
+    "Leiothrix lutea": 8,
+    "Bombycilla garrulus": 1,
+    "Donacobius atricapilla": 1,
+    "Squalus acanthias": 1,
+    "Crotophaga sulcirostris": 1,
+    "Rhodinocichla rosea": 3,
+    "Lonchura striata": 1,
+    "Atractosteus spatula": 2,
+    "Platysteira castanea": 1,
+    "Erpornis zantholeuca": 1,
+    "Oriolus oriolus": 1,
+    "Pardalotus punctatus": 1,
+    "Mohoua ochrocephala": 1,
+    "Pachycephala philippinensis": 1,
+    "Melanocharis versteri": 1,
+    "Irena cyanogastra": 1,
+    "Aegithalos caudatus": 1,
+    "Chaetops frenatus": 1,
+    "Erythrocercus mccallii": 3,
+    "Hylia prasina": 1,
+    "Mimus melanotis": 1,
+    "Eulacestoma nigropectus": 2,
+    "Xiphorhynchus elegans": 4,
+    "Atrichornis clamosus": 1,
+    "Hydrolagus colliei": 1,
+    "Dasyornis broadbenti": 1,
+    "Climacteris rufus": 2,
+    "Leucopsar rothschildi": 1,
+    "Protopterus aethiopicus": 1,
+    "Sakesphorus luctuosus": 1,
+    "Willisornis vidua": 1,
+    "Squirrelpox virus": 1,
+    "Phrynosoma platyrhinos": 7,
+    "Buergeria buergeri": 5,
+    "Buergeria japonica": 1,
+    "Nyctibius grandis": 1,
+    "Staurois parvus": 4,
+    "Xiphophorus multilineatus": 1,
+    "Grantiella picta": 1,
+    "Centropus unirufus": 1,
+    "Prunella himalayana": 1,
+    "Zosterops hypoxanthus": 1,
+    "Sterrhoptilus dennistouni": 1,
+    "Athene cunicularia": 5,
+    "Alectura lathami": 1,
+    "Fregata magnificens": 1,
+    "Patagioenas fasciata": 1,
+    "Poecile atricapillus": 1,
+    "Chae": 1,
+    "Ranitomeya imitator": 5,
+    "Sphaerodactylus townsendi": 4,
+    "Goodea atripinnis": 1,
+    "Dromaius novaehollandiae": 1,
+    "Ameiva ameiva": 2,
+    "Aotr": 1,
+    "Hymenochirus boettgeri": 1
+   },
+   "M": 94,
+   "match_labels": [
+    "1J",
+    "1B",
+    "1A",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "40",
+    "41",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91"
+   ],
+   "insert_labels": {
+    "1": [
+     "1I",
+     "1H",
+     "1G",
+     "1F",
+     "1E",
+     "1D",
+     "1C"
+    ],
+    "10": [
+     "7A"
+    ],
+    "52": [
+     "49A",
+     "49B",
+     "49C",
+     "49D",
+     "49E",
+     "49F",
+     "49G"
+    ],
+    "57": [
+     "54A",
+     "54B",
+     "54C"
+    ],
+    "64": [
+     "61A",
+     "61B"
+    ],
+    "75": [
+     "72A"
+    ],
+    "94": [
+     "92",
+     "93",
+     "94",
+     "95",
+     "96",
+     "97"
+    ]
+   },
+   "loop_canon": {
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|7": {
+     "0": []
+    },
+    "7|8": {
+     "0": []
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|10": {
+     "0": []
+    },
+    "10|11": {
+     "0": []
+    },
+    "11|12": {
+     "0": []
+    },
+    "12|13": {
+     "0": []
+    },
+    "13|14": {
+     "0": []
+    },
+    "14|15": {
+     "0": []
+    },
+    "15|16": {
+     "0": []
+    },
+    "16|17": {
+     "0": []
+    },
+    "17|18": {
+     "0": []
+    },
+    "18|19": {
+     "0": []
+    },
+    "19|20": {
+     "0": []
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|31": {
+     "0": []
+    },
+    "31|32": {
+     "0": []
+    },
+    "32|33": {
+     "0": []
+    },
+    "33|34": {
+     "0": []
+    },
+    "34|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|42": {
+     "2": [
+      "40",
+      "41"
+     ],
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|46": {
+     "0": []
+    },
+    "46|47": {
+     "0": []
+    },
+    "47|48": {
+     "0": []
+    },
+    "48|49": {
+     "0": []
+    },
+    "49|50": {
+     "0": []
+    },
+    "50|51": {
+     "0": []
+    },
+    "51|52": {
+     "0": []
+    },
+    "52|53": {
+     "0": []
+    },
+    "53|54": {
+     "0": []
+    },
+    "54|55": {
+     "0": [],
+     "1": [
+      "54A"
+     ]
+    },
+    "55|56": {
+     "0": []
+    },
+    "56|57": {
+     "0": []
+    },
+    "57|58": {
+     "0": []
+    },
+    "58|59": {
+     "0": []
+    },
+    "59|60": {
+     "0": []
+    },
+    "60|61": {
+     "0": []
+    },
+    "61|62": {
+     "0": []
+    },
+    "62|63": {
+     "0": []
+    },
+    "63|64": {
+     "0": []
+    },
+    "64|65": {
+     "0": []
+    },
+    "65|66": {
+     "0": []
+    },
+    "66|67": {
+     "0": []
+    },
+    "67|68": {
+     "0": []
+    },
+    "68|69": {
+     "0": []
+    },
+    "69|70": {
+     "0": []
+    },
+    "70|71": {
+     "0": []
+    },
+    "71|72": {
+     "0": []
+    },
+    "72|73": {
+     "0": []
+    },
+    "73|74": {
+     "0": []
+    },
+    "74|75": {
+     "0": []
+    },
+    "75|76": {
+     "0": []
+    },
+    "76|77": {
+     "0": []
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    },
+    "88|89": {
+     "0": []
+    }
+   }
+  },
+  "G_ALPHA2": {
+   "grid": "G",
+   "n_seqs": 15006,
+   "species": {
+    "Canis lupus": 158,
+    "Homo sapiens": 925,
+    "Mus musculus": 147,
+    "Bos taurus": 221,
+    "Pan troglodytes": 140,
+    "Pongo pygmaeus": 31,
+    "Gorilla gorilla": 45,
+    "Saguinus oedipus": 36,
+    "Macaca mulatta": 585,
+    "Rattus norvegicus": 108,
+    "Oryctolagus cuniculus": 23,
+    "Bison bison": 31,
+    "Propithecus coquereli": 15,
+    "Otolemur garnettii": 17,
+    "Aotus vociferans": 14,
+    "Myotis lucifugus": 54,
+    "Microcebus murinus": 19,
+    "Mustela putorius": 17,
+    "Panthera tigris": 19,
+    "Macaca nemestrina": 247,
+    "Catagonus wagneri": 14,
+    "Macaca fascicularis": 774,
+    "Muntiacus muntjak": 19,
+    "Camelus ferus": 9,
+    "Cricetulus griseus": 42,
+    "Urocitellus parryii": 17,
+    "Cebus imitator": 19,
+    "Saimiri boliviensis": 19,
+    "Pongo abelii": 26,
+    "Callithrix jacchus": 75,
+    "Papio anubis": 150,
+    "Nomascus leucogenys": 16,
+    "Chlorocebus sabaeus": 96,
+    "Pan paniscus": 50,
+    "Cercopithecus mitis": 8,
+    "Cercocebus atys": 130,
+    "Ateles hybridus": 5,
+    "Sapajus apella": 35,
+    "Cebus albifrons": 46,
+    "Lagothrix lagotricha": 4,
+    "Cebus capucinus": 5,
+    "Ateles belzebuth": 10,
+    "Saimiri sciureus": 13,
+    "Saguinus leucopus": 4,
+    "Sus scrofa": 449,
+    "Macaca leonina": 19,
+    "Neophocaena asiaeorientalis": 8,
+    "Chlorocebus pygerythrus": 86,
+    "Aotus nancymaae": 47,
+    "Colobus angolensis": 16,
+    "Rhinopithecus bieti": 12,
+    "Rhinopithecus roxellana": 19,
+    "Aotus lemurinus": 1,
+    "Trichechus manatus": 12,
+    "Physeter macrocephalus": 5,
+    "Lipotes vexillifer": 5,
+    "Equus caballus": 83,
+    "Balaenoptera acutorostrata": 6,
+    "Capra hircus": 26,
+    "Ursus americanus": 11,
+    "Marmota monax": 31,
+    "Muntiacus reevesi": 14,
+    "Rhinolophus ferrumequinum": 15,
+    "Macaca thibetana": 39,
+    "Acinonyx jubatus": 13,
+    "Tursiops truncatus": 23,
+    "Octodon degus": 9,
+    "Zalophus californianus": 22,
+    "Pipistrellus kuhlii": 9,
+    "Myotis myotis": 12,
+    "Molossus molossus": 11,
+    "Rousettus aegyptiacus": 8,
+    "Hipposideros armiger": 19,
+    "Balaenoptera musculus": 6,
+    "Equus asinus": 36,
+    "Monodon monoceros": 5,
+    "Moschus moschiferus": 9,
+    "Neogale vison": 12,
+    "Peromyscus maniculatus": 67,
+    "Panthera leo": 12,
+    "Phocoena sinus": 5,
+    "Piliocolobus tephrosceles": 22,
+    "Spermophilus dauricus": 38,
+    "Theropithecus gelada": 23,
+    "Ursus maritimus": 5,
+    "Panthera pardus": 10,
+    "Cnephaeus nilssonii": 13,
+    "Myodes glareolus": 184,
+    "Equus przewalskii": 18,
+    "Ovis aries": 97,
+    "Bos indicus": 37,
+    "Ailuropoda melanoleuca": 35,
+    "Chlorocebus aethiops": 52,
+    "Saguinus labiatus": 11,
+    "Tupaia belangeri": 23,
+    "Elaphurus davidianus": 6,
+    "Desmodus rotundus": 19,
+    "Ateles fusciceps": 17,
+    "Lemur catta": 7,
+    "Diceros bicornis": 13,
+    "Aotus trivirgatus": 3,
+    "Leontopithecus rosalia": 2,
+    "Pithecia pithecia": 7,
+    "Leontocebus fuscicollis": 4,
+    "Papio cynocephalus": 4,
+    "Macaca arctoides": 14,
+    "Macaca assamensis": 10,
+    "Alouatta seniculus": 5,
+    "Gorilla beringei": 1,
+    "Delphinapterus leucas": 5,
+    "Lynx canadensis": 7,
+    "Suricata suricatta": 10,
+    "Puma concolor": 7,
+    "Cervus hanglu": 5,
+    "Marmota marmota": 18,
+    "Prolemur simus": 7,
+    "Sciurus vulgaris": 14,
+    "Phodopus roborovskii": 15,
+    "Daubentonia madagascariensis": 8,
+    "Xanthonycticebus pygmaeus": 1,
+    "Papio hamadryas": 1,
+    "Mandrillus leucophaeus": 14,
+    "Carlito syrichta": 9,
+    "Vulpes vulpes": 8,
+    "Nyctereutes procyonoides": 6,
+    "Castor canadensis": 12,
+    "Nannospalax galili": 14,
+    "Heterocephalus glaber": 4,
+    "Ictidomys tridecemlineatus": 28,
+    "Hylobates lar": 3,
+    "Bos mutus": 5,
+    "Galemys pyrenaicus": 35,
+    "Loxodonta africana": 22,
+    "Aotus nigriceps": 10,
+    "Phyllostomus discolor": 42,
+    "Ovis ammon": 24,
+    "Myotis brandtii": 18,
+    "Chrysochloris asiatica": 12,
+    "Neophocaena phocaenoides": 3,
+    "Stenella attenuata": 6,
+    "Enhydra lutris": 8,
+    "Lynx pardinus": 8,
+    "Felis catus": 48,
+    "Pteropus vampyrus": 11,
+    "Orycteropus afer": 15,
+    "Erinaceus europaeus": 25,
+    "Bison bonasus": 9,
+    "Meles meles": 7,
+    "Halichoerus grypus": 18,
+    "Phoca vitulina": 15,
+    "Leopardus pardalis": 5,
+    "Sousa chinensis": 5,
+    "Odobenus rosmarus": 5,
+    "Callorhinus ursinus": 4,
+    "Crocuta crocuta": 5,
+    "Myotis davidii": 15,
+    "Sciurus aberti": 2,
+    "Pteropus alecto": 6,
+    "Sciurus carolinensis": 5,
+    "Tupaia chinensis": 5,
+    "Neomonachus schauinslandi": 6,
+    "Camelus dromedarius": 5,
+    "Dipodomys ordii": 10,
+    "Jaculus jaculus": 4,
+    "Balaenoptera physalus": 5,
+    "Cervus elaphus": 3,
+    "Tragelaphus spekii": 6,
+    "Tragelaphus strepsiceros": 1,
+    "Fukomys damarensis": 6,
+    "Bos grunniens": 10,
+    "Taxidea taxus": 2,
+    "Leopardus wiedii": 1,
+    "Caracal caracal": 1,
+    "Leopardus geoffroyi": 1,
+    "Gulo gulo": 4,
+    "Eschrichtius robustus": 3,
+    "Rangifer tarandus": 10,
+    "Vicugna pacos": 7,
+    "Camelus bactrianus": 4,
+    "Ceratotherium simum": 17,
+    "Mesocricetus auratus": 46,
+    "Pipistrellus nathusii": 12,
+    "Echinops telfairi": 9,
+    "Semnopithecus entellus": 10,
+    "Apodemus speciosus": 21,
+    "Pygathrix nigripes": 7,
+    "Nasalis larvatus": 11,
+    "Galeopterus variegatus": 7,
+    "Paan": 1,
+    "Popy": 7,
+    "Saoe": 15,
+    "Mane": 11,
+    "Poab": 1,
+    "Ceat": 3,
+    "Papa": 2,
+    "Bogr": 1,
+    "Caja": 5,
+    "Odocoileus virginianus": 8,
+    "Tragelaphus angasii": 1,
+    "Phascolarctos cinereus": 34,
+    "Chinchilla lanigera": 6,
+    "Vombatus ursinus": 27,
+    "Cavia porcellus": 22,
+    "Sarcophilus harrisii": 22,
+    "Monodelphis domestica": 58,
+    "Notamacropus eugenii": 56,
+    "Mus caroli": 41,
+    "Neotoma lepida": 24,
+    "Microtus ochrogaster": 30,
+    "Sigmodon hispidus": 11,
+    "Mus spicilegus": 29,
+    "Mus spretus": 2,
+    "Mus abbotti": 2,
+    "Mus setulosus": 3,
+    "Mus pahari": 4,
+    "Mus shortridgei": 4,
+    "Mus minutoides": 2,
+    "Mus terricolor": 3,
+    "Mus platythrix": 3,
+    "Mus cookii": 1,
+    "Gallus gallus": 217,
+    "Meleagris gallopavo": 10,
+    "Lyrurus tetrix": 3,
+    "Tympanuchus cupido": 15,
+    "Bambusicola thoracicus": 8,
+    "Coturnix japonica": 10,
+    "Callipepla squamata": 2,
+    "Chrysolophus pictus": 47,
+    "Nothoprocta pentlandii": 1,
+    "Nothoprocta ornata": 1,
+    "Nothoprocta perdicaria": 2,
+    "Nothocercus nigrocapillus": 1,
+    "Odontophorus gujanensis": 1,
+    "Numida meleagris": 2,
+    "Tympanuchus pallidicinctus": 3,
+    "Tympanuchus phasianellus": 4,
+    "Centrocercus urophasianus": 6,
+    "Rhinoceros unicornis": 1,
+    "Leptonychotes weddellii": 3,
+    "Neogobius melanostomus": 33,
+    "Periophthalmus magnuspinnatus": 15,
+    "Mugilogobius chulae": 14,
+    "Knipowitschia caucasica": 6,
+    "Salmo trutta": 41,
+    "Oncorhynchus tshawytscha": 17,
+    "Salvelinus namaycush": 15,
+    "Esox lucius": 13,
+    "Salmo salar": 82,
+    "Hucho hucho": 25,
+    "Oncorhynchus kisutch": 13,
+    "Oncorhynchus mykiss": 47,
+    "Phoxinus phoxinus": 13,
+    "Umbra pygmaea": 9,
+    "Coregonus suidteri": 14,
+    "Pygocentrus nattereri": 55,
+    "Onychostoma macrolepis": 9,
+    "Cyprinus carpio": 57,
+    "Dallia pectoralis": 13,
+    "Tachysurus vachellii": 15,
+    "Hemibagrus wyckioides": 23,
+    "Chiloscyllium punctatum": 14,
+    "Myripristis murdjan": 33,
+    "Scomber scombrus": 33,
+    "Anabas testudineus": 25,
+    "Salarias fasciatus": 60,
+    "Larimichthys crocea": 2,
+    "Oreochromis niloticus": 73,
+    "Parambassis ranga": 45,
+    "Lates calcarifer": 46,
+    "Oplegnathus fasciatus": 1,
+    "Neolamprologus brichardi": 33,
+    "Astatotilapia calliptera": 19,
+    "Amphilophus citrinellus": 23,
+    "Perca flavescens": 14,
+    "Collichthys lucidus": 5,
+    "Perca fluviatilis": 26,
+    "Sander lucioperca": 31,
+    "Maylandia zebra": 42,
+    "Lutjanus peru": 1,
+    "Scortum barcoo": 15,
+    "Sarotherodon galilaeus": 32,
+    "Poecilia formosa": 15,
+    "Oryzias melastigma": 30,
+    "Poecilia latipinna": 13,
+    "Xiphophorus couchianus": 12,
+    "Cyprinodon variegatus": 22,
+    "Fundulus heteroclitus": 29,
+    "Kryptolebias marmoratus": 71,
+    "Dicentrarchus labrax": 108,
+    "Nothobranchius furzeri": 5,
+    "Channa argus": 19,
+    "Poecilia mexicana": 12,
+    "Xiphophorus maculatus": 17,
+    "Xyrichtys novacula": 7,
+    "Austrofundulus limnaeus": 5,
+    "Dissostichus mawsoni": 11,
+    "Gymnodraco acuticeps": 3,
+    "Dissostichus eleginoides": 9,
+    "Champsocephalus esox": 3,
+    "Champsocephalus gunnari": 6,
+    "Pagothenia borchgrevinki": 6,
+    "Pogonophryne albipinna": 12,
+    "Notothenia coriiceps": 1,
+    "Oreochromis aureus": 68,
+    "Ataeniobius toweri": 8,
+    "Ameca splendens": 6,
+    "Poecilia reticulata": 23,
+    "Xenotaenia resolanae": 5,
+    "Ilyodon furcidens": 6,
+    "Chaenocephalus aceratus": 1,
+    "Goodea atripinnis": 3,
+    "Oryzias latipes": 39,
+    "Oryzias javanicus": 26,
+    "Oryzias sinensis": 23,
+    "Paramormyrops kingsleyae": 21,
+    "Mastacembelus armatus": 15,
+    "Sparus aurata": 66,
+    "Betta splendens": 8,
+    "Monopterus albus": 11,
+    "Clupea harengus": 16,
+    "Ameiurus melas": 18,
+    "Coilia grayii": 11,
+    "Eleginops maclovinus": 3,
+    "Pundamilia nyererei": 19,
+    "Haplochromis burtoni": 22,
+    "Echeneis naucrates": 8,
+    "Zoarces viviparus": 16,
+    "Seriola dumerili": 18,
+    "Liparis tanakae": 1,
+    "Seriola lalandi": 19,
+    "Sphaeramia orbicularis": 16,
+    "Gouania willdenowi": 31,
+    "Albula goreensis": 9,
+    "Albula glossodonta": 7,
+    "Megalops atlanticus": 14,
+    "Alosa alosa": 9,
+    "Chanos chanos": 23,
+    "Denticeps clupeoides": 43,
+    "Triplophysa tibetana": 11,
+    "Triplophysa rosa": 8,
+    "Culter alburnus": 22,
+    "Hippocampus comes": 17,
+    "Gasterosteus aculeatus": 30,
+    "Anguilla anguilla": 11,
+    "Synaphobranchus kaupii": 6,
+    "Labrus bergylta": 58,
+    "Clarias magur": 44,
+    "Astyanax mexicanus": 45,
+    "Silurus meridionalis": 22,
+    "Pangasianodon hypophthalmus": 16,
+    "Ictalurus punctatus": 32,
+    "Silurus asotus": 27,
+    "Electrophorus electricus": 15,
+    "Hemibagrus guttatus": 23,
+    "Pangasianodon gigas": 12,
+    "Pangasius djambal": 11,
+    "Carassius auratus": 42,
+    "Cynoglossus semilaevis": 4,
+    "Ornithorhynchus anatinus": 16,
+    "Scleropages formosus": 9,
+    "Scatophagus argus": 18,
+    "Trachinotus ovatus": 16,
+    "Epinephelus akaara": 4,
+    "Stegastes partitus": 10,
+    "Siniperca chuatsi": 1,
+    "Scophthalmus maximus": 7,
+    "Sinocyclocheilus rhinocerous": 40,
+    "Sinocyclocheilus anshuiensis": 23,
+    "Labeo rohita": 56,
+    "Sinocyclocheilus grahami": 36,
+    "Anabarilius grahami": 11,
+    "Danio rerio": 14,
+    "Cirrhinus molitorella": 37,
+    "Labeobarbus intermedius": 65,
+    "Carassius langsdorfii": 4,
+    "Cirrhinus mrigala": 14,
+    "Leuciscus chuanchicus": 21,
+    "Leuciscus waleckii": 15,
+    "Acanthochromis polyacanthus": 25,
+    "Lutjanus sanguineus": 1,
+    "Sander vitreus": 6,
+    "Epinephelus coioides": 2,
+    "Amphiprion ocellaris": 8,
+    "Oreochromis mossambicus": 1,
+    "Cottoperca gobio": 2,
+    "Aldrovandia affinis": 25,
+    "Pyxicephalus adspersus": 11,
+    "Clarias batrachus": 2,
+    "Cyclopterus lumpus": 11,
+    "Rana tagoi": 21,
+    "Zhangixalus chenfui": 15,
+    "Lithobates pipiens": 3,
+    "Rana japonica": 9,
+    "Rana ornativentris": 27,
+    "Odorrana margaretae": 11,
+    "Fejervarya kawamurai": 5,
+    "Glandirana rugosa": 5,
+    "Lithobates clamitans": 16,
+    "Lithobates yavapaiensis": 8,
+    "Aquarana catesbeiana": 14,
+    "Pelophylax nigromaculatus": 31,
+    "Zhangixalus omeimontis": 18,
+    "Pelophylax porosus": 3,
+    "Rana dybowskii": 3,
+    "Buergeria japonica": 1,
+    "Buergeria buergeri": 5,
+    "Rana temporaria": 63,
+    "Staurois parvus": 11,
+    "Emberiza fucata": 2,
+    "Loxia leucoptera": 2,
+    "Geospiza fortis": 2,
+    "Calcarius ornatus": 5,
+    "Amphiprion percula": 16,
+    "Paralichthys olivaceus": 4,
+    "Oryzias dancena": 6,
+    "Gadus morhua": 242,
+    "Merluccius polli": 55,
+    "Melanogrammus aeglefinus": 13,
+    "Boreogadus saida": 24,
+    "Lota lota": 17,
+    "Arctogadus glacialis": 19,
+    "Leptobrachium leishanense": 60,
+    "Pelobates cultripes": 14,
+    "Aulonocara hansbaenschi": 3,
+    "Pipra filicauda": 12,
+    "Corvus moneduloides": 3,
+    "Tachuris rubrigastra": 2,
+    "Eulacestoma nigropectus": 2,
+    "Scytalopus superciliaris": 3,
+    "Bagarius yarrelli": 3,
+    "Xiphophorus hellerii": 25,
+    "Xenoophorus captivus": 3,
+    "Peromyscus leucopus": 7,
+    "Trichosurus vulpecula": 12,
+    "Notamacropus": 3,
+    "Tachyglossus aculeatus": 2,
+    "Odontobutis potamophilus": 1,
+    "Channa striata": 13,
+    "Gambusia affinis": 1,
+    "Etheostoma spectabile": 4,
+    "Crenichthys baileyi": 5,
+    "Characodon lateralis": 4,
+    "Nibea albiflora": 4,
+    "Oryzias luzonensis": 3,
+    "Xiphophorus multilineatus": 1,
+    "Xiphophorus continens": 3,
+    "Danionella cerebrum": 10,
+    "Takifugu flavidus": 8,
+    "Takifugu rubripes": 21,
+    "Pseudonaja textilis": 23,
+    "Laticauda laticaudata": 14,
+    "Naja naja": 59,
+    "Ophiophagus hannah": 18,
+    "Pantherophis guttatus": 47,
+    "Miichthys miiuy": 1,
+    "Ctenopharyngodon idella": 114,
+    "Megalobrama amblycephala": 23,
+    "Hypophthalmichthys molitrix": 23,
+    "Eleutherodactylus coqui": 31,
+    "Agalychnis callidryas": 40,
+    "Salvelinus alpinus": 40,
+    "Oncorhynchus nerka": 11,
+    "Mugil incilis": 1,
+    "Pleuronectes platessa": 6,
+    "Verasper variegatus": 1,
+    "Muraenolepis orangiensis": 17,
+    "Merluccius merluccius": 3,
+    "Eublepharis macularius": 19,
+    "Clarias gariepinus": 17,
+    "Engystomops pustulosus": 6,
+    "Tetraodon nigroviridis": 8,
+    "Oncorhynchus gorbuscha": 1,
+    "Plecoglossus altivelis": 3,
+    "Xenopus laevis": 56,
+    "Xenopus tropicalis": 25,
+    "Xenopus ruwenzoriensis": 3,
+    "Xenopus laevis/gilli": 3,
+    "Pipa carvalhoi": 1,
+    "Podarcis muralis": 23,
+    "Podarcis lilfordi": 13,
+    "Eremias przewalskii": 16,
+    "Eremias multiocellata": 6,
+    "Eremias brenchleyi": 2,
+    "Dryophytes japonicus": 30,
+    "Espadarana prosoblepon": 12,
+    "Gekko japonicus": 22,
+    "Pseudophryne corroboree": 16,
+    "Polypedates megacephalus": 6,
+    "Agalychnis lemur": 16,
+    "Mola mola": 6,
+    "Electrophorus voltai": 5,
+    "Terrapene triunguis": 17,
+    "Gopherus agassizii": 8,
+    "Gopherus evgoodei": 19,
+    "Chrysemys picta": 26,
+    "Chelonia mydas": 4,
+    "Pelusios castaneus": 15,
+    "Chelonoidis abingdonii": 15,
+    "Caretta caretta": 44,
+    "Lepidochelys olivacea": 10,
+    "Anguilla japonica": 2,
+    "Conger conger": 9,
+    "Geospiza parvula": 5,
+    "Spinus spinus": 74,
+    "Geothlypis trichas": 25,
+    "Anthus campestris": 18,
+    "Anthus berthelotii": 36,
+    "Ctenophorus decresii": 9,
+    "Pogona vitticeps": 20,
+    "Latimeria chalumnae": 24,
+    "Bufo gargarizans": 20,
+    "Smilisca phaeota": 9,
+    "Bufo japonicus": 3,
+    "Rhinella marina": 4,
+    "Bufotes viridis": 9,
+    "Clupea pallasii": 1,
+    "Anarhynchus nivosus": 33,
+    "Glaucidium brasilianum": 1,
+    "Nipponia nippon": 6,
+    "Anas platyrhynchos": 127,
+    "Strigops habroptila": 2,
+    "Aythya fuligula": 7,
+    "Apteryx owenii": 7,
+    "Buteo japonicus": 3,
+    "Calidris pygmaea": 4,
+    "Mycteria americana": 3,
+    "Chroicocephalus scopulinus": 5,
+    "Calidris canutus": 30,
+    "Anser anser": 6,
+    "Egretta eulophotes": 16,
+    "Patagioenas fasciata": 1,
+    "Antigone canadensis": 1,
+    "Ciconia boyciana": 1,
+    "Limosa limosa": 41,
+    "Lophotis ruficrista": 1,
+    "Spizaetus tyrannus": 1,
+    "Atlantisia rogersi": 14,
+    "Pampusana beccarii": 1,
+    "Eolophus roseicapilla": 1,
+    "Urocolius indicus": 1,
+    "Egretta garzetta": 1,
+    "Pterocles burchelli": 3,
+    "Sagittarius serpentarius": 1,
+    "Burhinus bistriatus": 1,
+    "Dromas ardeola": 1,
+    "Podilymbus podiceps": 1,
+    "Zapornia atra": 5,
+    "Thalassarche chlororhynchos": 1,
+    "Eurystomus gularis": 1,
+    "Chaetura pelagica": 1,
+    "Hemiprocne comata": 1,
+    "Galbula dea": 2,
+    "Indicator maculatus": 1,
+    "Smutsornis africanus": 1,
+    "Nyctiprogne leucopyga": 1,
+    "Columbina picui": 1,
+    "Rhynochetos jubatus": 1,
+    "Haliaeetus albicilla": 1,
+    "Aramus guarauna": 1,
+    "Otus sunia": 1,
+    "Aquila chrysaetos": 3,
+    "Spheniscus humboldti": 13,
+    "Nothocercus julius": 1,
+    "Thinocorus orbignyianus": 2,
+    "Accipiter nisus": 3,
+    "Pygoscelis papua": 1,
+    "Pedionomus torquatus": 1,
+    "Alectura lathami": 2,
+    "Phaetusa simplex": 1,
+    "Halobaena caerulea": 52,
+    "Rostratula benghalensis": 1,
+    "Spheniscus mendiculus": 1,
+    "Eudyptula minor": 1,
+    "Charadrius vociferus": 1,
+    "Caloenas nicobarica": 1,
+    "Eudyptes chrysocome": 2,
+    "Trogon melanurus": 1,
+    "Strix occidentalis": 7,
+    "Tricholaema leucomelas": 1,
+    "Psilopogon haemacephalus": 3,
+    "Mesitornis unicolor": 1,
+    "Upupa epops": 2,
+    "Grus japonensis": 19,
+    "Rhinopomastus cyanomelas": 1,
+    "Nyctibius grandis": 1,
+    "Tauraco erythrolophus": 1,
+    "Opisthocomus hoazin": 1,
+    "Columba livia": 1,
+    "Herpetotheres cachinnans": 1,
+    "Brachypteracias leptosomus": 1,
+    "Lepisosteus oculatus": 5,
+    "Smithornis capensis": 8,
+    "Sakesphorus luctuosus": 2,
+    "Serilophus lunatus": 1,
+    "Dicrurus megarhynchus": 2,
+    "Menidia menidia": 5,
+    "Peromyscus pectoralis": 2,
+    "Peromyscus attwateri": 1,
+    "Mus macedonicus": 1,
+    "Mus gratus": 2,
+    "Apodemus agrarius": 1,
+    "Hybomys univittatus": 1,
+    "Mastomys natalensis": 1,
+    "Diplothrix legata": 1,
+    "Tokudaia osimensis": 1,
+    "Delomys sublineatus": 1,
+    "Isoodon macrourus": 1,
+    "Phasianus colchicus": 2,
+    "Alligator mississippiensis": 21,
+    "Alligator sinensis": 24,
+    "Caiman crocodilus": 6,
+    "Caiman latirostris": 6,
+    "Melanosuchus niger": 1,
+    "Anser cygnoides": 4,
+    "Anas zonorhyncha": 7,
+    "Anser brachyrhynchus": 3,
+    "Cairina moschata": 1,
+    "Asarcornis scutulata": 2,
+    "Anseranas semipalmata": 1,
+    "Chauna torquata": 1,
+    "Hirundo rustica": 6,
+    "Cyanoderma ruficeps": 17,
+    "Ficedula albicollis": 3,
+    "Junco hyemalis": 2,
+    "Rhodinocichla rosea": 3,
+    "Zonotrichia albicollis": 12,
+    "Melospiza melodia": 11,
+    "Prunella himalayana": 2,
+    "Rhabdornis inornatus": 2,
+    "Leiothrix lutea": 9,
+    "Bombycilla garrulus": 1,
+    "Aegithalos caudatus": 1,
+    "Copsychus sechellarum": 4,
+    "Toxostoma redivivum": 1,
+    "Loxia curvirostra": 1,
+    "Sylvia borin": 4,
+    "Donacobius atricapilla": 1,
+    "Peucedramus taeniatus": 1,
+    "Notiomystis cincta": 1,
+    "Pomatorhinus ruficollis": 7,
+    "Certhia familiaris": 1,
+    "Taeniopygia guttata": 4,
+    "Passerina amoena": 7,
+    "Serinus canaria": 4,
+    "Cyanistes caeruleus": 38,
+    "Poecile atricapillus": 1,
+    "Zosterops lateralis": 10,
+    "Erithacus rubecula": 3,
+    "Leucopsar rothschildi": 2,
+    "Alauda razae": 19,
+    "Sinosuthora webbiana": 5,
+    "Carpodacus erythrinus": 20,
+    "Zosterops borbonicus": 6,
+    "Passer domesticus": 56,
+    "Zonotrichia capensis": 39,
+    "Sitta europaea": 1,
+    "Mimus melanotis": 1,
+    "Mauremys mutica": 9,
+    "Chelydra serpentina": 16,
+    "Pelodiscus sinensis": 4,
+    "Acipenser dabryanus": 7,
+    "Polyodon spathula": 7,
+    "Acipenser sinensis": 8,
+    "Acipenser oxyrinchus": 30,
+    "Huso huso": 24,
+    "Microcaecilia unicolor": 8,
+    "Geotrypetes seraphini": 6,
+    "Python bivittatus": 26,
+    "Thamnophis sirtalis": 17,
+    "Notechis scutatus": 31,
+    "Crotalus adamanteus": 39,
+    "Nerodia sipedon": 1,
+    "Anolis carolinensis": 25,
+    "Varanus komodoensis": 30,
+    "Phrynocephalus forsythii": 5,
+    "Amblyrhynchus cristatus": 6,
+    "Conolophus subcristatus": 5,
+    "Iguana iguana": 2,
+    "Cyclura carinata": 1,
+    "Cachryx defensor": 1,
+    "Ctenosaura clarki": 1,
+    "Phrynosoma platyrhinos": 10,
+    "Platysternon megacephalum": 8,
+    "Lepidochelys kempii": 7,
+    "Salvator merianae": 31,
+    "Tachysurus fulvidraco": 1,
+    "Lepidodactylus sp": 3,
+    "Lepidodactylus aureolineatus": 3,
+    "Lepidodactylus lugubris": 6,
+    "Sphaerodactylus townsendi": 7,
+    "Lepidodactylus moestus": 6,
+    "Acipenser ruthenus": 5,
+    "Andrias davidianus": 16,
+    "Scyliorhinus torazame": 9,
+    "Lepidothrix coronata": 6,
+    "Xiphorhynchus elegans": 15,
+    "Mionectes macconnelli": 2,
+    "Menura novaehollandiae": 8,
+    "Manacus vitellinus": 1,
+    "Neopipo cinnamomea": 3,
+    "Piprites chloris": 4,
+    "Onychorhynchus coronatus": 1,
+    "Willisornis vidua": 3,
+    "Amazona collaria": 1,
+    "Amazona guildingii": 1,
+    "Acrocephalus arundinaceus": 13,
+    "Acrocephalus schoenobaenus": 12,
+    "Nesospiza acunhae": 1,
+    "Edolisoma coerulescens": 1,
+    "Molothrus ater": 9,
+    "Erythrocercus mccallii": 4,
+    "Agelaius phoeniceus": 3,
+    "Sylvietta virens": 3,
+    "Helopsaltes ochotensis": 3,
+    "Cardinalis cardinalis": 2,
+    "Falcunculus frontatus": 1,
+    "Pheucticus melanocephalus": 2,
+    "Oxylabes madagascariensis": 1,
+    "Cettia cetti": 6,
+    "Dasyornis broadbenti": 2,
+    "Sterrhoptilus dennistouni": 1,
+    "Hylia prasina": 1,
+    "Setophaga kirtlandii": 1,
+    "Pycnonotus jocosus": 2,
+    "Chloebia gouldiae": 1,
+    "Vidua macroura": 1,
+    "Motacilla alba": 1,
+    "Anthoscopus minutus": 1,
+    "Vidua chalybeata": 1,
+    "Acrocephalus sechellensis": 4,
+    "Irena cyanogastra": 2,
+    "Zosterops hypoxanthus": 1,
+    "Catharus ustulatus": 3,
+    "Oenanthe oenanthe": 1,
+    "Rhadina sibilatrix": 1,
+    "Grantiella picta": 1,
+    "Cephalopterus ornatus": 1,
+    "Origma solitaria": 2,
+    "Oriolus oriolus": 2,
+    "Mohoua ochrocephala": 1,
+    "Aphelocoma coerulescens": 3,
+    "Pachycephala philippinensis": 1,
+    "Erpornis zantholeuca": 5,
+    "Pteruthius melanotis": 2,
+    "Platysteira castanea": 3,
+    "Pardalotus punctatus": 1,
+    "Melanocharis versteri": 1,
+    "Mystacornis crossleyi": 1,
+    "Sphenodon punctatus": 15,
+    "Tiliqua rugosa": 6,
+    "Tiliqua adelaidensis": 1,
+    "Ameiva ameiva": 2,
+    "Corvus brachyrhynchos": 2,
+    "Erpetoichthys calabaricus": 17,
+    "Polypterus senegalus": 10,
+    "Falco tinnunculus": 1,
+    "Falco naumanni": 33,
+    "Falco eleonorae": 2,
+    "Falco peregrinus": 2,
+    "Falco punctatus": 1,
+    "Falco rusticolus": 4,
+    "Falco fasciinucha": 1,
+    "Falco subbuteo": 2,
+    "Falco cherrug": 1,
+    "Melopsittacus undulatus": 3,
+    "Struthio camelus": 1,
+    "Apteryx mantelli": 17,
+    "Pleurodeles waltl": 13,
+    "Lissotriton vulgaris": 13,
+    "Atrichornis clamosus": 2,
+    "Neodrepanis coruscans": 1,
+    "Gymnorhina tibicen": 2,
+    "Ambystoma mexicanum": 55,
+    "Callorhinchus milii": 18,
+    "Pomatostomus ruficeps": 3,
+    "Cnemophilus loriae": 3,
+    "Chaetops frenatus": 2,
+    "Dryoscopus gambensis": 1,
+    "Ptilonorhynchus violaceus": 3,
+    "Climacteris rufus": 1,
+    "Callaeas wilsoni": 1,
+    "Furnarius figulus": 1,
+    "Dicaeum eximium": 1,
+    "Semnornis frantzii": 1,
+    "Eubucco bourcierii": 2,
+    "Atractosteus spatula": 6,
+    "Cuculus canorus": 2,
+    "Orthonyx spaldingii": 1,
+    "Drymodes brunneopygia": 1,
+    "Ceuthmochares aereus": 1,
+    "Hymenochirus boettgeri": 3,
+    "Ceyx cyanopectus": 1,
+    "Crocodylus porosus": 38,
+    "Triakis scyllium": 31,
+    "Athene cunicularia": 1,
+    "Lamprotornis superbus": 3,
+    "Crocodylus acutus": 1,
+    "Crocodylus mindorensis": 2,
+    "Pitta sordida": 1,
+    "Turnix velox": 1,
+    "Corythaixoides concolor": 1,
+    "Protopterus aethiopicus": 1,
+    "Crypturellus undulatus": 3,
+    "Eudromia elegans": 1,
+    "Chiloscyllium plagiosum": 3,
+    "Heterodontus francisci": 2,
+    "Rostroraja eglanteria": 3,
+    "Ginglymostoma cirratum": 6,
+    "Pseudobatos productus": 1,
+    "Squalus acanthias": 1,
+    "Crotophaga sulcirostris": 1,
+    "Centropus unirufus": 1,
+    "Hippolais icterina": 1,
+    "Egernia stokesii": 1,
+    "Squirrelpox virus": 1,
+    "Bubo bubo": 1,
+    "Saimiriine betaherpesvirus": 2,
+    "Penelope pileata": 2,
+    "Probosciger aterrimus": 1,
+    "Crocodylus palustris": 2,
+    "Crocodylus siamensis": 1,
+    "Oreocharis arfaki": 1,
+    "Centropus bengalensis": 2,
+    "Dromaius novaehollandiae": 7,
+    "Xiphophorus montezumae": 4,
+    "Podargus strigoides": 1,
+    "Lonchura striata": 1,
+    "Geococcyx californianus": 1,
+    "Hemidactylus frenatus": 3,
+    "Ranitomeya imitator": 10,
+    "Chelon labrosus": 1,
+    "Hemidactylus garnotii": 1,
+    "Chain ID": 1
+   },
+   "M": 94,
+   "match_labels": [
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "61A",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "72A",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90",
+    "91",
+    "92",
+    "93",
+    "94"
+   ],
+   "insert_labels": {
+    "0": [
+     "1J",
+     "1I",
+     "1H",
+     "1G",
+     "1F",
+     "1E",
+     "1D",
+     "1C",
+     "1B",
+     "1A"
+    ],
+    "7": [
+     "7A"
+    ],
+    "39": [
+     "40",
+     "41"
+    ],
+    "47": [
+     "49A",
+     "49B",
+     "49C",
+     "49D",
+     "49E",
+     "49F",
+     "49G"
+    ],
+    "52": [
+     "54A",
+     "54B",
+     "54C"
+    ],
+    "60": [
+     "61B"
+    ],
+    "94": [
+     "95",
+     "96",
+     "97"
+    ]
+   },
+   "loop_canon": {
+    "1|2": {
+     "0": []
+    },
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|7": {
+     "0": []
+    },
+    "7|8": {
+     "0": []
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|10": {
+     "0": []
+    },
+    "10|11": {
+     "0": []
+    },
+    "11|12": {
+     "0": []
+    },
+    "12|13": {
+     "0": []
+    },
+    "13|14": {
+     "0": []
+    },
+    "14|15": {
+     "0": []
+    },
+    "15|16": {
+     "0": []
+    },
+    "16|17": {
+     "0": []
+    },
+    "17|19": {
+     "1": [
+      "18"
+     ],
+     "0": []
+    },
+    "19|20": {
+     "0": []
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|31": {
+     "0": []
+    },
+    "31|32": {
+     "0": []
+    },
+    "32|33": {
+     "0": []
+    },
+    "33|34": {
+     "0": []
+    },
+    "34|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|42": {
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|46": {
+     "0": []
+    },
+    "46|47": {
+     "0": []
+    },
+    "47|48": {
+     "0": []
+    },
+    "48|49": {
+     "0": []
+    },
+    "49|50": {
+     "0": []
+    },
+    "50|51": {
+     "0": []
+    },
+    "51|52": {
+     "0": []
+    },
+    "52|53": {
+     "0": []
+    },
+    "53|54": {
+     "0": []
+    },
+    "54|55": {
+     "0": []
+    },
+    "55|56": {
+     "0": []
+    },
+    "56|57": {
+     "0": []
+    },
+    "57|58": {
+     "0": []
+    },
+    "58|59": {
+     "0": []
+    },
+    "59|60": {
+     "0": []
+    },
+    "60|61": {
+     "0": []
+    },
+    "61|61A": {
+     "0": []
+    },
+    "61A|62": {
+     "0": [],
+     "1": [
+      "61B"
+     ]
+    },
+    "62|63": {
+     "0": []
+    },
+    "63|64": {
+     "0": []
+    },
+    "64|65": {
+     "0": []
+    },
+    "65|66": {
+     "0": []
+    },
+    "66|67": {
+     "0": []
+    },
+    "67|68": {
+     "0": []
+    },
+    "68|69": {
+     "0": []
+    },
+    "69|70": {
+     "0": []
+    },
+    "70|71": {
+     "0": []
+    },
+    "71|72": {
+     "0": []
+    },
+    "72|72A": {
+     "0": []
+    },
+    "72A|73": {
+     "0": []
+    },
+    "73|74": {
+     "0": []
+    },
+    "74|75": {
+     "0": []
+    },
+    "75|76": {
+     "0": []
+    },
+    "76|77": {
+     "0": []
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    }
+   }
+  },
+  "G_BETA": {
+   "grid": "G",
+   "n_seqs": 4369,
+   "species": {
+    "Homo sapiens": 747,
+    "Gorilla gorilla": 58,
+    "Octodon degus": 10,
+    "Mus musculus": 65,
+    "Rattus norvegicus": 29,
+    "Chinchilla lanigera": 8,
+    "Heterocephalus glaber": 8,
+    "Marmota monax": 7,
+    "Mus caroli": 4,
+    "Peromyscus maniculatus": 27,
+    "Mus spicilegus": 5,
+    "Ictidomys tridecemlineatus": 5,
+    "Jaculus jaculus": 4,
+    "Sciurus vulgaris": 9,
+    "Mesocricetus auratus": 9,
+    "Phodopus roborovskii": 4,
+    "Spermophilus dauricus": 19,
+    "Castor canadensis": 7,
+    "Fukomys damarensis": 4,
+    "Cricetulus griseus": 10,
+    "Myodes glareolus": 14,
+    "Cavia porcellus": 8,
+    "Oryctolagus cuniculus": 9,
+    "Sciurus carolinensis": 6,
+    "Mus saxicola": 4,
+    "Sus scrofa": 137,
+    "Malo": 10,
+    "Equus caballus": 39,
+    "Microtus ochrogaster": 10,
+    "Apodemus speciosus": 6,
+    "Sigmodon hispidus": 5,
+    "Macaca fascicularis": 379,
+    "Pan troglodytes": 109,
+    "Canis lupus": 310,
+    "Peromyscus leucopus": 11,
+    "Marmota marmota": 13,
+    "Sciurus aberti": 1,
+    "Dipodomys ordii": 6,
+    "Dipodomys spectabilis": 7,
+    "Peromyscus eremicus": 4,
+    "Neotoma lepida": 8,
+    "Caja": 44,
+    "Macaca mulatta": 286,
+    "Mane": 89,
+    "Sala": 6,
+    "Chsa": 14,
+    "Popy": 14,
+    "Poab": 9,
+    "Ovis aries": 188,
+    "Aona": 126,
+    "Aoni": 25,
+    "Aotr": 12,
+    "Camo": 14,
+    "Ceap": 4,
+    "Maar": 9,
+    "Paha": 3,
+    "Saoe": 47,
+    "Sasc": 11,
+    "Aovo": 24,
+    "Bos taurus": 485,
+    "Hymo": 15,
+    "Paan": 57,
+    "Chae": 14,
+    "Cahi": 27,
+    "Masp": 40,
+    "Paur": 22,
+    "Aoaz": 2,
+    "Pontoporia blainvillei": 1,
+    "Atbe": 3,
+    "Capy": 2,
+    "Pipi": 3,
+    "Masi": 9,
+    "Alpi": 20,
+    "Mafu": 27,
+    "Papa": 12,
+    "Male": 2,
+    "Camelus ferus": 2,
+    "Microcebus murinus": 5,
+    "Otolemur garnettii": 2,
+    "Chlorocebus sabaeus": 4,
+    "Macaca nemestrina": 12,
+    "Papio anubis": 12,
+    "Aotus nancymaae": 4,
+    "Colobus angolensis": 4,
+    "Cebus imitator": 3,
+    "Propithecus coquereli": 2,
+    "Saimiri boliviensis": 3,
+    "Macaca leonina": 5,
+    "Callithrix jacchus": 5,
+    "Macaca thibetana": 8,
+    "Sapajus apella": 5,
+    "Pteropus vampyrus": 2,
+    "Equus asinus": 5,
+    "Piliocolobus tephrosceles": 7,
+    "Daubentonia madagascariensis": 2,
+    "Pongo abelii": 3,
+    "Cercocebus atys": 1,
+    "Nomascus leucogenys": 2,
+    "Urocitellus parryii": 11,
+    "Rhinopithecus roxellana": 1,
+    "Odobenus rosmarus": 2,
+    "Enhydra lutris": 3,
+    "Rhinolophus ferrumequinum": 3,
+    "Catagonus wagneri": 2,
+    "Theropithecus gelada": 2,
+    "Neomonachus schauinslandi": 2,
+    "Mustela putorius": 4,
+    "Myotis davidii": 4,
+    "Rhinopithecus bieti": 2,
+    "Pipistrellus kuhlii": 1,
+    "Zalophus californianus": 2,
+    "Pongo pygmaeus": 5,
+    "Mandrillus leucophaeus": 4,
+    "Pan paniscus": 3,
+    "Aotus lemurinus": 1,
+    "Myotis brandtii": 4,
+    "Nyctereutes procyonoides": 1,
+    "Prolemur simus": 2,
+    "Neophocaena asiaeorientalis": 5,
+    "Bos indicus": 3,
+    "Muntiacus reevesi": 7,
+    "Moschus moschiferus": 3,
+    "Bos grunniens": 3,
+    "Rangifer tarandus": 5,
+    "Rucervus eldii": 3,
+    "Capra hircus": 5,
+    "Cervus elaphus": 1,
+    "Muntiacus muntjak": 3,
+    "Bos mutus": 1,
+    "Ovis ammon": 6,
+    "Physeter macrocephalus": 2,
+    "Muntiacus crinifrons": 3,
+    "Bubalus bubalis": 2,
+    "Vulpes vulpes": 3,
+    "Bos gaurus": 1,
+    "Nannospalax galili": 5,
+    "Neogale vison": 2,
+    "Tupaia chinensis": 2,
+    "Camelus dromedarius": 1,
+    "Bison bison": 2,
+    "Vicugna pacos": 2,
+    "Camelus bactrianus": 1,
+    "Ceratotherium simum": 2,
+    "Pipistrellus nathusii": 2,
+    "Odocoileus virginianus": 2,
+    "Pygathrix nigripes": 1,
+    "Bogr": 18,
+    "Math": 45,
+    "Hyla": 3,
+    "Bofr": 27,
+    "Aole": 2,
+    "Seen": 1,
+    "Mastomys natalensis": 3,
+    "Ursus maritimus": 2,
+    "Ursus americanus": 4,
+    "Felis catus": 1,
+    "Ailuropoda melanoleuca": 2,
+    "Panthera pardus": 1,
+    "Puma concolor": 1,
+    "Leptonychotes weddellii": 2,
+    "Acinonyx jubatus": 1,
+    "Panthera tigris": 1,
+    "Suricata suricatta": 2,
+    "Chrysochloris asiatica": 1,
+    "Desmodus rotundus": 2,
+    "Crocuta crocuta": 2,
+    "Tursiops truncatus": 5,
+    "Balaenoptera acutorostrata": 1,
+    "Phyllostomus discolor": 2,
+    "Balaenoptera musculus": 2,
+    "Delphinapterus leucas": 2,
+    "Monodon monoceros": 2,
+    "Myotis lucifugus": 2,
+    "Balaenoptera physalus": 1,
+    "Cnephaeus nilssonii": 1,
+    "Lipotes vexillifer": 1,
+    "Orycteropus afer": 1,
+    "Callorhinus ursinus": 2,
+    "Sousa chinensis": 2,
+    "Saguinus oedipus": 1,
+    "Nasalis larvatus": 1,
+    "Spalax ehrenbergi": 2,
+    "Gallus gallus": 1,
+    "Meles meles": 1,
+    "Ursus thibetanus": 1,
+    "Gulo gulo": 2,
+    "Equus przewalskii": 1,
+    "Molossus molossus": 2,
+    "Notamacropus eugenii": 41,
+    "Phascolarctos cinereus": 6,
+    "Vombatus ursinus": 4,
+    "Notamacropus": 1,
+    "Trichosurus vulpecula": 1,
+    "Hipposideros armiger": 3,
+    "Echinops telfairi": 1,
+    "Phocoena sinus": 1,
+    "Tursiops aduncus": 2,
+    "Cephalorhynchus hectori": 3,
+    "Monodelphis domestica": 3,
+    "Galemys pyrenaicus": 1,
+    "Carlito syrichta": 1,
+    "Erinaceus europaeus": 2,
+    "Varanus komodoensis": 8,
+    "Galeopterus variegatus": 1,
+    "Sarcophilus harrisii": 3,
+    "Myotis myotis": 3,
+    "Mus spretus": 1,
+    "Hemibagrus guttatus": 1,
+    "Bagarius yarrelli": 2,
+    "Danionella cerebrum": 3,
+    "Naja naja": 2,
+    "Labeo rohita": 4,
+    "Collichthys lucidus": 1,
+    "Hippopotamus amphibius": 1,
+    "Loxodonta africana": 1,
+    "Clarias magur": 1,
+    "Pogona vitticeps": 2,
+    "Ovca": 8,
+    "Salmo salar": 42,
+    "Oncorhynchus mykiss": 17,
+    "Dallia pectoralis": 1,
+    "Trichechus manatus": 1,
+    "Goodea atripinnis": 1,
+    "Salvator merianae": 1,
+    "Perca fluviatilis": 1
+   },
+   "M": 96,
+   "match_labels": [
+    "1E",
+    "1D",
+    "1C",
+    "1B",
+    "1A",
+    "1",
+    "2",
+    "3",
+    "4",
+    "5",
+    "6",
+    "7",
+    "8",
+    "9",
+    "10",
+    "11",
+    "12",
+    "13",
+    "14",
+    "15",
+    "16",
+    "17",
+    "18",
+    "19",
+    "20",
+    "21",
+    "22",
+    "23",
+    "24",
+    "25",
+    "26",
+    "27",
+    "28",
+    "29",
+    "30",
+    "31",
+    "32",
+    "33",
+    "34",
+    "35",
+    "36",
+    "37",
+    "38",
+    "39",
+    "42",
+    "43",
+    "44",
+    "45",
+    "46",
+    "47",
+    "48",
+    "49",
+    "50",
+    "51",
+    "52",
+    "53",
+    "54",
+    "55",
+    "56",
+    "57",
+    "58",
+    "59",
+    "60",
+    "61",
+    "61A",
+    "61B",
+    "62",
+    "63",
+    "64",
+    "65",
+    "66",
+    "67",
+    "68",
+    "69",
+    "70",
+    "71",
+    "72",
+    "72A",
+    "73",
+    "74",
+    "75",
+    "76",
+    "77",
+    "78",
+    "79",
+    "80",
+    "81",
+    "82",
+    "83",
+    "84",
+    "85",
+    "86",
+    "87",
+    "88",
+    "89",
+    "90"
+   ],
+   "insert_labels": {
+    "0": [
+     "1J",
+     "1I",
+     "1H",
+     "1G",
+     "1F"
+    ],
+    "12": [
+     "7A"
+    ],
+    "44": [
+     "40",
+     "41"
+    ],
+    "52": [
+     "49A",
+     "49B",
+     "49C",
+     "49D",
+     "49E",
+     "49F",
+     "49G"
+    ],
+    "57": [
+     "54A",
+     "54B",
+     "54C"
+    ],
+    "96": [
+     "91",
+     "92",
+     "93",
+     "94",
+     "95",
+     "96",
+     "97"
+    ]
+   },
+   "loop_canon": {
+    "2|3": {
+     "0": []
+    },
+    "3|4": {
+     "0": []
+    },
+    "4|5": {
+     "0": []
+    },
+    "5|6": {
+     "0": []
+    },
+    "6|7": {
+     "0": []
+    },
+    "7|8": {
+     "0": []
+    },
+    "8|9": {
+     "0": []
+    },
+    "9|10": {
+     "0": []
+    },
+    "10|11": {
+     "0": []
+    },
+    "11|12": {
+     "0": []
+    },
+    "12|13": {
+     "0": []
+    },
+    "13|14": {
+     "0": []
+    },
+    "14|15": {
+     "0": []
+    },
+    "15|16": {
+     "0": []
+    },
+    "16|17": {
+     "0": []
+    },
+    "17|18": {
+     "0": []
+    },
+    "18|19": {
+     "0": []
+    },
+    "19|20": {
+     "0": []
+    },
+    "20|21": {
+     "0": []
+    },
+    "21|22": {
+     "0": []
+    },
+    "22|23": {
+     "0": []
+    },
+    "23|24": {
+     "0": []
+    },
+    "24|25": {
+     "0": []
+    },
+    "25|26": {
+     "0": []
+    },
+    "26|27": {
+     "0": []
+    },
+    "27|28": {
+     "0": []
+    },
+    "28|29": {
+     "0": []
+    },
+    "29|30": {
+     "0": []
+    },
+    "30|31": {
+     "0": []
+    },
+    "31|32": {
+     "0": []
+    },
+    "32|33": {
+     "0": []
+    },
+    "33|34": {
+     "0": []
+    },
+    "34|35": {
+     "0": []
+    },
+    "35|36": {
+     "0": []
+    },
+    "36|37": {
+     "0": []
+    },
+    "37|38": {
+     "0": []
+    },
+    "38|39": {
+     "0": []
+    },
+    "39|42": {
+     "0": []
+    },
+    "42|43": {
+     "0": []
+    },
+    "43|44": {
+     "0": []
+    },
+    "44|45": {
+     "0": []
+    },
+    "45|46": {
+     "0": []
+    },
+    "46|47": {
+     "0": []
+    },
+    "47|48": {
+     "0": []
+    },
+    "48|49": {
+     "0": []
+    },
+    "49|50": {
+     "0": [],
+     "4": [
+      "49A",
+      "49B",
+      "49C",
+      "49D"
+     ]
+    },
+    "50|51": {
+     "0": []
+    },
+    "51|52": {
+     "0": []
+    },
+    "52|53": {
+     "0": []
+    },
+    "53|54": {
+     "0": []
+    },
+    "54|55": {
+     "0": []
+    },
+    "55|56": {
+     "0": []
+    },
+    "56|57": {
+     "0": []
+    },
+    "57|58": {
+     "0": []
+    },
+    "58|59": {
+     "0": []
+    },
+    "59|60": {
+     "0": []
+    },
+    "60|61": {
+     "0": []
+    },
+    "61|61A": {
+     "0": []
+    },
+    "61A|63": {
+     "2": [
+      "61B",
+      "62"
+     ],
+     "0": []
+    },
+    "63|64": {
+     "0": []
+    },
+    "64|65": {
+     "0": []
+    },
+    "65|66": {
+     "0": []
+    },
+    "66|67": {
+     "0": []
+    },
+    "67|68": {
+     "0": []
+    },
+    "68|69": {
+     "0": []
+    },
+    "69|70": {
+     "0": []
+    },
+    "70|71": {
+     "0": []
+    },
+    "71|72": {
+     "0": []
+    },
+    "72|72A": {
+     "0": []
+    },
+    "72A|73": {
+     "0": []
+    },
+    "73|74": {
+     "0": []
+    },
+    "74|75": {
+     "0": []
+    },
+    "75|76": {
+     "0": []
+    },
+    "76|77": {
+     "0": []
+    },
+    "77|78": {
+     "0": []
+    },
+    "78|79": {
+     "0": []
+    },
+    "79|80": {
+     "0": []
+    },
+    "80|81": {
+     "0": []
+    },
+    "81|82": {
+     "0": []
+    },
+    "82|83": {
+     "0": []
+    },
+    "83|84": {
+     "0": []
+    },
+    "84|85": {
+     "0": []
+    },
+    "85|86": {
+     "0": []
+    },
+    "86|87": {
+     "0": []
+    },
+    "87|88": {
+     "0": []
+    },
+    "88|89": {
+     "0": []
+    }
+   }
+  }
+ }
+}
